@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061694119249129784",
+    "created_at": "2026-06-02T06:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061696077578084661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617812832464297984",
+          "start": 0,
+          "username": "LTLkindred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061696077578084661",
+    "in_reply_to_user_id": "1617812832464297984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061695158341791752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTLkindred 我哭了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061694119249129784",
+        "created_at": "2026-06-02T06:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061696077578084661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617812832464297984",
+              "start": 0,
+              "username": "LTLkindred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061696077578084661",
+        "in_reply_to_user_id": "1617812832464297984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061695158341791752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTLkindred 我哭了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617812832464297984",
+        "conversation_id": "2061694119249129784",
+        "created_at": "2026-06-02T06:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061695158341791752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061695158341791752",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061694119249129784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 糯米坏掉惹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 607,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 782
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T09:14:14.000Z",
+        "description": "//深宅家中//时常陷入抑郁 //性别未知        \n喜爱玩游戏🎮（经常不知道玩什么 讨厌腾讯\n//喜欢❤️一切可爱的事物 (ૢ˃ꌂ˂⁎)   //oder💊        \n梦想有一天突然考入心仪的学校\n//ASD（聊天能力欠缺）INTP，INFP随机转化//缺爱💔（想要姐姐妹妹）//",
+        "id": "1617812832464297984",
+        "name": "LTLkindred",
+        "pinned_tweet_id": "2028890908905885823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024260517905436672/OWpIdUho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 189
+        },
+        "username": "LTLkindred",
+        "verified": false
+      }
+    ]
+  }
+}

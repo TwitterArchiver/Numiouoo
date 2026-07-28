@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2071433757748322480",
+    "created_at": "2026-06-29T04:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071457603725783520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061831120292020225",
+          "start": 0,
+          "username": "ElonloveDEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071457603725783520",
+    "in_reply_to_user_id": "2061831120292020225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071433757748322480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElonloveDEA 中国人均亲妈爱中药符水 我不行了好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2071433757748322480",
+        "created_at": "2026-06-29T04:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071457603725783520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061831120292020225",
+              "start": 0,
+              "username": "ElonloveDEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071457603725783520",
+        "in_reply_to_user_id": "2061831120292020225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071433757748322480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonloveDEA 中国人均亲妈爱中药符水 我不行了好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2071433757748322480",
+        "created_at": "2026-06-29T03:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071433757748322480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071433757748322480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上被快递电话吵醒 睡眠剥夺加上抗抑郁药让我迷迷糊糊的像活在梦里 开门拿快递结果晕的感觉要世界末日了，生物妈马上开始怪我说 叫你吃中药你不吃 意思就是我现在这样子都是因为没有听她的吃中药补气血，没有听她的去山上求神拜佛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 924,
+          "like_count": 3034,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 2268
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "location": "Edmonton, Alberta",
+        "name": "VVV3.0",
+        "pinned_tweet_id": "2061832974522581286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070953339584438273/g0Z5NyX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 154,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "ElonloveDEA",
+        "verified": false
+      }
+    ]
+  }
+}

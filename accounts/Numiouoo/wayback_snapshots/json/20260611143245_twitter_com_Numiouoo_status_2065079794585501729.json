@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065074458755535236",
+    "created_at": "2026-06-11T14:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065079794585501729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713390803438170112",
+          "start": 0,
+          "username": "0711C1mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065079794585501729",
+    "in_reply_to_user_id": "1713390803438170112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065074458755535236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0711C1mo 给我刷到好的了，幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065074350366314496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKieLjBa0AAenir.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065074458755535236",
+        "created_at": "2026-06-11T14:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065079794585501729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713390803438170112",
+              "start": 0,
+              "username": "0711C1mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065079794585501729",
+        "in_reply_to_user_id": "1713390803438170112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065074458755535236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0711C1mo 给我刷到好的了，幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065074350366314496"
+          ]
+        },
+        "author_id": "1713390803438170112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065074458755535236",
+        "created_at": "2026-06-11T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065074458755535236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBtfKxaj8U",
+              "end": 30,
+              "expanded_url": "https://x.com/0711C1mo/status/2065074458755535236/photo/1",
+              "media_key": "3_2065074350366314496",
+              "start": 7,
+              "url": "https://t.co/lBtfKxaj8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065074458755535236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前拍的雪兔 https://t.co/lBtfKxaj8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 850,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1513
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T03:06:27.000Z",
+        "description": "自伤 sub/m 展示一些“作品”和碎碎念 同类互fo",
+        "id": "1713390803438170112",
+        "location": "⚰️",
+        "name": "今",
+        "pinned_tweet_id": "2025223056004641212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025230355943309313/5ZEuJa5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 150,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 559
+        },
+        "username": "0711C1mo",
+        "verified": false
+      }
+    ]
+  }
+}

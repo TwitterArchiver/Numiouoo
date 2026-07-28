@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070888942896128388",
+    "created_at": "2026-06-27T16:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070902307840254141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056806554150883328",
+          "start": 0,
+          "username": "yezhiram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070902307840254141",
+    "in_reply_to_user_id": "2056806554150883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070896261675290833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezhiram 啊啊啊啊啊啊啊学习好心态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-27T16:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070902307840254141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056806554150883328",
+              "start": 0,
+              "username": "yezhiram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070902307840254141",
+        "in_reply_to_user_id": "2056806554150883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070896261675290833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezhiram 啊啊啊啊啊啊啊学习好心态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056806554150883328",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-27T15:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070896261675290833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070896261675290833",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070888942896128388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我之前也很怕鬼，但是现在随性的性格，让我就算见了鬼也想戏弄一番，反正我的命没啥价值，找个乐子还是不错的，就像我会捉弄诈骗电话一样。不过还是不要看见鬼图为好，会掉san值的…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 923,
+          "like_count": 2915,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2218
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T18:40:34.000Z",
+        "description": "夏日终章的斜阳，积雨云与聒噪的蝉鸣作伴。\n我想就这样，永远沉溺在这夏日的无尽热量。",
+        "id": "2056806554150883328",
+        "name": "夜風汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057084474110750721/zBH_JtRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "yezhiram",
+        "verified": false
+      }
+    ]
+  }
+}

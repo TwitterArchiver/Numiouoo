@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2075319219051487528",
+    "created_at": "2026-07-10T06:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075463353183728037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        },
+        {
+          "end": 23,
+          "id": "2046538614209994752",
+          "start": 9,
+          "username": "overdose7days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075463353183728037",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075438981467246953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 @overdose7days 🥺🥺🥰嘿嘿 能共进退是最好的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2075319219051487528",
+        "created_at": "2026-07-10T06:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075463353183728037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            },
+            {
+              "end": 23,
+              "id": "2046538614209994752",
+              "start": 9,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075463353183728037",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075438981467246953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 @overdose7days 🥺🥺🥰嘿嘿 能共进退是最好的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2075319219051487528",
+        "created_at": "2026-07-10T04:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075438981467246953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 24,
+              "id": "2046538614209994752",
+              "start": 10,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075438981467246953",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075413603117871458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @overdose7days 好卡😇，既能陪你一起上进，又能陪你一起堕落的人，才会是那个对的人。最重要的是让自己变成那个对的人，说到底，所有最后能走到一起的，本来就是一类人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 962,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "你看我时很近\n另一个我@Sinclair0427",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "Sinclair0427"
+              }
+            ]
+          }
+        },
+        "id": "2047155443613704192",
+        "location": "嫉妒",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 16,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 102,
+          "like_count": 6375,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

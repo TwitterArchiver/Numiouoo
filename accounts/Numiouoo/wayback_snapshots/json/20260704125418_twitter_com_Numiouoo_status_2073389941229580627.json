@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073389941229580627",
+    "created_at": "2026-07-04T12:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073389941229580627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nauseous_17/st…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/nauseous_17/status/2073387123085046041",
+          "start": 54,
+          "url": "https://t.co/msN3QD8Mpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073389941229580627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073387123085046041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我也想说这个的 被抢先一步\n大家谁经常跟我互动的十七没回fo你们的话喊我！！我夺舍17去fo你们👅👅👅 https://t.co/msN3QD8Mpe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073389941229580627",
+        "created_at": "2026-07-04T12:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073389941229580627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nauseous_17/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/nauseous_17/status/2073387123085046041",
+              "start": 54,
+              "url": "https://t.co/msN3QD8Mpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073389941229580627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073387123085046041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我也想说这个的 被抢先一步\n大家谁经常跟我互动的十七没回fo你们的话喊我！！我夺舍17去fo你们👅👅👅 https://t.co/msN3QD8Mpe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073387123085046041",
+        "created_at": "2026-07-04T12:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073387123085046041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2057729979677548544",
+              "start": 8,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073387123085046041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个…窝想和糯米@Numiouoo的互fo来互fo 可以吗🥺可以吗🥺\n我看到很多糯米的互fo没有关注我 我想和你们交朋友🥺\n任何人给我这条帖子评论吱一声 我都fo 大号解封也拿大号fo 快来互fo好嘛好嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 950,
+          "like_count": 3258,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2473
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 92,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      }
+    ]
+  }
+}

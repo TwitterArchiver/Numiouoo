@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068410057876963499",
+    "created_at": "2026-06-21T06:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068581973107585082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1722929678128984064",
+          "start": 0,
+          "username": "GuXiaoYue_2144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068581973107585082",
+    "in_reply_to_user_id": "1722929678128984064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068418610654331202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuXiaoYue_2144 好啊好啊呜呜呜你也是要好好的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068410057876963499",
+        "created_at": "2026-06-21T06:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068581973107585082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722929678128984064",
+              "start": 0,
+              "username": "GuXiaoYue_2144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581973107585082",
+        "in_reply_to_user_id": "1722929678128984064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068418610654331202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuXiaoYue_2144 好啊好啊呜呜呜你也是要好好的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722929678128984064",
+        "conversation_id": "2068410057876963499",
+        "created_at": "2026-06-20T19:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068418610654331202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068418610654331202",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068410057876963499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 你们好萌啊TT要好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 915,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T10:52:14.000Z",
+        "description": "『水母沒有心臟。你知道嗎？牠們沒有心臟，沒有腦，沒有骨頭。可是牠們活得好好的。好羨慕。』\n\n小未✦跳樓✦小月\n\n繁/簡中",
+        "id": "1722929678128984064",
+        "name": "未星07r9_",
+        "pinned_tweet_id": "2013929747357610268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055951344490688514/OMn_7t6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 290,
+          "like_count": 9874,
+          "listed_count": 2,
+          "media_count": 639,
+          "tweet_count": 6990
+        },
+        "url": "",
+        "username": "GuXiaoYue_2144",
+        "verified": false
+      }
+    ]
+  }
+}

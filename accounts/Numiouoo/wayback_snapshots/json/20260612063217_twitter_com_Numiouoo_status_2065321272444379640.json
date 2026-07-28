@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065290320485732742",
+    "created_at": "2026-06-12T06:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065321272444379640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587848154921111552",
+          "start": 0,
+          "username": "haiA_0001"
+        },
+        {
+          "end": 20,
+          "id": "1171658344861511682",
+          "start": 11,
+          "username": "Qslhxw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065321272444379640",
+    "in_reply_to_user_id": "1587848154921111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065319799203484125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiA_0001 @Qslhxw77 是的˶&gt;ᗜ&lt;˶他死了之后我才开始慢慢夺回我的人生，晚上他吃着饭会突然发作癫痫真.口吐白沫，早上一醒来又是闪灵刀人画面，我躲在厕所里哭着打电话说我爸要把我妈杀了，场面十分drama！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065290320485732742",
+        "created_at": "2026-06-12T06:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065321272444379640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587848154921111552",
+              "start": 0,
+              "username": "haiA_0001"
+            },
+            {
+              "end": 20,
+              "id": "1171658344861511682",
+              "start": 11,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065321272444379640",
+        "in_reply_to_user_id": "1587848154921111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065319799203484125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiA_0001 @Qslhxw77 是的˶&gt;ᗜ&lt;˶他死了之后我才开始慢慢夺回我的人生，晚上他吃着饭会突然发作癫痫真.口吐白沫，早上一醒来又是闪灵刀人画面，我躲在厕所里哭着打电话说我爸要把我妈杀了，场面十分drama！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587848154921111552",
+        "conversation_id": "2065290320485732742",
+        "created_at": "2026-06-12T06:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065319799203484125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 19,
+              "id": "1171658344861511682",
+              "start": 10,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065319799203484125",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065319358411546793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @Qslhxw77 他还是继续进去吧…被放出来给糯米添堵故意的吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 853,
+          "like_count": 2142,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1542
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T16:45:41.000Z",
+        "description": "洼地毒瘴受害者｜自闭的人矿耗材｜一颗不怎么安份的螺丝钉｜因为痛苦而产生疑惑｜因为不解而寻找答案｜向往自由",
+        "id": "1587848154921111552",
+        "name": "愣神的我",
+        "pinned_tweet_id": "2013881780982493379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004467005324423168/EferUXDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 1310,
+          "like_count": 10105,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 5145
+        },
+        "username": "haiA_0001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-782-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031108261014024197/KWrNJISV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 308,
+          "like_count": 3479,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 418
+        },
+        "username": "Qslhxw77",
+        "verified": false
+      }
+    ]
+  }
+}

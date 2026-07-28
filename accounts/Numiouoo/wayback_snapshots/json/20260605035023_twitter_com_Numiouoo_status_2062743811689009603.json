@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062550087717597285",
+    "created_at": "2026-06-05T03:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062743811689009603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848787157739057152",
+          "start": 0,
+          "username": "cjy220630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062743811689009603",
+    "in_reply_to_user_id": "1848787157739057152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062720373251318120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjy220630 我哭了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062550087717597285",
+        "created_at": "2026-06-05T03:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062743811689009603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848787157739057152",
+              "start": 0,
+              "username": "cjy220630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062743811689009603",
+        "in_reply_to_user_id": "1848787157739057152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062720373251318120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjy220630 我哭了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848787157739057152",
+        "conversation_id": "2062550087717597285",
+        "created_at": "2026-06-05T02:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062720373251318120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062720373251318120",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550087717597285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 那没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 674,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1033
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T18:03:12.000Z",
+        "description": "Les,娘t,coser,可以为爱做h的黑长直暗根系地雷女！！剑网三/FS1/偶尔农药。擅长写h文，吐槽，锐评，骂人专业户！骚扰前先看看你是哪根儿小豆芽😅",
+        "id": "1848787157739057152",
+        "location": "冷龙峰",
+        "name": "炒鸡棒炮萝🐖",
+        "pinned_tweet_id": "1964962660514168935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962701409444622336/zDG7f57i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 108,
+          "like_count": 3038,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1559
+        },
+        "username": "cjy220630",
+        "verified": false
+      }
+    ]
+  }
+}

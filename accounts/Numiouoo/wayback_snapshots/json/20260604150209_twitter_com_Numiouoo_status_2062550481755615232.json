@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062440979861508443",
+    "created_at": "2026-06-04T15:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062550481755615232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039188116443947009",
+          "start": 0,
+          "username": "xichangan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062550481755615232",
+    "in_reply_to_user_id": "2039188116443947009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535322311999617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichangan8964 嘻嘻好耶！贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062440979861508443",
+        "created_at": "2026-06-04T15:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062550481755615232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039188116443947009",
+              "start": 0,
+              "username": "xichangan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062550481755615232",
+        "in_reply_to_user_id": "2039188116443947009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535322311999617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichangan8964 嘻嘻好耶！贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039188116443947009",
+        "conversation_id": "2062440979861508443",
+        "created_at": "2026-06-04T14:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062535322311999617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062535322311999617",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062440979861508443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 恭喜糯米，虽然不知道祝福什么（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 664,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1003
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T03:49:46.000Z",
+        "description": "左右没有什么绝对，所以绝对超越左右。\n爱人永远留在1995年夏。https://t.co/k4XAsdVZAY\n本号含王沪宁元素极多，似推似梦似公似嬷都无所谓，学术研究也有，史料考究也有，只爱你哦沪宁😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/works/78047201",
+                "end": 55,
+                "expanded_url": "https://archiveofourown.org/works/78047201",
+                "start": 32,
+                "url": "https://t.co/k4XAsdVZAY"
+              }
+            ]
+          }
+        },
+        "id": "2039188116443947009",
+        "location": "中南海某处垃圾桶中",
+        "name": "西长安街右转",
+        "pinned_tweet_id": "2039403921307787527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039310867985313792/ZXUZ_0Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 262,
+          "like_count": 4506,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 2347
+        },
+        "username": "xichangan8964",
+        "verified": false
+      }
+    ]
+  }
+}

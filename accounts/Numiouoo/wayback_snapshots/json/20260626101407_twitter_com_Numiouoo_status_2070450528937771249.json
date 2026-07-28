@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070215281973301559",
+    "created_at": "2026-06-26T10:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070450528937771249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993098158495395840",
+          "start": 0,
+          "username": "kfqnszVKWv91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070450528937771249",
+    "in_reply_to_user_id": "1993098158495395840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070229631844958648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfqnszVKWv91426 全用全用！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070215281973301559",
+        "created_at": "2026-06-26T10:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070450528937771249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993098158495395840",
+              "start": 0,
+              "username": "kfqnszVKWv91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070450528937771249",
+        "in_reply_to_user_id": "1993098158495395840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070229631844958648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfqnszVKWv91426 全用全用！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993098158495395840",
+        "conversation_id": "2070215281973301559",
+        "created_at": "2026-06-25T19:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070229631844958648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070229631844958648",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070215281973301559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 说吧到底要用啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 918,
+          "like_count": 2823,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:23:44.000Z",
+        "description": "焦虑抑郁/泛性恋/💊\n我想追求幸福",
+        "id": "1993098158495395840",
+        "name": "air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046692710976040960/G3P1mnT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 122,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "kfqnszVKWv91426",
+        "verified": false
+      }
+    ]
+  }
+}

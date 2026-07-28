@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058143188834218369",
+    "created_at": "2026-05-23T13:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058180813792202811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766377133558169600",
+          "start": 0,
+          "username": "oxygen_alive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058180813792202811",
+    "in_reply_to_user_id": "1766377133558169600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058176079538671747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxygen_alive 我爱你呀呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058143188834218369",
+        "created_at": "2026-05-23T13:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058180813792202811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766377133558169600",
+              "start": 0,
+              "username": "oxygen_alive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058180813792202811",
+        "in_reply_to_user_id": "1766377133558169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058176079538671747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxygen_alive 我爱你呀呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766377133558169600",
+        "conversation_id": "2058143188834218369",
+        "created_at": "2026-05-23T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058176079538671747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058176079538671747",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058143188834218369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 會一直追隨糯米&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 256,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:15:16.000Z",
+        "description": "謹慎關注｜发的都是负面碎碎念｜我很溫良的｜私信只對互關開放 可以找我聊天的！｜不喜歡和別人爭吵 ｜社恐焦慮抑鬱｜English 普通話 粵語｜泛性戀｜喜愛幻覺 ｜ 🍐🚗🍎| 精神狀態很差 #shwtw ｜🇯🇵🇺🇸🇭🇰🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "shwtw"
+              }
+            ]
+          }
+        },
+        "id": "1766377133558169600",
+        "location": "New York, USA",
+        "name": "夜尸Oxygen",
+        "pinned_tweet_id": "2032122336430952528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982837060957343744/EO8vzeLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 906,
+          "like_count": 19963,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 368
+        },
+        "username": "oxygen_alive",
+        "verified": false
+      }
+    ]
+  }
+}

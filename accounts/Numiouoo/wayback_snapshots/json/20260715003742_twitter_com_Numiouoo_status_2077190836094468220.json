@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2076555722868113486",
+    "created_at": "2026-07-15T00:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077190836094468220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802038770130391040",
+          "start": 0,
+          "username": "Lllll47733Lllll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077190836094468220",
+    "in_reply_to_user_id": "1802038770130391040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077042927315075371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lllll47733Lllll 性瘾之权威"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2076555722868113486",
+        "created_at": "2026-07-15T00:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077190836094468220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802038770130391040",
+              "start": 0,
+              "username": "Lllll47733Lllll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077190836094468220",
+        "in_reply_to_user_id": "1802038770130391040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077042927315075371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lllll47733Lllll 性瘾之权威"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802038770130391040",
+        "conversation_id": "2076555722868113486",
+        "created_at": "2026-07-14T14:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077042927315075371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077042927315075371",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076555722868113486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 972,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2734
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-15T18:01:50.000Z",
+        "description": "=莉莉/小琴键 我患有DID我很容易忘记事情 直fo会看眼缘回 已婚不要打扰我 我认为烟是人类最伟大的发明 靠画画维持生计的底层精神病人 偶尔跑到外网逃避现实",
+        "id": "1802038770130391040",
+        "name": "小百合",
+        "pinned_tweet_id": "1985285367000658416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032281743757312/bO-hNHjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 99,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "Lllll47733Lllll",
+        "verified": false
+      }
+    ]
+  }
+}

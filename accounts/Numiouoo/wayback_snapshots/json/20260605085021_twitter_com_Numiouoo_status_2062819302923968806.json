@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062818223104692570",
+    "created_at": "2026-06-05T08:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062819302923968806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062819302923968806",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062818223104692570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过，在你完全不具备任何知识储备和患病经验的情况下，遵医嘱当然是有必要的。总而言之，谁懂得多谁决定，我病了十多年，我觉得医生已经没有我自己了解我自己了，很多老psycho也是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062818223104692570",
+        "created_at": "2026-06-05T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062819302923968806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062819302923968806",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062818223104692570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过，在你完全不具备任何知识储备和患病经验的情况下，遵医嘱当然是有必要的。总而言之，谁懂得多谁决定，我病了十多年，我觉得医生已经没有我自己了解我自己了，很多老psycho也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062818223104692570",
+        "created_at": "2026-06-05T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062818223104692570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062818223104692570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界范围内，神经/精神领域仍是一场未解之谜，丝毫不亚于星辰宇宙\n我的许多对自我疾病症状的认知判断，不来源于医生而来源于我饱受疾病折磨的朋友，共享给我的经验，久病成医胜于医。\n想要等世界救你有点困难，世界可能迟到或者不到。我们要先救自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 675,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1039
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

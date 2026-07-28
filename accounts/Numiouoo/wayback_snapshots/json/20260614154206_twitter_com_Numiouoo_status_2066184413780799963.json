@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065735819336507802",
+    "created_at": "2026-06-14T15:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066184413780799963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066184413780799963",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066182374405386534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 就是！凭什么非得父母双全！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065735819336507802",
+        "created_at": "2026-06-14T15:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066184413780799963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066184413780799963",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066182374405386534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 就是！凭什么非得父母双全！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820986559694520320",
+        "conversation_id": "2065735819336507802",
+        "created_at": "2026-06-14T15:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066182374405386534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066182374405386534",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065735819336507802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 请给单亲家庭当健全人的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 874,
+          "like_count": 2313,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1740
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜这里好像只有碎碎念｜intp asd｜查成分互fo\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 60,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 37,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52/88",
+        "name": "みず",
+        "pinned_tweet_id": "2064306561414283431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 169,
+          "like_count": 4529,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1415
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

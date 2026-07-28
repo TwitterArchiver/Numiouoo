@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073393581684076544"
+      ]
+    },
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073387123085046041",
+    "created_at": "2026-07-04T13:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073393588046807353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "Nauseous_17"
+        },
+        {
+          "end": 23,
+          "id": "1638959586140098560",
+          "start": 13,
+          "username": "fanwei_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsmfkE7DDU",
+          "end": 52,
+          "expanded_url": "https://x.com/Numiouoo/status/2073393588046807353/photo/1",
+          "media_key": "3_2073393581684076544",
+          "start": 29,
+          "url": "https://t.co/WsmfkE7DDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073393588046807353",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073392396897771654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nauseous_17 @fanwei_17 不像假的 https://t.co/WsmfkE7DDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073393581684076544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYseivasAA_QYd.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073393581684076544"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073387123085046041",
+        "created_at": "2026-07-04T13:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073393588046807353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            },
+            {
+              "end": 23,
+              "id": "1638959586140098560",
+              "start": 13,
+              "username": "fanwei_17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsmfkE7DDU",
+              "end": 52,
+              "expanded_url": "https://x.com/Numiouoo/status/2073393588046807353/photo/1",
+              "media_key": "3_2073393581684076544",
+              "start": 29,
+              "url": "https://t.co/WsmfkE7DDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073393588046807353",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073392396897771654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 @fanwei_17 不像假的 https://t.co/WsmfkE7DDU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073387123085046041",
+        "created_at": "2026-07-04T13:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073392396897771654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073392396897771654",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073390007134617934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @fanwei_17 真的假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 952,
+          "like_count": 3259,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2478
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 93,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 1563,
+          "like_count": 5877,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}

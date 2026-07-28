@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065265346454700401",
+    "created_at": "2026-06-13T10:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065743490294927746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871870968744042497",
+          "start": 0,
+          "username": "MagicDrops_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065743490294927746",
+    "in_reply_to_user_id": "1871870968744042497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065684530472890618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicDrops_Nya 你也可以宝宝！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065265346454700401",
+        "created_at": "2026-06-13T10:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065743490294927746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871870968744042497",
+              "start": 0,
+              "username": "MagicDrops_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065743490294927746",
+        "in_reply_to_user_id": "1871870968744042497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065684530472890618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicDrops_Nya 你也可以宝宝！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871870968744042497",
+        "conversation_id": "2065265346454700401",
+        "created_at": "2026-06-13T06:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065684530472890618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065684530472890618",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065265346454700401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 羡慕小糯米做得到这些🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 860,
+          "like_count": 2236,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1631
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T10:50:15.000Z",
+        "description": "👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️",
+        "id": "1871870968744042497",
+        "name": "🏳️‍⚧️怪味糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044749720531484672/CuXdcLfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 58,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 114
+        },
+        "username": "MagicDrops_Nya",
+        "verified": false
+      }
+    ]
+  }
+}

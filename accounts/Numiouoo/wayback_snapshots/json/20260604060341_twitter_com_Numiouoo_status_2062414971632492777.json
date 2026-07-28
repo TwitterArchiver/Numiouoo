@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062331415996637536",
+    "created_at": "2026-06-04T06:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062414971632492777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012841769105567744",
+          "start": 0,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062414971632492777",
+    "in_reply_to_user_id": "2012841769105567744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062331415996637536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18nuun 没有讨厌你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062331415996637536",
+        "created_at": "2026-06-04T06:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062414971632492777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012841769105567744",
+              "start": 0,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062414971632492777",
+        "in_reply_to_user_id": "2012841769105567744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062331415996637536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18nuun 没有讨厌你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012841769105567744",
+        "conversation_id": "2062331415996637536",
+        "created_at": "2026-06-04T00:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062331415996637536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062331415996637536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 457,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，所有人都讨厌我，最关心的章鱼也讨厌我\n17会以死谢罪的\n对不起，对不起\n可是氯硝西泮不见了\n17会慢慢吃光安眠药的\n对不起\n对不起大家\n\n我再也不会祸害你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 643,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 957
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜永远的爱人@dnshu135734｜大号：@Aureliax17QwQ｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBSPxv"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 52,
+          "like_count": 426,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/zuGwDBSPxv",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

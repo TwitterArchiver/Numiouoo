@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070888942896128388",
+    "created_at": "2026-06-27T17:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070919904946164174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991532007801909248",
+          "start": 0,
+          "username": "wxb202530605113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070919904946164174",
+    "in_reply_to_user_id": "1991532007801909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070904046303719846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb202530605113 额啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-27T17:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070919904946164174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991532007801909248",
+              "start": 0,
+              "username": "wxb202530605113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070919904946164174",
+        "in_reply_to_user_id": "1991532007801909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070904046303719846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb202530605113 额啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991532007801909248",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-27T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070904046303719846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070904046303719846",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070888942896128388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 小学怕鬼，上了初中发现了人比鬼还可怕。\n现在我都想要不要来个鬼跟我唠唠嗑之类的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 920,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2220
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T15:40:17.000Z",
+        "description": "05丨CN丨性别：武装直升机丨种族：猫丨ENTP丨任何消息都会回的，任何。时间可能会长，但一定会回。",
+        "id": "1991532007801909248",
+        "name": "evil_cattttyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060657450282553344/0KesHK5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "wxb202530605113",
+        "verified": false
+      }
+    ]
+  }
+}

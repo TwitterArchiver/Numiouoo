@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073798429164380497",
+    "created_at": "2026-07-05T15:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073798429164380497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vickyisme37rl/…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/vickyisme37rl/status/2073602521457950806",
+          "start": 107,
+          "url": "https://t.co/V2IuGlzob8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073798429164380497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073602521457950806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对原po无恶意仅个人态度，传统的性缘刻板印象几乎霸凌了所有人，对我来说1-4i没有区别只是xp而已，当然我认可很多双/泛性恋都很滥交，但是应该说滥交很多是双/泛，不是双/泛人会滥交。老人变坏跟坏人变老的区别（。） https://t.co/V2IuGlzob8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073798429164380497",
+        "created_at": "2026-07-05T15:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073798429164380497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vickyisme37rl/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/vickyisme37rl/status/2073602521457950806",
+              "start": 107,
+              "url": "https://t.co/V2IuGlzob8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073798429164380497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073602521457950806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对原po无恶意仅个人态度，传统的性缘刻板印象几乎霸凌了所有人，对我来说1-4i没有区别只是xp而已，当然我认可很多双/泛性恋都很滥交，但是应该说滥交很多是双/泛，不是双/泛人会滥交。老人变坏跟坏人变老的区别（。） https://t.co/V2IuGlzob8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051581559183155200",
+        "conversation_id": "2073602521457950806",
+        "created_at": "2026-07-05T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073602521457950806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073602521457950806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 42425,
+          "like_count": 264,
+          "quote_count": 11,
+          "reply_count": 52,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "特别能理解女同为什么接受不了双性恋，换位思考一下我的对象男女都行，我也接受不了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 951,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T08:35:58.000Z",
+        "description": "一个欣赏自己并喜欢拍照的女人",
+        "id": "2051581559183155200",
+        "name": "Madokakkkkka",
+        "pinned_tweet_id": "2073357445762855336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063499665484689408/lTE9GLfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 24,
+          "like_count": 2367,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "VickyisMe37rl",
+        "verified": false
+      }
+    ]
+  }
+}

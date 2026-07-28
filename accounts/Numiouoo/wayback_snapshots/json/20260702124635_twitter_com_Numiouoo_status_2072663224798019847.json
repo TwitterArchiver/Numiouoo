@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2072663224798019847",
+    "created_at": "2026-07-02T12:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072663224798019847"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072663224798019847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近一直在阴雨绵绵。我想起以前阳光璀璨的时候，血清素水平提升，无需迷幻剂 我开着车一路看花草树木 完全陷入了卡通视觉与极度强烈的色彩里，非常梦幻……\n\n我第一次使用4hm的时候就对自己说，我找到了这条路，以后不需要迷幻剂也可以再次抵达，我的感受一直握在我的手中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2072663224798019847",
+        "created_at": "2026-07-02T12:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072663224798019847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072663224798019847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一直在阴雨绵绵。我想起以前阳光璀璨的时候，血清素水平提升，无需迷幻剂 我开着车一路看花草树木 完全陷入了卡通视觉与极度强烈的色彩里，非常梦幻……\n\n我第一次使用4hm的时候就对自己说，我找到了这条路，以后不需要迷幻剂也可以再次抵达，我的感受一直握在我的手中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 940,
+          "like_count": 3181,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2398
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

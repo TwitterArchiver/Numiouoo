@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065634678149894345",
+    "created_at": "2026-06-13T03:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065634678149894345"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065634678149894345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在药圈的影响力不详传染力极强\n纯正疯狗不键政不参与纷争，一心一意专注于散播神经病毒虫狂犬病病毒\n\n不建网站不加墙内不招群组不贩毒不打击，所以我对药圈的推动是0的贡献\n糯米的土地是自由的，大家自由来自由去，我爱大家保护大家珍惜大家，来到这里我就接纳你，不管你是什么立场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065634678149894345",
+        "created_at": "2026-06-13T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065634678149894345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065634678149894345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在药圈的影响力不详传染力极强\n纯正疯狗不键政不参与纷争，一心一意专注于散播神经病毒虫狂犬病病毒\n\n不建网站不加墙内不招群组不贩毒不打击，所以我对药圈的推动是0的贡献\n糯米的土地是自由的，大家自由来自由去，我爱大家保护大家珍惜大家，来到这里我就接纳你，不管你是什么立场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 859,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1617
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

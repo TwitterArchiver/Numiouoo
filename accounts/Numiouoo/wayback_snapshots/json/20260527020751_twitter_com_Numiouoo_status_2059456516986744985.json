@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059218293026898256",
+    "created_at": "2026-05-27T02:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059456516986744985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587848154921111552",
+          "start": 0,
+          "username": "haiA_0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059456516986744985",
+    "in_reply_to_user_id": "1587848154921111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059334759977992369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiA_0001 躁狂大马猴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059218293026898256",
+        "created_at": "2026-05-27T02:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456516986744985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587848154921111552",
+              "start": 0,
+              "username": "haiA_0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456516986744985",
+        "in_reply_to_user_id": "1587848154921111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334759977992369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiA_0001 躁狂大马猴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587848154921111552",
+        "conversation_id": "2059218293026898256",
+        "created_at": "2026-05-26T18:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059334759977992369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059334759977992369",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059218293026898256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 疯猴子糯米已呈现在我脑海里了😆…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 397,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 349
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T16:45:41.000Z",
+        "description": "洼地毒瘴受害者｜自闭的人矿耗材｜一颗不怎么安份的螺丝钉｜因为痛苦而产生疑惑｜因为不解而寻找答案｜向往自由",
+        "id": "1587848154921111552",
+        "name": "愣神的我",
+        "pinned_tweet_id": "2013881780982493379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004467005324423168/EferUXDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1305,
+          "like_count": 9741,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 4979
+        },
+        "username": "haiA_0001",
+        "verified": false
+      }
+    ]
+  }
+}

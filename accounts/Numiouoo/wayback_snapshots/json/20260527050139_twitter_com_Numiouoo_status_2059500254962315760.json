@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058554552752943159",
+    "created_at": "2026-05-27T05:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059500254962315760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812188006058471424",
+          "start": 0,
+          "username": "xioyyyy979320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059500254962315760",
+    "in_reply_to_user_id": "1812188006058471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059191757942972764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyyyy979320 哼哼哼哼（走来走去）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058554552752943159",
+        "created_at": "2026-05-27T05:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059500254962315760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812188006058471424",
+              "start": 0,
+              "username": "xioyyyy979320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059500254962315760",
+        "in_reply_to_user_id": "1812188006058471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059191757942972764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyyyy979320 哼哼哼哼（走来走去）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812188006058471424",
+        "conversation_id": "2058554552752943159",
+        "created_at": "2026-05-26T08:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059191757942972764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059191757942972764",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058554552752943159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 唯一抑制暴怒大罪 ヘ(_ _ヘ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 404,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 386
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:11:28.000Z",
+        "description": "黎禾",
+        "id": "1812188006058471424",
+        "name": "liher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999102088903905280/MyA142m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 4940,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 443
+        },
+        "username": "xioyyyy979320",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-07T14:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063626724236243277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493513644981858308",
+          "start": 0,
+          "username": "SereStiDaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063626724236243277",
+    "in_reply_to_user_id": "1493513644981858308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063625033235456084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SereStiDaze 哇！稳定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T14:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063626724236243277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493513644981858308",
+              "start": 0,
+              "username": "SereStiDaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063626724236243277",
+        "in_reply_to_user_id": "1493513644981858308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063625033235456084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SereStiDaze 哇！稳定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493513644981858308",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T14:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063625033235456084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063625033235456084",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607575619440661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我两年前infp现在还是infp…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 737,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1206
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T09:13:05.000Z",
+        "description": "瑟蕾斯蒂 🌸 | 平和呆呆的普通人\n高中在校生😂 | 反应慢、爱发呆、说话平和\n喜欢看游戏解说、听都市怪谈、刷各种音乐\n游戏杂玩、主打FPS（菜是菜，但玩得开心）\n想安安静静过日子～\n没看到私信请在评论区提醒我",
+        "id": "1493513644981858308",
+        "location": "请点此输入文本",
+        "name": "瑟蕾斯蒂",
+        "pinned_tweet_id": "2061493099168416075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063575535968813056/RiOIj0K-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 37
+        },
+        "username": "SereStiDaze",
+        "verified": false
+      }
+    ]
+  }
+}

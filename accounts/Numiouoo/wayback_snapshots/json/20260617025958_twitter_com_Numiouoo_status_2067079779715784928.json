@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066810968534094264",
+    "created_at": "2026-06-17T02:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067079779715784928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062461084905394176",
+          "start": 0,
+          "username": "siyangyunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067079779715784928",
+    "in_reply_to_user_id": "2062461084905394176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067074691660161067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyangyunyun 呜呜呜果然是被gban了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067074681824591872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-5eKZbwAAMCR3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-17T02:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067079779715784928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062461084905394176",
+              "start": 0,
+              "username": "siyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067079779715784928",
+        "in_reply_to_user_id": "2062461084905394176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067074691660161067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyangyunyun 呜呜呜果然是被gban了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067074681824591872"
+          ]
+        },
+        "author_id": "2062461084905394176",
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-17T02:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067074691660161067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lv9NWinjp",
+              "end": 51,
+              "expanded_url": "https://x.com/siyangyunyun/status/2067074691660161067/photo/1",
+              "media_key": "3_2067074681824591872",
+              "start": 28,
+              "url": "https://t.co/9lv9NWinjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067074691660161067",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066811771902697576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 好我也半看不到了（虽然展示在主页） https://t.co/9lv9NWinjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 889,
+          "like_count": 2409,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1856
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T09:08:15.000Z",
+        "description": "oder💊丨自伤🚬丨友所有圈子的正常人🥰\n关注下这个可爱宝宝：@sanyangyunyun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "sanyangyunyun"
+              }
+            ]
+          }
+        },
+        "id": "2062461084905394176",
+        "name": "云智风乃2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461651568447488/jjWtewzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "siyangyunyun",
+        "verified": false
+      }
+    ]
+  }
+}

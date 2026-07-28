@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067627000764973188",
+    "created_at": "2026-06-20T19:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068410845923832054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046967144798121984",
+          "start": 0,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068410845923832054",
+    "in_reply_to_user_id": "2046967144798121984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068258355827876262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristinai1b 呀咪呀咪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-20T19:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068410845923832054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046967144798121984",
+              "start": 0,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068410845923832054",
+        "in_reply_to_user_id": "2046967144798121984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068258355827876262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristinai1b 呀咪呀咪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046967144798121984",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-20T09:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068258355827876262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068258355827876262",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067627000764973188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 太好吃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 914,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2018
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的！女网友全肯定！我平等爱着世界上所有人。我发誓小绮真的是天使^^",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "pinned_tweet_id": "2064543442848583785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 307,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}

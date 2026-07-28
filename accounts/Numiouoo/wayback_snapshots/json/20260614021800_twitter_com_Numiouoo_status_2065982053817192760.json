@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065982046871420928"
+      ]
+    },
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065982053817192760",
+    "created_at": "2026-06-14T02:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065982053817192760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/scYXsDT1aM",
+          "end": 97,
+          "expanded_url": "https://x.com/Numiouoo/status/2065982053817192760/photo/1",
+          "media_key": "3_2065982046871420928",
+          "start": 74,
+          "url": "https://t.co/scYXsDT1aM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065982053817192760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本米的主体性就是强到爆炸，每次别人跟我玩什么巧言令色虚与委蛇我直接拆穿，跟我搁这搁这的无聊死了（图是我训狗日常 我对互关很温良放心喵不会那么凶！） https://t.co/scYXsDT1aM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_2065982046871420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvXucAbAAACHiT.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065982046871420928"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065982053817192760",
+        "created_at": "2026-06-14T02:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065982053817192760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scYXsDT1aM",
+              "end": 97,
+              "expanded_url": "https://x.com/Numiouoo/status/2065982053817192760/photo/1",
+              "media_key": "3_2065982046871420928",
+              "start": 74,
+              "url": "https://t.co/scYXsDT1aM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065982053817192760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本米的主体性就是强到爆炸，每次别人跟我玩什么巧言令色虚与委蛇我直接拆穿，跟我搁这搁这的无聊死了（图是我训狗日常 我对互关很温良放心喵不会那么凶！） https://t.co/scYXsDT1aM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 865,
+          "like_count": 2283,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1689
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066810968534094264",
+    "created_at": "2026-06-17T17:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067293513809908158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        },
+        {
+          "end": 27,
+          "id": "1638959586140098560",
+          "start": 12,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067293513809908158",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067147264930599257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 @jiuyouforwhite 爱你哟！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-17T17:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067293513809908158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            },
+            {
+              "end": 27,
+              "id": "1638959586140098560",
+              "start": 12,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067293513809908158",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067147264930599257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 @jiuyouforwhite 爱你哟！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053892249851998208",
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-17T07:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067147264930599257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067147264930599257",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066810968534094264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @jiuyouforwhite wdf太甜了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 895,
+          "like_count": 2414,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1894
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "hi可以叫我夏美💟08|infp|双相|ADHD|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|我推 水上由岐 曾根美雪 祢豆子|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 135,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 112,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "name": "众生蒙太奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 117,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 531
+        },
+        "username": "iiq1427276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 1537,
+          "like_count": 5386,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 2417
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

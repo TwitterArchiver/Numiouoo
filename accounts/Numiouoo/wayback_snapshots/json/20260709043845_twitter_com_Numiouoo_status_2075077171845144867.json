@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074726248996319690",
+    "created_at": "2026-07-09T04:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075077171845144867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896710172896358400",
+          "start": 0,
+          "username": "mzmbbblue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075077171845144867",
+    "in_reply_to_user_id": "1896710172896358400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075069647632920878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmbbblue 是的 我们承认它且爱它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074726248996319690",
+        "created_at": "2026-07-09T04:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077171845144867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896710172896358400",
+              "start": 0,
+              "username": "mzmbbblue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077171845144867",
+        "in_reply_to_user_id": "1896710172896358400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075069647632920878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmbbblue 是的 我们承认它且爱它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896710172896358400",
+        "conversation_id": "2074726248996319690",
+        "created_at": "2026-07-09T04:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075069647632920878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075069647632920878",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074726248996319690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 对 这也是我的一部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 960,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T23:52:08.000Z",
+        "description": "普通死宅\n不卖图包没有露点\n感谢喜欢 请善用拉黑谢谢\n有口令红包的话真是红豆泥阿里嘎多",
+        "id": "1896710172896358400",
+        "location": "🚪88",
+        "name": "藍",
+        "pinned_tweet_id": "1985585572057063442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075073608402251776/zg9PUk7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 54,
+          "like_count": 4730,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "mzmbbblue",
+        "verified": false
+      }
+    ]
+  }
+}

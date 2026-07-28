@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058614257022095710",
+    "created_at": "2026-05-25T04:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058773262486942018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747213446911922176",
+          "start": 0,
+          "username": "ura_samuko"
+        },
+        {
+          "end": 28,
+          "id": "94999172",
+          "start": 18,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058773262486942018",
+    "in_reply_to_user_id": "747213446911922176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058773048048898500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ura_samuko 我是糯米！！@toukorina 这个才是饼！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058614257022095710",
+        "created_at": "2026-05-25T04:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058773262486942018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747213446911922176",
+              "start": 0,
+              "username": "ura_samuko"
+            },
+            {
+              "end": 28,
+              "id": "94999172",
+              "start": 18,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058773262486942018",
+        "in_reply_to_user_id": "747213446911922176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058773048048898500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ura_samuko 我是糯米！！@toukorina 这个才是饼！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747213446911922176",
+        "conversation_id": "2058614257022095710",
+        "created_at": "2026-05-25T04:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058773048048898500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058773048048898500",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058614257022095710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 饼饼剧烈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 318,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 233
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T23:42:23.000Z",
+        "description": "雑多な、絵を描く。本垢に @TamikoTomorika \n苦楽無凡、言葉遣い荒く。\n自分わ抱きしめたい(笑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "747213446911922176",
+        "name": "さむ",
+        "pinned_tweet_id": "1985487275946623149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985460011695554567/-2Ush8Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 182,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 298
+        },
+        "username": "ura_samuko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7349,
+          "following_count": 939,
+          "like_count": 171690,
+          "listed_count": 17,
+          "media_count": 1501,
+          "tweet_count": 43627
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064205630777495558",
+    "created_at": "2026-06-09T15:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064366523075235945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838442121222668288",
+          "start": 0,
+          "username": "myxing2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064366523075235945",
+    "in_reply_to_user_id": "1838442121222668288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064366365453213848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myxing2024 行的 满意了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064205630777495558",
+        "created_at": "2026-06-09T15:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064366523075235945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838442121222668288",
+              "start": 0,
+              "username": "myxing2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064366523075235945",
+        "in_reply_to_user_id": "1838442121222668288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064366365453213848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myxing2024 行的 满意了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838442121222668288",
+        "conversation_id": "2064205630777495558",
+        "created_at": "2026-06-09T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064366365453213848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064366365453213848",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205630777495558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病sex&drug&SH激推🩵想和主页有原创内容的同类fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 833,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1417
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:55:54.000Z",
+        "description": "双相/自伤🔪🩸/OD💊/记忆力很差/生产日期:2010.9.8",
+        "id": "1838442121222668288",
+        "location": "日本",
+        "name": "煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293009350909952/oOiCqG2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 155,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 328
+        },
+        "username": "myxing2024",
+        "verified": false
+      }
+    ]
+  }
+}

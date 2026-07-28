@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068846228692234384",
+    "created_at": "2026-06-22T04:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068919155320111491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988187586339467264",
+          "start": 0,
+          "username": "Air_Yukiha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068919155320111491",
+    "in_reply_to_user_id": "1988187586339467264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068846228692234384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Air_Yukiha 加油小翼！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068846228692234384",
+        "created_at": "2026-06-22T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068919155320111491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068919155320111491",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068846228692234384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 加油小翼！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988187586339467264",
+        "conversation_id": "2068846228692234384",
+        "created_at": "2026-06-21T23:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068846228692234384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068846228692234384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困呀…祝我考试顺利喵\n等回家直接晕倒在床上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 916,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 401,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

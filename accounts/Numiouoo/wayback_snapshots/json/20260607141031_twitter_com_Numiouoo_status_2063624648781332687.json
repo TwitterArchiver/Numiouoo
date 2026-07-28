@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-07T14:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063624648781332687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650485775631527937",
+          "start": 0,
+          "username": "idkwhereimi_wtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063624648781332687",
+    "in_reply_to_user_id": "1650485775631527937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063617739928048011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idkwhereimi_wtf ok啊！卧槽SSR罕见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063624648781332687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650485775631527937",
+              "start": 0,
+              "username": "idkwhereimi_wtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063624648781332687",
+        "in_reply_to_user_id": "1650485775631527937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063617739928048011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idkwhereimi_wtf ok啊！卧槽SSR罕见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650485775631527937",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T13:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063617739928048011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617739928048011",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607575619440661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo intj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 736,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1201
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T13:04:22.000Z",
+        "description": "Erik-dsbm-nsbm-rock-shtwt-drugtwt-🌏",
+        "id": "1650485775631527937",
+        "location": "65m",
+        "name": "погружение",
+        "pinned_tweet_id": "2063391242839638262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063391716737269760/e-lolrya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 68,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "idkwhereimi_wtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2071099014070804978",
+    "created_at": "2026-06-28T10:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071173856245780616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 21,
+          "id": "1922389433510461442",
+          "start": 14,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071173856245780616",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071101509333561845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 @RieXwX 我去 我大约十年前磕的药物还有出道的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2071099014070804978",
+        "created_at": "2026-06-28T10:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071173856245780616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 21,
+              "id": "1922389433510461442",
+              "start": 14,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071173856245780616",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071101509333561845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @RieXwX 我去 我大约十年前磕的药物还有出道的一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071099014070804978",
+        "created_at": "2026-06-28T05:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071101509333561845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922389433510461442",
+              "start": 0,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071101509333561845",
+        "in_reply_to_user_id": "1922389433510461442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 233,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071099014070804978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieXwX 不如去试试托吡酯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 921,
+          "like_count": 2961,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 618,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "愛してるならもっと強く殴って",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9668,
+          "following_count": 52,
+          "like_count": 347,
+          "listed_count": 12,
+          "media_count": 350,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

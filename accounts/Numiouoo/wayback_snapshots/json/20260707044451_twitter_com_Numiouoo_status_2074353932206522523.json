@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074060109664444567",
+    "created_at": "2026-07-07T04:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074353932206522523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074353932206522523",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074066827433726413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 生命不完美才完美🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074060109664444567",
+        "created_at": "2026-07-07T04:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074353932206522523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074353932206522523",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074066827433726413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 生命不完美才完美🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2074060109664444567",
+        "created_at": "2026-07-06T09:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074066827433726413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066827433726413",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们有限的残缺的生命，也许正是我们的幸福之源，如果一切都圆满无缺了，那就不需要那么多的故事，不需要那些深刻和独特的关系了，不需要我们对虚无和荒诞的反抗和斗争了，不需要这个如此丰富多彩的世界了。正是因为我们的残缺，才有我们对圆满和完美的追求，正是因为这种追求的不可能实现，我们的欲望和生存意志才能一直延续下去。我希望我的欲望永不止息，我希望欲望永远也不要彻底满足，让一切永远处在永恒的运作和发展中。圆满无缺的世界是死亡的世界，是寂静的世界，是无的世界。正是因为这个世界的不圆满，这个世界的残缺，才让这个世界的那么多丰富多彩的存在得以可能。我们生命的有限和残缺也许正是我们的幸福之源。\n去拥抱生命的残缺有限和世界的丰富多样吧，\n须知参差多态，乃是幸福之本源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074060109664444567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我们有限的残缺的生命，也许正是我们的幸福之源，如果一切都圆满无缺了，那就不需要那么多的故事，不需要那些深刻和独特的关系了，不需要我们对虚无和荒诞的反抗和斗争了，不需要这个如此丰富多彩的世界了。正是因为我们的残缺，才有我们对圆满和完美的追求，正是因为这种追求的不可能实现，我们的欲望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 956,
+          "like_count": 3343,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "你看我时很近\n另一个我@Sinclair0427",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "Sinclair0427"
+              }
+            ]
+          }
+        },
+        "id": "2047155443613704192",
+        "location": "嫉妒",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": true
+      }
+    ]
+  }
+}

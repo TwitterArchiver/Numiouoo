@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061321449508643320",
+    "created_at": "2026-06-01T07:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061352215571575085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        },
+        {
+          "end": 24,
+          "id": "1638959586140098560",
+          "start": 9,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061352215571575085",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061338297402851580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 @jiuyouforwhite 我哭了其实我一直在催小十七学习 它的高考最重要因为高考只有这几天我们的感情还有很久很久 我希望它的人生不要再变得苦难了 跟我一起活下去吧 活着才能搞破坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061321449508643320",
+        "created_at": "2026-06-01T07:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061352215571575085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            },
+            {
+              "end": 24,
+              "id": "1638959586140098560",
+              "start": 9,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061352215571575085",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061338297402851580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 @jiuyouforwhite 我哭了其实我一直在催小十七学习 它的高考最重要因为高考只有这几天我们的感情还有很久很久 我希望它的人生不要再变得苦难了 跟我一起活下去吧 活着才能搞破坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2061321449508643320",
+        "created_at": "2026-06-01T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061338297402851580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061338297402851580",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061330797228085757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @jiuyouforwhite 我C了，这种关系也太他妈爽了吧，而且十七明明在高考这个人生非常重要的节点时却做和主流的正常的人生背道而驰的事情，在高考的前几天，在这里谈论爱，谈论自由，谈论生命，谈论死亡，不觉得是一件非常美，非常浪漫的事情吗，这样独特深刻的生命和人生，简直太美了，感觉生命中的苦难都变得有意义了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 544,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 735
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "所见即我\n另一个我@Sinclair0427",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Sinclair0427"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demian0427",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demian0427",
+                "start": 0,
+                "url": "https://t.co/gjPFjOE7K5"
+              }
+            ]
+          }
+        },
+        "id": "2047155443613704192",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/gjPFjOE7K5",
+        "username": "dem0427",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 1499,
+          "like_count": 4934,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 2467
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

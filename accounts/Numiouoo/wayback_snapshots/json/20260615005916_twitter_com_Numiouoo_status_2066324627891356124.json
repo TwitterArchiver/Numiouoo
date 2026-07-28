@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065737338555351551",
+    "created_at": "2026-06-15T00:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066324627891356124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937925047458664449",
+          "start": 0,
+          "username": "WiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066324627891356124",
+    "in_reply_to_user_id": "1937925047458664449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066297819213029729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiaAir 好耶！向着爽爽爽前进吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065737338555351551",
+        "created_at": "2026-06-15T00:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066324627891356124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937925047458664449",
+              "start": 0,
+              "username": "WiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066324627891356124",
+        "in_reply_to_user_id": "1937925047458664449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066297819213029729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiaAir 好耶！向着爽爽爽前进吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937925047458664449",
+        "conversation_id": "2065737338555351551",
+        "created_at": "2026-06-14T23:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066297819213029729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066297819213029729",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065737338555351551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 正确的中肯的决定了这就是我以后的座右铭了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 874,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1748
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "=小寒/双/凉席妹/od/精神状态不稳定/文艺比/消肿比/纯血铜仁钕/交友大欢迎/LGBTQ+全肯定\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "AirWiaAir"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "name": "故我遠涉她方〔小寒2.0〕",
+        "pinned_tweet_id": "2059142425785118966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 79,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "WiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

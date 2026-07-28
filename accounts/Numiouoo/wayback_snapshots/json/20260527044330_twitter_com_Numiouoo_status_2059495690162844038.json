@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058918835886198997",
+    "created_at": "2026-05-27T04:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059495690162844038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558135625672695809",
+          "start": 0,
+          "username": "tudoutudou666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059495690162844038",
+    "in_reply_to_user_id": "1558135625672695809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059276718230417674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tudoutudou666 啊啊啊啊啊啊啊呜呜呜呜呜呜我哭了呀抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058918835886198997",
+        "created_at": "2026-05-27T04:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059495690162844038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558135625672695809",
+              "start": 0,
+              "username": "tudoutudou666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059495690162844038",
+        "in_reply_to_user_id": "1558135625672695809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059276718230417674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tudoutudou666 啊啊啊啊啊啊啊呜呜呜呜呜呜我哭了呀抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558135625672695809",
+        "conversation_id": "2058918835886198997",
+        "created_at": "2026-05-26T14:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059276718230417674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059276718230417674",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058918835886198997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我一直在搜糯米4.0 终于回来了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 403,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 371
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T16:57:45.000Z",
+        "description": "被缚",
+        "id": "1558135625672695809",
+        "name": "土豆味蟑螂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980461541519486976/j61-l7q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 323,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "tudoutudou666",
+        "verified": false
+      }
+    ]
+  }
+}

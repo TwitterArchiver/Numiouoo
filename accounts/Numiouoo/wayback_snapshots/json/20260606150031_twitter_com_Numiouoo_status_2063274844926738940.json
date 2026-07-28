@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063271116622197067",
+    "created_at": "2026-06-06T15:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063274844926738940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063274844926738940",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063271116622197067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 好美丽的身材……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063271100335742976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI2IlLXYAATzOi.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063271116622197067",
+        "created_at": "2026-06-06T15:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063274844926738940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063274844926738940",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063271116622197067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 好美丽的身材……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063271100335742976"
+          ]
+        },
+        "author_id": "1870858980752543744",
+        "conversation_id": "2063271116622197067",
+        "created_at": "2026-06-06T14:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063271116622197067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxHyZQF6vv",
+              "end": 35,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2063271116622197067/photo/1",
+              "media_key": "3_2063271100335742976",
+              "start": 12,
+              "url": "https://t.co/lxHyZQF6vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063271116622197067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "必须狠狠瘦到95斤好吧 https://t.co/lxHyZQF6vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 713,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1120
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "od/精神病/自残/挂逼/泛性恋/上一世被晶哥查封秽土转生版\n性别是阿普唑仑，爱人是阿普唑仑，喜欢的食物是阿普唑仑\n在x上什么也不干，纯宣泄",
+        "id": "1870858980752543744",
+        "name": "蓝色海水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061461222071881728/8X8kRxL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "username": "AzaelRose1017",
+        "verified": false
+      }
+    ]
+  }
+}

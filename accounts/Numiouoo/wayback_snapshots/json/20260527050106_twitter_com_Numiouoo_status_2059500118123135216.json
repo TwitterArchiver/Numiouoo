@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058586252639940719",
+    "created_at": "2026-05-27T05:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059500118123135216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055550207069446144",
+          "start": 0,
+          "username": "AliceDeeriatl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059500118123135216",
+    "in_reply_to_user_id": "2055550207069446144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059232614217830647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceDeeriatl @linzi4566 不太会玩TuT手残来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058586252639940719",
+        "created_at": "2026-05-27T05:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059500118123135216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055550207069446144",
+              "start": 0,
+              "username": "AliceDeeriatl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059500118123135216",
+        "in_reply_to_user_id": "2055550207069446144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059232614217830647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceDeeriatl @linzi4566 不太会玩TuT手残来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055550207069446144",
+        "conversation_id": "2058586252639940719",
+        "created_at": "2026-05-26T11:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059232614217830647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "1892970687792402432",
+              "start": 10,
+              "username": "linzi4566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059232614217830647",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058772200912801870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @linzi4566 糯宝居然还玩绳艺吗？咱一直想试试没机会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 404,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 385
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T07:26:19.000Z",
+        "description": "骐骥成为小萝莉",
+        "id": "2055550207069446144",
+        "location": "四川泸州",
+        "name": "Alice Deer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055550524553125888/QgqiLl6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "AliceDeeriatl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058937621993398542",
+    "created_at": "2026-05-27T04:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059495636731564286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554892886214320129",
+          "start": 0,
+          "username": "Otto8883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059495636731564286",
+    "in_reply_to_user_id": "1554892886214320129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059263253923172429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Otto8883 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058937621993398542",
+        "created_at": "2026-05-27T04:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059495636731564286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554892886214320129",
+              "start": 0,
+              "username": "Otto8883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059495636731564286",
+        "in_reply_to_user_id": "1554892886214320129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059263253923172429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Otto8883 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554892886214320129",
+        "conversation_id": "2058937621993398542",
+        "created_at": "2026-05-26T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059263253923172429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059263253923172429",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058937621993398542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 先打电话看看是什么状态🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 403,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 369
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T18:12:15.000Z",
+        "description": "07年国内某强基计划直博生\n懒狗一条",
+        "id": "1554892886214320129",
+        "name": "我只想让我们关系善终",
+        "pinned_tweet_id": "2059263673798181012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752743217441996802/4nsVIwrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 130,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "username": "Otto8883",
+        "verified": false
+      }
+    ]
+  }
+}

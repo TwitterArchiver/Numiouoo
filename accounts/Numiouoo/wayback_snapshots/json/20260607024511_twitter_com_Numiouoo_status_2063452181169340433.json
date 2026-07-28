@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062550087717597285",
+    "created_at": "2026-06-07T02:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063452181169340433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896710172896358400",
+          "start": 0,
+          "username": "babyblueouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063452181169340433",
+    "in_reply_to_user_id": "1896710172896358400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166044764828086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babyblueouo 吓死人了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062550087717597285",
+        "created_at": "2026-06-07T02:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063452181169340433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896710172896358400",
+              "start": 0,
+              "username": "babyblueouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063452181169340433",
+        "in_reply_to_user_id": "1896710172896358400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166044764828086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babyblueouo 吓死人了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896710172896358400",
+        "conversation_id": "2062550087717597285",
+        "created_at": "2026-06-06T07:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166044764828086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166044764828086",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550087717597285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 对的对的 这种真的很吓人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 716,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1138
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T23:52:08.000Z",
+        "description": "普通死宅 我只有一米五\n不卖图包没有露点 只出原味\n感谢喜欢 私信看到会回复 \n有口令红包的话真是红豆泥阿里嘎多",
+        "id": "1896710172896358400",
+        "location": "🚪88 =好友位",
+        "name": "藍",
+        "pinned_tweet_id": "1985585572057063442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059561957427224576/AjuF3WMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 56,
+          "like_count": 4484,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 995
+        },
+        "username": "babyblueouo",
+        "verified": false
+      }
+    ]
+  }
+}

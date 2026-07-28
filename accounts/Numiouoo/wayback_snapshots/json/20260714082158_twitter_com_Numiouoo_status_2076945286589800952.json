@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2076924153899479196",
+    "created_at": "2026-07-14T08:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076945286589800952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976887419841695744",
+          "start": 0,
+          "username": "Epekeina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076945286589800952",
+    "in_reply_to_user_id": "1976887419841695744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076924153899479196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epekeina_ 吓死人了 自己见识低可以直说 我还不反对任何人发表纹身歧视 也不会把你当普通傻逼看 要是不把你当极品傻逼看 岂不是白瞎了你的推文🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2076924153899479196",
+        "created_at": "2026-07-14T08:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076945286589800952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976887419841695744",
+              "start": 0,
+              "username": "Epekeina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076945286589800952",
+        "in_reply_to_user_id": "1976887419841695744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076924153899479196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epekeina_ 吓死人了 自己见识低可以直说 我还不反对任何人发表纹身歧视 也不会把你当普通傻逼看 要是不把你当极品傻逼看 岂不是白瞎了你的推文🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976887419841695744",
+        "conversation_id": "2076924153899479196",
+        "created_at": "2026-07-14T06:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076924153899479196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KELMAND1/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/KELMAND1/status/2076515797464383821",
+              "start": 25,
+              "url": "https://t.co/zVq2X0KGxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076924153899479196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076515797464383821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纹身还有驱邪作用吗，我看这一个纹身快给他克死了😹 https://t.co/zVq2X0KGxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 972,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2728
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "",
+        "id": "1976887419841695744",
+        "location": "⚰️",
+        "name": "Epi",
+        "pinned_tweet_id": "2011038502197325893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 77,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "Epekeina_",
+        "verified": true
+      }
+    ]
+  }
+}

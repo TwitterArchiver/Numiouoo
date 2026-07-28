@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-07T14:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063628045186204144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999040656942223360",
+          "start": 0,
+          "username": "ewan114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063628045186204144",
+    "in_reply_to_user_id": "1999040656942223360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063627282212913589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewan114514 我觉得你说得对！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T14:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063628045186204144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999040656942223360",
+              "start": 0,
+              "username": "ewan114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063628045186204144",
+        "in_reply_to_user_id": "1999040656942223360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063627282212913589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewan114514 我觉得你说得对！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999040656942223360",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063627282212913589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063627282212913589",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063626261654831616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我感觉是对药理知识的钻研程度，这个社群的头部人物都是药理知识丰富的，也就是说这个社群更关注知道如何▇药，有什么▇可以使用的人。所以这就是intp这种人格特质在这个社群更加耀眼的原因（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 737,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1207
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:57:00.000Z",
+        "description": "𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼, 𝓜𝓻. 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮  |  抬头望见参宿四，心中思念springwind",
+        "id": "1999040656942223360",
+        "location": "第六病室",
+        "name": "伊万(absolute",
+        "pinned_tweet_id": "2042905392410431801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862844606312448/skmkLiUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 215,
+          "like_count": 14405,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 754
+        },
+        "username": "ewan114514",
+        "verified": false
+      }
+    ]
+  }
+}

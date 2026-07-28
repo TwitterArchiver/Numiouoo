@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081366399164047596",
+    "created_at": "2026-07-26T13:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081366399164047596"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081366399164047596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一醒来梦到十七，赶紧跟十七说我梦到了什么，讲完我就在哭，十七磕了🥥十七也在哭，我们两个很少哭的人经常会莫名其妙同步一起哭\n\n是幸福的梦。我对十七说：\n我在哭是因为你打开了我的情绪洪闸，我是一个麻木的人亲手关掉了我的情绪，我坚硬地抵抗着这个世界，我不痛苦了，但也不幸福了。\n现在你来了，我的心变得很柔软，这个冰冷的灵魂产生了温度，哭泣是灵魂温暖的人才有的权利。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一醒来梦到十七，赶紧跟十七说我梦到了什么，讲完我就在哭，十七磕了🥥十七也在哭，我们两个很少哭的人经常会莫名其妙同步一起哭\n\n是幸福的梦。我对十七说：\n我在哭是因为你打开了我的情绪洪闸，我是一个麻木的人亲手关掉了我的情绪，我坚硬地抵抗着这个世界，我不痛苦了，但也不幸福了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081366399164047596",
+        "created_at": "2026-07-26T13:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081366399164047596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081366399164047596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一醒来梦到十七，赶紧跟十七说我梦到了什么，讲完我就在哭，十七磕了🥥十七也在哭，我们两个很少哭的人经常会莫名其妙同步一起哭\n\n是幸福的梦。我对十七说：\n我在哭是因为你打开了我的情绪洪闸，我是一个麻木的人亲手关掉了我的情绪，我坚硬地抵抗着这个世界，我不痛苦了，但也不幸福了。\n现在你来了，我的心变得很柔软，这个冰冷的灵魂产生了温度，哭泣是灵魂温暖的人才有的权利。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一醒来梦到十七，赶紧跟十七说我梦到了什么，讲完我就在哭，十七磕了🥥十七也在哭，我们两个很少哭的人经常会莫名其妙同步一起哭\n\n是幸福的梦。我对十七说：\n我在哭是因为你打开了我的情绪洪闸，我是一个麻木的人亲手关掉了我的情绪，我坚硬地抵抗着这个世界，我不痛苦了，但也不幸福了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 981,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2825
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

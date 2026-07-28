@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-08T06:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063873296186458405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694679423159836672",
+          "start": 0,
+          "username": "AsakawaTsubaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063873296186458405",
+    "in_reply_to_user_id": "1694679423159836672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063650045296300095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakawaTsubaki 萌喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063650045296300095].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063650045296300095",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063650045296300095"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-08T06:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063873296186458405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694679423159836672",
+              "start": 0,
+              "username": "AsakawaTsubaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063873296186458405",
+        "in_reply_to_user_id": "1694679423159836672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063650045296300095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakawaTsubaki 萌喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 771,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1285
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。 我有点精日，下辈子希望是日本人\n匿名提问https://t.co/tFYgnHYSkF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k%E2%80%86n%E2…",
+                "end": 77,
+                "expanded_url": "https://ngl.link/k%E2%80%86n%E2%80%86d",
+                "start": 54,
+                "url": "https://t.co/tFYgnHYSkF"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2063367844268818666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 227,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1199
+        },
+        "username": "AsakawaTsubaki",
+        "verified": false
+      }
+    ]
+  }
+}

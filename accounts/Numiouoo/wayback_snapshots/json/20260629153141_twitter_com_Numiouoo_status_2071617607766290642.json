@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2071400166880641435",
+    "created_at": "2026-06-29T15:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071617607766290642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071617607766290642",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071400166880641435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 无论什么样的目莉都好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13166,
+        "height": 3840,
+        "media_key": "13_2071399950265860096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071399950265860096/img/JvwYXDZ8vWyRyYav.jpg",
+        "public_metrics": {
+          "view_count": 217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/vid/avc1/480x852/1bAKvoOP5FBnMDUz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/vid/avc1/1080x1920/ulyfPdf8Lm0jwYbQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/vid/avc1/720x1280/q5KR8uormHIM3zk8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/vid/avc1/320x568/-CkX8KnZD5Y4U51d.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/vid/avc1/2160x3840/ig-rL-kbcbvmwCjc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071399950265860096/pl/dOUAKf62dgKJY9Cu.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2071400166880641435",
+        "created_at": "2026-06-29T15:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071617607766290642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071617607766290642",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071400166880641435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 无论什么样的目莉都好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071399950265860096"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2071400166880641435",
+        "created_at": "2026-06-29T01:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071400166880641435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "踊ってみた"
+            },
+            {
+              "end": 122,
+              "start": 110,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 135,
+              "start": 123,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 143,
+              "start": 136,
+              "tag": "承認欲求の塊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hlMTa5AbZ",
+              "end": 167,
+              "expanded_url": "https://x.com/DrankghostU/status/2071400166880641435/video/1",
+              "media_key": "13_2071399950265860096",
+              "start": 144,
+              "url": "https://t.co/2hlMTa5AbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071400166880641435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "雰囲気"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "自撮り界隈"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "踊ってみた"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "tag": "病み垢さんと繋がりたい"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "地雷系女子と繋がりたい"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "承認欲求の塊"
+              },
+              {
+                "end": 162,
+                "start": 145,
+                "tag": "雰囲気嫌いじゃないよって人いいね"
+              }
+            ]
+          },
+          "text": "結婚しましょ？\n我感觉我一年没跳手势舞了。其实之前发的一直都是一年前的库存！！因为长胖了几十斤所以很久没自拍了😿这次减了一点鼓起勇气拍的……\n学了好久现在听到bgm就快吐了！！\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "結婚しましょ？\n我感觉我一年没跳手势舞了。其实之前发的一直都是一年前的库存！！因为长胖了几十斤所以很久没自拍了😿这次减了一点鼓起勇气拍的……\n学了好久现在听到bgm就快吐了！！\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊 https://t.co/2hlMTa5AbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 928,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2302
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 203,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

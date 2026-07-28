@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058510628940292432",
+    "created_at": "2026-05-24T13:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058542198338342953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747213446911922176",
+          "start": 0,
+          "username": "ura_samuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058542198338342953",
+    "in_reply_to_user_id": "747213446911922176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058527399495815620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ura_samuko 碳水米www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058510628940292432",
+        "created_at": "2026-05-24T13:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058542198338342953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747213446911922176",
+              "start": 0,
+              "username": "ura_samuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058542198338342953",
+        "in_reply_to_user_id": "747213446911922176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058527399495815620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ura_samuko 碳水米www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747213446911922176",
+        "conversation_id": "2058510628940292432",
+        "created_at": "2026-05-24T12:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527399495815620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527399495815620",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058510628940292432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 糯米剧烈爱碳水wwwwww安素好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 313,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 196
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T23:42:23.000Z",
+        "description": "雑多な、絵を描く。本垢に @TamikoTomorika \n苦楽無凡、言葉遣い荒く。\n自分わ抱きしめたい(笑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "747213446911922176",
+        "name": "さむ",
+        "pinned_tweet_id": "1985487275946623149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985460011695554567/-2Ush8Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 168,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 275
+        },
+        "username": "ura_samuko",
+        "verified": false
+      }
+    ]
+  }
+}

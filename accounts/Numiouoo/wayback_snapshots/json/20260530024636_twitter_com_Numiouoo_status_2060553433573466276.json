@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2060552186602664150",
+    "created_at": "2026-05-30T02:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060553433573466276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060553433573466276",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060552186602664150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我tm找不到我的🍉了我昨晚大半夜翻没翻出来 我甚至打开购物记录确认我不是出现了幻觉错觉我确实应该受到了 但我只记得收到快递的记忆至于有没有拆开以及拆开放哪儿了我就完全空白了 时间过去太久我的记忆只够我回溯2-3天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2060552186602664150",
+        "created_at": "2026-05-30T02:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060553433573466276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060553433573466276",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060552186602664150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我tm找不到我的🍉了我昨晚大半夜翻没翻出来 我甚至打开购物记录确认我不是出现了幻觉错觉我确实应该受到了 但我只记得收到快递的记忆至于有没有拆开以及拆开放哪儿了我就完全空白了 时间过去太久我的记忆只够我回溯2-3天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2060552186602664150",
+        "created_at": "2026-05-30T02:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060552186602664150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060552186602664150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我吃阿普爽，人之常情。我说我吃喹硫平爽，大家要说我吃脏药没品味。现在我想说我吃美托洛尔也给我吃爽了。。。我他妈已经超越健全人跟精神病的范畴了\n但我确实很爽 非常 很舒服 我也不知道为什么舒服但我舒服 有一种世界很安静我很安静这一切不再剧烈旋转时时刻刻爆炸的静谧感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵同类回fo🩵漏fo私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 470,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 548
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

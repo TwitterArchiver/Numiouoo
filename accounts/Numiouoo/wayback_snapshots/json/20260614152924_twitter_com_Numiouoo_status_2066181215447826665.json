@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065978978968711617",
+    "created_at": "2026-06-14T15:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066181215447826665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1371331895640883202",
+          "start": 0,
+          "username": "Wentdoom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066181215447826665",
+    "in_reply_to_user_id": "1371331895640883202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066168807429923042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wentdoom 呜呜呜呜呜我要守护这个小栀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T15:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066181215447826665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1371331895640883202",
+              "start": 0,
+              "username": "Wentdoom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066181215447826665",
+        "in_reply_to_user_id": "1371331895640883202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066168807429923042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wentdoom 呜呜呜呜呜我要守护这个小栀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371331895640883202",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T14:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066168807429923042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066168807429923042",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065980559302726139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 摸摸糯米！所有人不许给糯米发私信( ⩌⤚⩌)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 873,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1722
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T05:27:30.000Z",
+        "description": "☀️🌙",
+        "id": "1371331895640883202",
+        "location": "栀子花旁",
+        "name": "南栀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633797553016832/y_X_f0yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 341,
+          "like_count": 9543,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 121
+        },
+        "username": "Wentdoom",
+        "verified": false
+      }
+    ]
+  }
+}

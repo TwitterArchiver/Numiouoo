@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064263997806010861",
+    "created_at": "2026-06-09T14:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064350724608360576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546075741430751232",
+          "start": 0,
+          "username": "0GaS_Pr0toc0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064350724608360576",
+    "in_reply_to_user_id": "1546075741430751232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064263997806010861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0GaS_Pr0toc0l 我尝试沉迷游戏都玩了一下发现都不喜欢，只能勉强推荐个phigros。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064263997806010861",
+        "created_at": "2026-06-09T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064350724608360576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "0GaS_Pr0toc0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064350724608360576",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064263997806010861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0GaS_Pr0toc0l 我尝试沉迷游戏都玩了一下发现都不喜欢，只能勉强推荐个phigros。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2064263997806010861",
+        "created_at": "2026-06-09T08:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064263997806010861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064263997806010861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 647,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个推文的人可以给我推荐你们最喜欢的游戏吗\n我真的很无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 819,
+          "like_count": 1952,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1411
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | he/them |CN/EN|现在是生活推了，但我会骂所有我看不惯的玩意。二次元/计算机/战雷/猫猫友好",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️",
+        "pinned_tweet_id": "2055733292327149898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1760,
+          "like_count": 20122,
+          "listed_count": 10,
+          "media_count": 764,
+          "tweet_count": 14716
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      }
+    ]
+  }
+}

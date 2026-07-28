@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066974862791569654",
+    "created_at": "2026-06-17T17:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067292491355996340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1371331895640883202",
+          "start": 0,
+          "username": "Wentdoom"
+        },
+        {
+          "end": 25,
+          "id": "1638959586140098560",
+          "start": 10,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067292491355996340",
+    "in_reply_to_user_id": "1371331895640883202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285339828551957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wentdoom @jiuyouforwhite 贴贴贴！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066974862791569654",
+        "created_at": "2026-06-17T17:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067292491355996340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1371331895640883202",
+              "start": 0,
+              "username": "Wentdoom"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067292491355996340",
+        "in_reply_to_user_id": "1371331895640883202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285339828551957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wentdoom @jiuyouforwhite 贴贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371331895640883202",
+        "conversation_id": "2066974862791569654",
+        "created_at": "2026-06-17T16:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067285339828551957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285339828551957",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066974862791569654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @jiuyouforwhite 剧烈羡慕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 895,
+          "like_count": 2414,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1888
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T05:27:30.000Z",
+        "description": "☀️🌙",
+        "id": "1371331895640883202",
+        "location": "栀子花旁",
+        "name": "南栀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633797553016832/y_X_f0yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 340,
+          "like_count": 9554,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "username": "Wentdoom",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1537,
+          "like_count": 5386,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 2417
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

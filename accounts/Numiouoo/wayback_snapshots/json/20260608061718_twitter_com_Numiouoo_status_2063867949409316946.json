@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-08T06:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063867949409316946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681362222461734912",
+          "start": 0,
+          "username": "PWFFFFFF_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063867949409316946",
+    "in_reply_to_user_id": "1681362222461734912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063866082100916280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWFFFFFF_ 哇很少见到intj"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063866082100916280].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063866082100916280",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063866082100916280"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-08T06:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063867949409316946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681362222461734912",
+              "start": 0,
+              "username": "PWFFFFFF_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063867949409316946",
+        "in_reply_to_user_id": "1681362222461734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063866082100916280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWFFFFFF_ 哇很少见到intj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 771,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1279
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T17:56:31.000Z",
+        "description": "birth:2009/中（繁/简）、EN(Poor,CEFR-B2)、日本語(マジ苦手です)/on the edge/如果您認為我令您產生了不快，請block我，我不想與任何人產生爭執，謝謝您。/如果您在現實中認識我並在未被我推薦的情況下找到了此帳號，請離開吧，我很害怕您，我很抱歉。/私:@PWFFFFFF_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "PWFFFFFF_"
+              }
+            ]
+          }
+        },
+        "id": "1681362222461734912",
+        "location": "{裏世界, 思維} = {I | mInd: 私/    }",
+        "name": "PureWhiteFFFFFF",
+        "pinned_tweet_id": "2054199854692528422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009395325208023043/pUPnm8PE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 793,
+          "like_count": 16619,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 3280
+        },
+        "username": "PWFFFFFF_",
+        "verified": false
+      }
+    ]
+  }
+}

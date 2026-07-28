@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066435231167758675",
+    "created_at": "2026-06-15T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066435653202858283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066435653202858283",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066435231167758675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些亲友会邀请我参加生日会什么的 我问有谁 亲友就说只有她对象 我就不想来了 因为我不知道我存在的意义是什么 感觉我的亲友不再是我亲友而是一个很陌生的路人 虽然我嘴上不说但是心里又膈应又尴尬 不仅是对象换成朋友也一样 我只喜欢一对一或者多对多不能是一对多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066435231167758675",
+        "created_at": "2026-06-15T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066435653202858283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066435653202858283",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066435231167758675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些亲友会邀请我参加生日会什么的 我问有谁 亲友就说只有她对象 我就不想来了 因为我不知道我存在的意义是什么 感觉我的亲友不再是我亲友而是一个很陌生的路人 虽然我嘴上不说但是心里又膈应又尴尬 不仅是对象换成朋友也一样 我只喜欢一对一或者多对多不能是一对多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066435231167758675",
+        "created_at": "2026-06-15T08:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066435231167758675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066435231167758675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为友谊脑我的梦想真的很简单就是我亲友全部有自己的独立居所 我能过去看看 \n看到亲友有自己温馨的家 我会替对方感到开心 我也不是过去骚扰或者非要在对方家里吃饭这样会弄得很脏乱 我看看就好了！\n呃呃前提是亲友没有恋爱因为我恐我所有亲友的恋爱对象……我不能跟亲友+对象三个人处在同一个空间里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 883,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1774
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068292924585164808",
+    "created_at": "2026-06-21T06:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068586796632678622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1533650309456596993",
+          "start": 0,
+          "username": "nb420_weed"
+        },
+        {
+          "end": 28,
+          "id": "2054912328978817024",
+          "start": 12,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068586796632678622",
+    "in_reply_to_user_id": "1533650309456596993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068337562717192226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nb420_weed @jiuyouforwhite2 啊啊啊怎么把我取fo了我要闹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068292924585164808",
+        "created_at": "2026-06-21T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068586796632678622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1533650309456596993",
+              "start": 0,
+              "username": "nb420_weed"
+            },
+            {
+              "end": 28,
+              "id": "2054912328978817024",
+              "start": 12,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068586796632678622",
+        "in_reply_to_user_id": "1533650309456596993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068337562717192226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nb420_weed @jiuyouforwhite2 啊啊啊怎么把我取fo了我要闹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533650309456596993",
+        "conversation_id": "2068292924585164808",
+        "created_at": "2026-06-20T14:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068337562717192226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068337562717192226",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068292924585164808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 哈哈  可惜蘑菇已经没多少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 915,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T03:21:53.000Z",
+        "description": "🌿 🍃 大賞\ntg：@Greensky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "Greensky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Greensky420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Greensky420",
+                "start": 0,
+                "url": "https://t.co/wFewFNiXb7"
+              }
+            ]
+          }
+        },
+        "id": "1533650309456596993",
+        "location": "nb420",
+        "name": "Greensky（✈️nb420）燃料机长",
+        "pinned_tweet_id": "2048110571049165178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048103414727667712/I3v2tKNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 341,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/wFewFNiXb7",
+        "username": "nb420_weed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "随性",
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 82,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

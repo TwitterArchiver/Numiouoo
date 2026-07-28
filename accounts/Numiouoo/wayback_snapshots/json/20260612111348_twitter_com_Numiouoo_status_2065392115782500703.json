@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065391436359459195",
+    "created_at": "2026-06-12T11:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065392115782500703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065392115782500703",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065391436359459195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 糯米4.0 霖10.0 op猫4.0 番蛋9.0 V3.0……中推💊/歌人均炸号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065391436359459195",
+        "created_at": "2026-06-12T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065392115782500703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065392115782500703",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065391436359459195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 糯米4.0 霖10.0 op猫4.0 番蛋9.0 V3.0……中推💊/歌人均炸号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "2065391436359459195",
+        "created_at": "2026-06-12T11:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065391436359459195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouoo/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Numiouoo/status/2063292076025131258",
+              "start": 44,
+              "url": "https://t.co/7zcsE7JN03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065391436359459195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063292076025131258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年马斯克的AI自动封号越搞越离谱真是死妈了\n光是我fo的和fo我的都不知道炸了多少了 https://t.co/7zcsE7JN03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 855,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1567
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4951,
+          "following_count": 1015,
+          "like_count": 33914,
+          "listed_count": 10,
+          "media_count": 525,
+          "tweet_count": 7684
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065495767352005082",
+    "created_at": "2026-06-13T01:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065613066352603342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766377133558169600",
+          "start": 0,
+          "username": "oxygen_alive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065613066352603342",
+    "in_reply_to_user_id": "1766377133558169600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065495767352005082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxygen_alive 剧烈欣赏！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065495767352005082",
+        "created_at": "2026-06-13T01:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065613066352603342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766377133558169600",
+              "start": 0,
+              "username": "oxygen_alive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065613066352603342",
+        "in_reply_to_user_id": "1766377133558169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065495767352005082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxygen_alive 剧烈欣赏！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766377133558169600",
+        "conversation_id": "2065495767352005082",
+        "created_at": "2026-06-12T18:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065495767352005082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/numiouoo/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/numiouoo/status/2065265346454700401",
+              "start": 22,
+              "url": "https://t.co/TKqepAVKwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065495767352005082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065265346454700401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一模一樣怎麼說 好吧 酒和游戲還是沾一點的 https://t.co/TKqepAVKwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 859,
+          "like_count": 2207,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1613
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:15:16.000Z",
+        "description": "謹慎關注 三次二次都有｜发的都是很负面碎碎念｜我很溫良的｜私信只對互關開放 可以找我聊天的！｜不喜歡和別人爭吵 ｜社恐焦慮抑鬱｜English 普通話 粵語｜泛性戀｜喜愛幻覺 | 精神狀態很差 #shwtw ｜🇯🇵🇺🇸🇭🇰🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shwtw"
+              }
+            ]
+          }
+        },
+        "id": "1766377133558169600",
+        "location": "New York, USA",
+        "name": "🦋夜尸Oxygen",
+        "pinned_tweet_id": "2032122336430952528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982837060957343744/EO8vzeLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 922,
+          "like_count": 20915,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 428
+        },
+        "username": "oxygen_alive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070643847009612204",
+    "created_at": "2026-06-27T15:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070893730052325648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807129271728775168",
+          "start": 0,
+          "username": "Kokittyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070893730052325648",
+    "in_reply_to_user_id": "1807129271728775168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070643847009612204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kokittyi 有什么好压抑的 颜料满天飞 淘宝玩具点击就送到家门口 至今仍摸不透大家口中的性压抑是什么东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070643847009612204",
+        "created_at": "2026-06-27T15:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070893730052325648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807129271728775168",
+              "start": 0,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070893730052325648",
+        "in_reply_to_user_id": "1807129271728775168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070643847009612204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokittyi 有什么好压抑的 颜料满天飞 淘宝玩具点击就送到家门口 至今仍摸不透大家口中的性压抑是什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807129271728775168",
+        "conversation_id": "2070643847009612204",
+        "created_at": "2026-06-26T23:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070643847009612204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070643847009612204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 97365,
+          "like_count": 1039,
+          "quote_count": 0,
+          "reply_count": 140,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你说中国女的性压抑我还觉得有点道理 男的小时候就能无师自通找黄片看 大一点就能奖励自己找鸡破处 我不知道压抑在什么地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 923,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2214
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:09:38.000Z",
+        "description": "只搞纯爱",
+        "id": "1807129271728775168",
+        "location": "🚪19",
+        "name": "心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051195386539483136/YsAeVDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 6,
+          "like_count": 182,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "Kokittyi",
+        "verified": false
+      }
+    ]
+  }
+}

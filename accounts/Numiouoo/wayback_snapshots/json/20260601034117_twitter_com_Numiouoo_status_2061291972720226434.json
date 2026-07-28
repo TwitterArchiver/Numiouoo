@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061291972720226434",
+    "created_at": "2026-06-01T03:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061291972720226434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 64,
+          "id": "1638959586140098560",
+          "start": 49,
+          "username": "jiuyouforwhite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/ancde_1118/status/2060789296991473715",
+          "start": 65,
+          "url": "https://t.co/HRAjFC7HUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061291972720226434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060789296991473715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么我们是 不缺爱也不需要人陪、从不焦虑失去什么也不打算拥有什么的两个人，互相爱上和需要彼此的故事@jiuyouforwhite https://t.co/HRAjFC7HUt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061291972720226434",
+        "created_at": "2026-06-01T03:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061291972720226434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1638959586140098560",
+              "start": 49,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ancde_1118/status/2060789296991473715",
+              "start": 65,
+              "url": "https://t.co/HRAjFC7HUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061291972720226434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060789296991473715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么我们是 不缺爱也不需要人陪、从不焦虑失去什么也不打算拥有什么的两个人，互相爱上和需要彼此的故事@jiuyouforwhite https://t.co/HRAjFC7HUt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060789296991473715",
+        "created_at": "2026-05-30T18:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060789296991473715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060789296991473715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2864,
+          "like_count": 63,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你好像是一个典型的缺爱者，谁陪在你身边，你就对谁产生依赖，如果有新的人陪你，你很快就会忘记上一个人离去带来的悲伤，你对谁都没有爱，又好像对谁都爱，你只是想被爱而已，你把他们当成你的救命稻草，但其实你只是缺一个人陪，你爱不上任何人，你也恐惧爱上任何人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 540,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 709
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 1492,
+          "like_count": 4872,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 2437
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 553,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 987
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

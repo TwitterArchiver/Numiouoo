@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2080336366400127243",
+    "created_at": "2026-07-23T18:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080358536442495027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895861052648378369",
+          "start": 0,
+          "username": "someofever63656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080358536442495027",
+    "in_reply_to_user_id": "1895861052648378369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080354774965506524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@someofever63656 会的口牙🥺贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2080336366400127243",
+        "created_at": "2026-07-23T18:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080358536442495027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895861052648378369",
+              "start": 0,
+              "username": "someofever63656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080358536442495027",
+        "in_reply_to_user_id": "1895861052648378369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080354774965506524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@someofever63656 会的口牙🥺贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895861052648378369",
+        "conversation_id": "2080336366400127243",
+        "created_at": "2026-07-23T18:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080354774965506524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080354774965506524",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080336366400127243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 一定要幸福口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 979,
+          "like_count": 3628,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2774
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-01T15:38:10.000Z",
+        "description": "我也不知道写什么QAQ",
+        "id": "1895861052648378369",
+        "location": "Mars",
+        "name": "Diesoe",
+        "pinned_tweet_id": "2044071570046664927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007488203197190144/A0kIxrxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 66,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1270
+        },
+        "url": "",
+        "username": "someofever63656",
+        "verified": false
+      }
+    ]
+  }
+}

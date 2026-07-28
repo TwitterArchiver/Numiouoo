@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057736649417855377",
+    "created_at": "2026-05-23T04:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045282039021961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750894458659606528",
+          "start": 0,
+          "username": "fuko048"
+        },
+        {
+          "end": 23,
+          "id": "1560991861413933056",
+          "start": 9,
+          "username": "belovedquarry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045282039021961",
+    "in_reply_to_user_id": "1750894458659606528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057909636905529424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko048 @belovedquarry 啊啊啊啊啊贴贴！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-23T04:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045282039021961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750894458659606528",
+              "start": 0,
+              "username": "fuko048"
+            },
+            {
+              "end": 23,
+              "id": "1560991861413933056",
+              "start": 9,
+              "username": "belovedquarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045282039021961",
+        "in_reply_to_user_id": "1750894458659606528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057909636905529424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko048 @belovedquarry 啊啊啊啊啊贴贴！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750894458659606528",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-22T19:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057909636905529424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 24,
+              "id": "1560991861413933056",
+              "start": 10,
+              "username": "belovedquarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057909636905529424",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736649417855377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @belovedquarry 欢迎回来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n唯爱同类🩵我素精神病🩵永远爱大家\n请再一次与我相遇 我要永远和你们贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸（回不了评论哑巴中QAQ）",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 139,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love/oder/英语本当上手/愿往生极乐\n\n明日方舟里的普瑞赛斯已经没有了😭",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "pinned_tweet_id": "2014936025521668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 357,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 986
+        },
+        "username": "fuko048",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜精神病转健全｜lesbian｜devil cry｜本质是高压电有机玻璃｜药物滥用、烟、酒｜文豪鬣犬，掏肛门抠人肠子吃｜关取随意｜小摩尔恋爱中！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 152,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1561
+        },
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}

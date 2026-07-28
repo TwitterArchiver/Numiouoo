@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066355019474207222",
+    "created_at": "2026-06-15T09:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066452526430568517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766838470708695041",
+          "start": 0,
+          "username": "kitaikuyo_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066452526430568517",
+    "in_reply_to_user_id": "1766838470708695041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066449634197954968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitaikuyo_8964 ok啊啊啊我爱你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-15T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066452526430568517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766838470708695041",
+              "start": 0,
+              "username": "kitaikuyo_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066452526430568517",
+        "in_reply_to_user_id": "1766838470708695041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066449634197954968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitaikuyo_8964 ok啊啊啊我爱你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766838470708695041",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-15T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066449634197954968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066449634197954968",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066355019474207222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 土瓜湾 诚信大药房 买了两次从深圳入关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 884,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1780
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T14:48:35.000Z",
+        "description": "⚠️⚠️⚠️\n*** under construction ***\n⚠️⚠️⚠️\nGithub: https://t.co/curwNh18eY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/JogasakiNoa",
+                "end": 72,
+                "expanded_url": "https://github.com/JogasakiNoa",
+                "start": 49,
+                "url": "https://t.co/curwNh18eY"
+              }
+            ]
+          }
+        },
+        "id": "1766838470708695041",
+        "location": "中华人民共和国广东省广州市荔湾区白云山制药总厂",
+        "name": "超级喜喜喜多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000604573267009536/aJx0NWEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 856,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "kitaikuyo_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062340398199234719",
+    "created_at": "2026-06-04T05:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062405980344991944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062405980344991944",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062340398199234719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll 我对高中几乎没有记忆点了，像女性生产完以后会自动忘记生产过程的痛苦，触发保护机制了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062340398199234719",
+        "created_at": "2026-06-04T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062405980344991944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405980344991944",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062340398199234719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 我对高中几乎没有记忆点了，像女性生产完以后会自动忘记生产过程的痛苦，触发保护机制了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2062340398199234719",
+        "created_at": "2026-06-04T01:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062340398199234719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062340398199234719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3205,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "虽然说这话有点（可能会伤害到山河四省的孩子），但我真的好想体验一下高考是什么感觉，我对高考的印象全停留在高考恋爱100天这种galgame里了，还有某位推友的二次元一样的高中生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 642,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 950
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "需要各种🍥🍬请私信我，尽量tg，私信有时不推送\n💌@hobartr6 可爱妹妹@leetfs1 大猫咪@_furryfur_ 笨蛋肥鸟@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "hobartr6"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "leetfs1"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺➡️",
+        "name": "猫卷🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 837,
+          "like_count": 4140,
+          "listed_count": 9,
+          "media_count": 58,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

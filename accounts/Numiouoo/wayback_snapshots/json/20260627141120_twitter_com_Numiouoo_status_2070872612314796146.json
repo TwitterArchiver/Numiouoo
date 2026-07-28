@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070832287026126849",
+    "created_at": "2026-06-27T14:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070872612314796146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056806554150883328",
+          "start": 0,
+          "username": "yezhiram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070872612314796146",
+    "in_reply_to_user_id": "2056806554150883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070852389347733912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezhiram 是的，简直荒谬至极，生理性喜欢如果基于爱欲之上是锦上添花，如果单独存在则是空中楼阁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-27T14:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070872612314796146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056806554150883328",
+              "start": 0,
+              "username": "yezhiram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070872612314796146",
+        "in_reply_to_user_id": "2056806554150883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070852389347733912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezhiram 是的，简直荒谬至极，生理性喜欢如果基于爱欲之上是锦上添花，如果单独存在则是空中楼阁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056806554150883328",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-27T12:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070852389347733912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070852389347733912",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070834468315898280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 纯看身体生理反应的性缘爱能高于其他的爱，这是我万万不能理解的。就像一群人所说的生理性喜欢，简直荒谬至极。最好的关系不应该以精神爱意作为基础吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 920,
+          "like_count": 2871,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T18:40:34.000Z",
+        "description": "夏日终章的斜阳，积雨云与聒噪的蝉鸣作伴。\n我想就这样，永远沉溺在这夏日的无尽热量。",
+        "id": "2056806554150883328",
+        "name": "夜風汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057084474110750721/zBH_JtRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "yezhiram",
+        "verified": false
+      }
+    ]
+  }
+}

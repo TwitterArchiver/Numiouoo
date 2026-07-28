@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065978978968711617",
+    "created_at": "2026-06-14T03:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065999558006694252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569188240128876545",
+          "start": 0,
+          "username": "for_4ngel_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065999558006694252",
+    "in_reply_to_user_id": "1569188240128876545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065991607460233643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel_2 感康也挺实用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T03:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065999558006694252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569188240128876545",
+              "start": 0,
+              "username": "for_4ngel_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065999558006694252",
+        "in_reply_to_user_id": "1569188240128876545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065991607460233643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel_2 感康也挺实用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569188240128876545",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T02:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065991607460233643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065991607460233643",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065978978968711617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 给他推荐苯海索 苯海拉明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 865,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1696
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T04:56:53.000Z",
+        "description": "这里是Angel二号机|大号@for_ 4ngel|♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 14,
+                "username": "for_"
+              }
+            ]
+          }
+        },
+        "id": "1569188240128876545",
+        "name": "Angel #昴宿四",
+        "pinned_tweet_id": "2064422864489717816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 53,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 47
+        },
+        "username": "for_4ngel_2",
+        "verified": false
+      }
+    ]
+  }
+}

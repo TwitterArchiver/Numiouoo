@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058196235262234987",
+    "created_at": "2026-05-23T17:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058238854486995181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1171658344861511682",
+          "start": 0,
+          "username": "Qslhxw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058238854486995181",
+    "in_reply_to_user_id": "1171658344861511682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058237743080366343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qslhxw77 情感上的话不需要，不过我喜欢被亲人、亲友作为信任可靠的人而依赖（比如遇到问题先询问我、遇到选择先问我意见），如果跟我发情感类问题会让我很烦，我只喜欢解决实际的物理的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T17:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058238854486995181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058238854486995181",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058237743080366343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 情感上的话不需要，不过我喜欢被亲人、亲友作为信任可靠的人而依赖（比如遇到问题先询问我、遇到选择先问我意见），如果跟我发情感类问题会让我很烦，我只喜欢解决实际的物理的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171658344861511682",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T17:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058237743080366343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058237743080366343",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058234013152858167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 但是fe本质也是靠他人来满足自己的需求而已，确实，光看这个账号的表述风格的话对你的了解会不够全面，想问问糯米你是否很需要“被需要”？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 275,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 137
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-792-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031108261014024197/KWrNJISV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 304,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 341
+        },
+        "username": "Qslhxw77",
+        "verified": false
+      }
+    ]
+  }
+}

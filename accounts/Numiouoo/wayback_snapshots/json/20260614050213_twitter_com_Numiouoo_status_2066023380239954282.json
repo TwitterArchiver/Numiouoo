@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066016378579214549",
+    "created_at": "2026-06-14T05:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066023380239954282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569188240128876545",
+          "start": 0,
+          "username": "for_4ngel_2"
+        },
+        {
+          "end": 23,
+          "id": "1809604484173295620",
+          "start": 13,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066023380239954282",
+    "in_reply_to_user_id": "1569188240128876545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066016378579214549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel_2 @for_4ngel 我居然是没关注小号 来了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066016378579214549",
+        "created_at": "2026-06-14T05:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023380239954282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569188240128876545",
+              "start": 0,
+              "username": "for_4ngel_2"
+            },
+            {
+              "end": 23,
+              "id": "1809604484173295620",
+              "start": 13,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023380239954282",
+        "in_reply_to_user_id": "1569188240128876545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066016378579214549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel_2 @for_4ngel 我居然是没关注小号 来了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569188240128876545",
+        "conversation_id": "2066016378579214549",
+        "created_at": "2026-06-14T04:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066016378579214549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1809604484173295620",
+              "start": 15,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066016378579214549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没关注我大号的火速关注😠 \n @for_4ngel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 870,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1710
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T04:56:53.000Z",
+        "description": "这里是Angel二号机|大号@for_ 4ngel|♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 14,
+                "username": "for_"
+              }
+            ]
+          }
+        },
+        "id": "1569188240128876545",
+        "name": "Angel #昴宿四",
+        "pinned_tweet_id": "2064422864489717816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 53,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 49
+        },
+        "username": "for_4ngel_2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "神秘年龄 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 496,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 674
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

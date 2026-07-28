@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074377915270418888",
+    "created_at": "2026-07-09T01:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075031189258383747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012252613022978048",
+          "start": 0,
+          "username": "41rinotfound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075031189258383747",
+    "in_reply_to_user_id": "2012252613022978048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075021970643550647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@41rinotfound 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-09T01:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075031189258383747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012252613022978048",
+              "start": 0,
+              "username": "41rinotfound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075031189258383747",
+        "in_reply_to_user_id": "2012252613022978048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075021970643550647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@41rinotfound 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012252613022978048",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-09T00:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075021970643550647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075021970643550647",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074377915270418888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 最正能量.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 960,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2618
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-16T19:57:28.000Z",
+        "description": "",
+        "id": "2012252613022978048",
+        "location": "距離你-11mm",
+        "name": "\\",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015713506239152129/pGZGK0ng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "41rinotfound",
+        "verified": false
+      }
+    ]
+  }
+}

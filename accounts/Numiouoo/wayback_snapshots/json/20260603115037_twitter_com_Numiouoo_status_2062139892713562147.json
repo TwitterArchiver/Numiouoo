@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057737015958057252",
+    "created_at": "2026-06-03T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062139892713562147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "ukhai15367842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062139892713562147",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062138759341322330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ukhai15367842 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-06-03T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062139892713562147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062139892713562147",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062138759341322330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ukhai15367842 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965129075846193152",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-06-03T11:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062138759341322330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062138759341322330",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057737015958057252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 互fo嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 634,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 903
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/🔪🩸注意⚠️/歡迎互fo互轉/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 52,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 29,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "name": "小小滯",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 42,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 194
+        },
+        "username": "ukhai15367842",
+        "verified": false
+      }
+    ]
+  }
+}

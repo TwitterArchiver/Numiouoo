@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2076557297585906137",
+    "created_at": "2026-07-13T07:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076565138443026535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906989460405035008",
+          "start": 0,
+          "username": "eulerfurai04"
+        },
+        {
+          "end": 25,
+          "id": "2070541460659924992",
+          "start": 14,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076565138443026535",
+    "in_reply_to_user_id": "1906989460405035008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076557297585906137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eulerfurai04 @Kiri_yume1 好萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6960,
+        "height": 960,
+        "media_key": "13_2076557230330290176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076557230330290176/img/y1lSxoP89BWyceDq.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076557230330290176/vid/avc1/320x426/cVyQFRZpKbpo3FTL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076557230330290176/vid/avc1/480x640/poP2k0puOOLklvG0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076557230330290176/vid/avc1/720x960/5v4nOeizdwRxHSI4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076557230330290176/pl/qm-Az2qGBBRuWmHg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2076557297585906137",
+        "created_at": "2026-07-13T07:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076565138443026535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906989460405035008",
+              "start": 0,
+              "username": "eulerfurai04"
+            },
+            {
+              "end": 25,
+              "id": "2070541460659924992",
+              "start": 14,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076565138443026535",
+        "in_reply_to_user_id": "1906989460405035008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076557297585906137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eulerfurai04 @Kiri_yume1 好萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076557230330290176"
+          ]
+        },
+        "author_id": "1906989460405035008",
+        "conversation_id": "2076557297585906137",
+        "created_at": "2026-07-13T06:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076557297585906137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "踊ってみた"
+            },
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 92,
+              "start": 75,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCvSWOTmsf",
+              "end": 117,
+              "expanded_url": "https://x.com/eulerfurai04/status/2076557297585906137/video/1",
+              "media_key": "13_2076557230330290176",
+              "start": 94,
+              "url": "https://t.co/VCvSWOTmsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076557297585906137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢？不喜欢？喜欢？不喜欢？最喜欢！\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/VCvSWOTmsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 971,
+          "like_count": 3535,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T08:38:29.000Z",
+        "description": "为什么就3.0了呢我也不知道。\n＝死目莉@DrankGhostU 是我\n双相情感障碍/重焦/adhd/💊🔪🩸/病み垢\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸😺😈❤️‍🩹⁉️…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "DrankGhostU"
+              }
+            ]
+          }
+        },
+        "id": "1906989460405035008",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075282840787533825/3PiGZLdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 49,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "eulerfurai04",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071959727718703104/nMajyzP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 101,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false
+      }
+    ]
+  }
+}

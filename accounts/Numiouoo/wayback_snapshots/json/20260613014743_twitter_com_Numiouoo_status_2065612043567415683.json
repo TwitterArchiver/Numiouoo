@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065265346454700401",
+    "created_at": "2026-06-13T01:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065612043567415683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981918860883488768",
+          "start": 0,
+          "username": "Anonymous_L13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065612043567415683",
+    "in_reply_to_user_id": "1981918860883488768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065600389219766416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anonymous_L13 萌萌宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065265346454700401",
+        "created_at": "2026-06-13T01:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065612043567415683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981918860883488768",
+              "start": 0,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065612043567415683",
+        "in_reply_to_user_id": "1981918860883488768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065600389219766416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anonymous_L13 萌萌宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981918860883488768",
+        "conversation_id": "2065265346454700401",
+        "created_at": "2026-06-13T01:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065600389219766416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065600389219766416",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065265346454700401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 太健全了［拜谢］［拜谢］"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 859,
+          "like_count": 2202,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1596
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "incomplete",
+        "id": "1981918860883488768",
+        "location": "北校C栋天台-α Lyrae车站",
+        "name": "❅中学莉💜",
+        "pinned_tweet_id": "2048808000635486535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048626859773210624/uKU8aza-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 168,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1522
+        },
+        "username": "Anonymous_L13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068400872112226735",
+    "created_at": "2026-06-21T04:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068556937592238543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        },
+        {
+          "end": 31,
+          "id": "1638959586140098560",
+          "start": 16,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068556937592238543",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068493780303663265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika @jiuyouforwhite 🐙🐙🐙🐙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068400872112226735",
+        "created_at": "2026-06-21T04:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068556937592238543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            },
+            {
+              "end": 31,
+              "id": "1638959586140098560",
+              "start": 16,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068556937592238543",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068493780303663265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika @jiuyouforwhite 🐙🐙🐙🐙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597105235516076033",
+        "conversation_id": "2068400872112226735",
+        "created_at": "2026-06-21T00:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068493780303663265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068493780303663265",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068400872112226735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 👀👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 915,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2031
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名章魚. 16齡 ♡🍊@toukorina \n欠打親妹🐙@glutinouscloud \nAutisticDHD / intersex. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 94,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "toukorina"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "glutinouscloud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "location": "静岡県浜松市立広沢小学校",
+        "name": "たみこ🍊🐙🍄躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049949825282818049/lsa2lhl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 4057,
+          "like_count": 27363,
+          "listed_count": 0,
+          "media_count": 1521,
+          "tweet_count": 10340
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 1549,
+          "like_count": 5531,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

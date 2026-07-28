@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067607729632686134",
+    "created_at": "2026-06-18T13:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067607729632686134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2067599697121075647",
+          "start": 6,
+          "url": "https://t.co/xPBOhZzUYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067607729632686134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067599697121075647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃记录中 https://t.co/xPBOhZzUYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2067599694046605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGW95VasAAQS0I.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067607729632686134",
+        "created_at": "2026-06-18T13:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067607729632686134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2067599697121075647",
+              "start": 6,
+              "url": "https://t.co/xPBOhZzUYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067607729632686134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067599697121075647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃记录中 https://t.co/xPBOhZzUYS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067599694046605312"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2067599697121075647",
+        "created_at": "2026-06-18T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067599697121075647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwcJ2X4DLf",
+              "end": 146,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2067599697121075647/photo/1",
+              "media_key": "3_2067599694046605312",
+              "start": 123,
+              "url": "https://t.co/HwcJ2X4DLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067599697121075647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 161,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Ket  测试(模拟给药 仅供娱乐科普)\n\n「以下纯个人虚构娱乐！！！仅供参考，严禁模仿，任何物质使用请咨询医师，支持科学减害 严格遵循X规则」\n\n(本帖只做测试科普 模拟盐酸艾司氯胺酮治疗进行后 患者的大致感受，不出售不推广也不存在任何卖家) https://t.co/HwcJ2X4DLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 907,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1952
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.",
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 79,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

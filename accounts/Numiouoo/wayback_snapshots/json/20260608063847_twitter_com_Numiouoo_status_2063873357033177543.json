@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-08T06:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063873357033177543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766377133558169600",
+          "start": 0,
+          "username": "oxygen_alive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063873357033177543",
+    "in_reply_to_user_id": "1766377133558169600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063795348909469752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxygen_alive istp也蛮少见的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-08T06:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063873357033177543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766377133558169600",
+              "start": 0,
+              "username": "oxygen_alive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063873357033177543",
+        "in_reply_to_user_id": "1766377133558169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063795348909469752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxygen_alive istp也蛮少见的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766377133558169600",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-08T01:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063795348909469752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063795348909469752",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607575619440661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 原本Intp 現在istp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 771,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1287
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T08:15:16.000Z",
+        "description": "謹慎關注 三次二次都有｜发的都是很负面碎碎念｜我很溫良的｜私信只對互關開放 可以找我聊天的！｜不喜歡和別人爭吵 ｜社恐焦慮抑鬱｜English 普通話 粵語｜泛性戀｜喜愛幻覺 ｜ 🍐🚗🍎| 精神狀態很差 #shwtw ｜🇯🇵🇺🇸🇭🇰🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "shwtw"
+              }
+            ]
+          }
+        },
+        "id": "1766377133558169600",
+        "location": "New York, USA",
+        "name": "🦋夜尸Oxygen",
+        "pinned_tweet_id": "2032122336430952528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982837060957343744/EO8vzeLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 921,
+          "like_count": 20640,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 407
+        },
+        "username": "oxygen_alive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067627000764973188",
+    "created_at": "2026-06-20T19:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068410804165312544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992924673534029824",
+          "start": 0,
+          "username": "lizIizlizIizIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068410804165312544",
+    "in_reply_to_user_id": "1992924673534029824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068293390467481974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizIizlizIizIl 贴贴(〃'▽'〃)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-20T19:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068410804165312544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992924673534029824",
+              "start": 0,
+              "username": "lizIizlizIizIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068410804165312544",
+        "in_reply_to_user_id": "1992924673534029824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068293390467481974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizIizlizIizIl 贴贴(〃'▽'〃)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992924673534029824",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-20T11:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068293390467481974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068293390467481974",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067627000764973188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 哎呀好甜呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 914,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2017
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T11:54:22.000Z",
+        "description": "yuki/雪 19↑\n結月ゆかり全肯定！同担大欢迎！\n对所有群体友好❄️ 频道建议欧得妹和餐券来玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/namida_rain233…",
+                "end": 23,
+                "expanded_url": "https://t.me/namida_rain233orz",
+                "start": 0,
+                "url": "https://t.co/0Mzn6qNqkP"
+              }
+            ]
+          }
+        },
+        "id": "1992924673534029824",
+        "location": "0.01km",
+        "name": "🌧️",
+        "pinned_tweet_id": "2048056379945189856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039593841666514944/VOV6yHM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 101,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/0Mzn6qNqkP",
+        "username": "lizIizlizIizIl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059858892155392373",
+    "created_at": "2026-05-28T10:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059948204532367826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053536594427338752",
+          "start": 0,
+          "username": "sonia_lychee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948204532367826",
+    "in_reply_to_user_id": "2053536594427338752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059858892155392373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonia_lychee 一样。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059858892155392373",
+        "created_at": "2026-05-28T10:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059948204532367826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053536594427338752",
+              "start": 0,
+              "username": "sonia_lychee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948204532367826",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059858892155392373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonia_lychee 一样。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053536594427338752",
+        "conversation_id": "2059858892155392373",
+        "created_at": "2026-05-28T04:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059858892155392373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059858892155392373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这把是真的闹饥荒了我第一次发现原来人瘦下来的时候胯骨轴子咯手……我该谢谢我之前把自己养得还算肉乎吗？也算是拿肉换命了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 455
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:22.000Z",
+        "description": "只是吐黑泥的地方",
+        "id": "2053536594427338752",
+        "location": "Nakano-ku, Tokyo",
+        "name": "sonia0212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053536777672278016/QaKcIqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "sonia_lychee",
+        "verified": false
+      }
+    ]
+  }
+}

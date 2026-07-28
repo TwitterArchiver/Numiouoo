@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065820283915903032",
+    "created_at": "2026-06-15T01:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066324993848602766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998839644331585537",
+          "start": 0,
+          "username": "LinD1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066324993848602766",
+    "in_reply_to_user_id": "1998839644331585537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066232638596354407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinD1314 我吃普瑞巴林轻断食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065820283915903032",
+        "created_at": "2026-06-15T01:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066324993848602766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998839644331585537",
+              "start": 0,
+              "username": "LinD1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066324993848602766",
+        "in_reply_to_user_id": "1998839644331585537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066232638596354407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinD1314 我吃普瑞巴林轻断食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998839644331585537",
+        "conversation_id": "2065820283915903032",
+        "created_at": "2026-06-14T18:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066232638596354407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066232638596354407",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065820283915903032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 吃了会不会变得很胖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 874,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1751
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T19:38:13.000Z",
+        "description": "",
+        "id": "1998839644331585537",
+        "name": "违逆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066229593447739392/0VTgB08M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "LinD1314",
+        "verified": false
+      }
+    ]
+  }
+}

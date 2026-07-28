@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062440979861508443",
+    "created_at": "2026-06-06T06:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063142139517931806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063142139517931806",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062929701996568591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 我会的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062440979861508443",
+        "created_at": "2026-06-06T06:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063142139517931806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063142139517931806",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062929701996568591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 我会的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929070811241132032",
+        "conversation_id": "2062440979861508443",
+        "created_at": "2026-06-05T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062929701996568591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062929701996568591",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062440979861508443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 加油加油！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 687,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1072
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleWu｜11年｜东莞/中山/珠三角｜同类直fo｜餐卷猫抓｜o割🚬｜私信除门不回｜我宝贝@ekj5615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ekj5615"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "🚪52",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2062946570027536455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056292303548170240/csrJSFGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 226,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 588
+        },
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

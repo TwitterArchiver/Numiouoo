@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064967605014917158",
+    "created_at": "2026-06-11T07:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064975295300706731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862759529030549504",
+          "start": 0,
+          "username": "urusai1_nee"
+        },
+        {
+          "end": 24,
+          "id": "1876578710473830400",
+          "start": 13,
+          "username": "AocBemNyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064975295300706731",
+    "in_reply_to_user_id": "1862759529030549504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064967605014917158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@urusai1_nee @AocBemNyan ok严肃收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064967605014917158",
+        "created_at": "2026-06-11T07:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064975295300706731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862759529030549504",
+              "start": 0,
+              "username": "urusai1_nee"
+            },
+            {
+              "end": 24,
+              "id": "1876578710473830400",
+              "start": 13,
+              "username": "AocBemNyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064975295300706731",
+        "in_reply_to_user_id": "1862759529030549504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064967605014917158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urusai1_nee @AocBemNyan ok严肃收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862759529030549504",
+        "conversation_id": "2064967605014917158",
+        "created_at": "2026-06-11T07:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064967605014917158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1876578710473830400",
+              "start": 22,
+              "username": "AocBemNyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064967605014917158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个号暂时弃用or吐黑泥 你们去我这个新号吧@AocBemNyan 不知道为什么刚刚发的那个号虽然私信看得了但是被限流了我等之后再试试吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 846,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1497
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T07:24:41.000Z",
+        "description": "",
+        "id": "1862759529030549504",
+        "name": "只想躺在爱里发霉",
+        "pinned_tweet_id": "2064965646862127265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061322307461943296/5bjMqrcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 19,
+          "like_count": 8,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 59
+        },
+        "username": "urusai1_nee",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T10:36:52.000Z",
+        "description": "重加工",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekonyan_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekonyan_ovo",
+                "start": 0,
+                "url": "https://t.co/Gv4IdQlViD"
+              }
+            ]
+          }
+        },
+        "id": "1876578710473830400",
+        "name": "猫猫帽帽喵喵喵",
+        "pinned_tweet_id": "1901539527115800681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876579760303939586/0D57OjCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 33,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/Gv4IdQlViD",
+        "username": "AocBemNyan",
+        "verified": false
+      }
+    ]
+  }
+}

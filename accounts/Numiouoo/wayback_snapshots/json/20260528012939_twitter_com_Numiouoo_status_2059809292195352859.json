@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059809292195352859",
+    "created_at": "2026-05-28T01:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059809292195352859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nox8964/status…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/nox8964/status/2059720066724446469",
+          "start": 61,
+          "url": "https://t.co/FtwSYfPn3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059809292195352859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059720066724446469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直想上电视结果我1.0也没上过我都发了那么多逆天推文一条也没上过我嗷嗷嗷哭这一世（4.0）我一定再接再厉夺回我的一切 https://t.co/FtwSYfPn3v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059809292195352859",
+        "created_at": "2026-05-28T01:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059809292195352859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nox8964/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/nox8964/status/2059720066724446469",
+              "start": 61,
+              "url": "https://t.co/FtwSYfPn3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059809292195352859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059720066724446469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直想上电视结果我1.0也没上过我都发了那么多逆天推文一条也没上过我嗷嗷嗷哭这一世（4.0）我一定再接再厉夺回我的一切 https://t.co/FtwSYfPn3v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2059720066724446469",
+        "created_at": "2026-05-27T19:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059720066724446469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059720066724446469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望有一天我能上广州禁毒的大名单，然后我狠狠炒作🥰🥰所以娜娜警官你是脑弱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 430,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 434
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜Social liberalism｜德语🇩🇪学习中（目前很烂很烂）｜Liberté, égalité, fraternité🇫🇷｜你喜欢我＝我喜欢你｜反威权｜接受任何友善的立场和我交流｜如果心结解不开那就系成蝴蝶结吧 ｜副人格：@saki8964\n 叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gYX8"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🏴‍☠️🏳️‍⚧️#bot",
+        "pinned_tweet_id": "2039820910442471655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059434822767185920/PpMAMw4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 708,
+          "like_count": 9736,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 2493
+        },
+        "url": "https://t.co/wdpxB4gYX8",
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

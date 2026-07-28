@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2075319219051487528",
+    "created_at": "2026-07-10T02:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075413603117871458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046538614209994752",
+          "start": 0,
+          "username": "overdose7days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075413603117871458",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075319219051487528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose7days 可以卡bug（）想磕的时候对象跟你一起磕共度快乐时光，在意识到你物质依赖或者成瘾痛苦的时候又拉着你不让你磕🥰🥰🥰你只是需要能理解你共情你的人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2075319219051487528",
+        "created_at": "2026-07-10T02:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075413603117871458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075413603117871458",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075319219051487528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 可以卡bug（）想磕的时候对象跟你一起磕共度快乐时光，在意识到你物质依赖或者成瘾痛苦的时候又拉着你不让你磕🥰🥰🥰你只是需要能理解你共情你的人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075319219051487528",
+        "created_at": "2026-07-09T20:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075319219051487528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babysnakeviole…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/babysnakeviolet/status/2075245261165916204",
+              "start": 89,
+              "url": "https://t.co/JztYH4gcYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075319219051487528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075245261165916204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是我对象希望我吸毒磕药，我会觉得他太自甘堕落而且会拉着我和他一起堕落从而分手；要是我对象不希望我吸毒磕药，我会觉得他太健全太上进跟我一点都不相配从而分手，唉所以我是爱无能😖😖 https://t.co/JztYH4gcYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 959,
+          "like_count": 3433,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 102,
+          "like_count": 6341,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

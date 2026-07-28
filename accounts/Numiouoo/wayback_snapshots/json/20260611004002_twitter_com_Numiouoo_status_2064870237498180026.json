@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064205630777495558",
+    "created_at": "2026-06-11T00:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064870237498180026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786009996062494720",
+          "start": 0,
+          "username": "m6nam1_void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064870237498180026",
+    "in_reply_to_user_id": "1786009996062494720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064733814916837613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m6nam1_void 剧烈欣赏😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064205630777495558",
+        "created_at": "2026-06-11T00:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064870237498180026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786009996062494720",
+              "start": 0,
+              "username": "m6nam1_void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064870237498180026",
+        "in_reply_to_user_id": "1786009996062494720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064733814916837613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m6nam1_void 剧烈欣赏😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786009996062494720",
+        "conversation_id": "2064205630777495558",
+        "created_at": "2026-06-10T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064733814916837613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064733814916837613",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205630777495558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 加巴喷丁奴来了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵同类查成分主页感兴趣会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 841,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1480
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T12:29:09.000Z",
+        "description": "=安绫 丨18↑丨ENG/中文/日本語丨重加工注意 | 無言フォロー&リツイート失礼します | 日本語翻訳機を使用します",
+        "id": "1786009996062494720",
+        "location": "臂弯",
+        "name": "⋆｡laceail †ഒ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046576436279201793/mqjYo6b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 756,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1626
+        },
+        "username": "m6nam1_void",
+        "verified": false
+      }
+    ]
+  }
+}

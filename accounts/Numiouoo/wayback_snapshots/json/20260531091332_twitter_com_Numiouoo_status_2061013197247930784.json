@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061011211723194392",
+    "created_at": "2026-05-31T09:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061013197247930784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061013197247930784",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061011211723194392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye 你对他人的厌恶不若是你对自己的 在极度厌恶某一个与你对立的事物之前 在你发现全世界带刺之前 请思考你是否摘去了自己眼中的梁木"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061011211723194392",
+        "created_at": "2026-05-31T09:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061013197247930784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061013197247930784",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061011211723194392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye 你对他人的厌恶不若是你对自己的 在极度厌恶某一个与你对立的事物之前 在你发现全世界带刺之前 请思考你是否摘去了自己眼中的梁木"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061011211723194392",
+        "created_at": "2026-05-31T09:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061011211723194392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061011211723194392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我友全部，我友全部，我友全部\n你是amab afab trans enby 任意指派性别任意的认同性别 我友\n你是异性恋同性恋双性恋无性恋单偶多偶 我友\n你是oder你是addict你反对od你反对吸毒 我友\n\n反正我容得下所有人 你能不能容下我就是你的事情了 糯米教主心胸广阔喵！诚招教徒共建美好社会୧(´▽`★)୭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 503,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 637
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

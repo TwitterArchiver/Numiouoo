@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064611483468877835",
+    "created_at": "2026-06-11T14:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065073888728609071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713390803438170112",
+          "start": 0,
+          "username": "0711C1mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065073888728609071",
+    "in_reply_to_user_id": "1713390803438170112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065073460305666215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0711C1mo 我哭了我来了呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064611483468877835",
+        "created_at": "2026-06-11T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065073888728609071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713390803438170112",
+              "start": 0,
+              "username": "0711C1mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065073888728609071",
+        "in_reply_to_user_id": "1713390803438170112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065073460305666215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0711C1mo 我哭了我来了呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713390803438170112",
+        "conversation_id": "2064611483468877835",
+        "created_at": "2026-06-11T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065073460305666215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065073460305666215",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064611483468877835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo omg糯米…我说怎么没看到你发推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 850,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1510
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T03:06:27.000Z",
+        "description": "自伤 sub/m 展示一些“作品”和碎碎念 同类互fo",
+        "id": "1713390803438170112",
+        "location": "⚰️",
+        "name": "今",
+        "pinned_tweet_id": "2025223056004641212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025230355943309313/5ZEuJa5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 150,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 557
+        },
+        "username": "0711C1mo",
+        "verified": false
+      }
+    ]
+  }
+}

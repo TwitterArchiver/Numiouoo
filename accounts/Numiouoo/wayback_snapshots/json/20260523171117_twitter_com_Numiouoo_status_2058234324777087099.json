@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058196235262234987",
+    "created_at": "2026-05-23T17:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058234324777087099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1171658344861511682",
+          "start": 0,
+          "username": "Qslhxw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058234324777087099",
+    "in_reply_to_user_id": "1171658344861511682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058231889027346452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qslhxw77 如果你在别的账号认识我可能就会更新对我的认知了哈哈哈˙ᗜ˙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T17:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058234324777087099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058234324777087099",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058231889027346452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 如果你在别的账号认识我可能就会更新对我的认知了哈哈哈˙ᗜ˙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171658344861511682",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T17:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058231889027346452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058231889027346452",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058230936991588741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo intj都很自我主义且超级以自我为中心不考虑他人感受，把人当资源所以我觉得你不像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 274,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 133
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-792-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031108261014024197/KWrNJISV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 304,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 340
+        },
+        "username": "Qslhxw77",
+        "verified": false
+      }
+    ]
+  }
+}

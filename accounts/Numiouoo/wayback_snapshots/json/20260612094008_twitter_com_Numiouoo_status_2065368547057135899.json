@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065368281352175655",
+    "created_at": "2026-06-12T09:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065368547057135899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065368547057135899",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065368281352175655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起我有点刻薄，但是有时候大半夜遇到身材t0级别的黄片博主，冲得很起兴的时候他们一说话我瞬间就萎了，我很难过，那么好的身材为什么不能当一对哑巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065368281352175655",
+        "created_at": "2026-06-12T09:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065368547057135899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065368547057135899",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065368281352175655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起我有点刻薄，但是有时候大半夜遇到身材t0级别的黄片博主，冲得很起兴的时候他们一说话我瞬间就萎了，我很难过，那么好的身材为什么不能当一对哑巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065368281352175655",
+        "created_at": "2026-06-12T09:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065368281352175655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065368281352175655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能通过收听任何黄色语音来手冲，因为我会笑场，我看片还要把声音给关了，我听不得不标准的普通话以及不优美的中文，我强烈需求黄色语音考核标准提升至普通话二甲+和高考语文110+✋🏻😭🤚🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 854,
+          "like_count": 2152,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1555
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2075954364284604622",
+    "created_at": "2026-07-12T09:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076230521127051479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725043779751809024",
+          "start": 0,
+          "username": "Socomliate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076230521127051479",
+    "in_reply_to_user_id": "1725043779751809024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076207798543700261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Socomliate (´o̴̶̷̤ㅂo̴̶̷̤`)  不浪费任何一次蓝标（）嘿嘿贴贴希望你也有好的环境哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2075954364284604622",
+        "created_at": "2026-07-12T09:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076230521127051479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725043779751809024",
+              "start": 0,
+              "username": "Socomliate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076230521127051479",
+        "in_reply_to_user_id": "1725043779751809024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076207798543700261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Socomliate (´o̴̶̷̤ㅂo̴̶̷̤`)  不浪费任何一次蓝标（）嘿嘿贴贴希望你也有好的环境哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725043779751809024",
+        "conversation_id": "2075954364284604622",
+        "created_at": "2026-07-12T07:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076207798543700261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076207798543700261",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075954364284604622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 能发这么多话，蓝标还是太超模了……但这方面暂且不论，家人能理解自己，并且选择不过多干预自己生活，不强行试图闯入或者支配子女的生活这点也很让人羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 969,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2683
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-16T06:51:14.000Z",
+        "description": "不管谁在什么时间看到这条简介，都祝你早上，中午，晚上好。",
+        "id": "1725043779751809024",
+        "location": "夏莱调停委员会",
+        "name": "孤独夜驱",
+        "pinned_tweet_id": "1909293269906763922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998071066900541442/i8q2KinC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3503
+        },
+        "url": "",
+        "username": "Socomliate",
+        "verified": false
+      }
+    ]
+  }
+}

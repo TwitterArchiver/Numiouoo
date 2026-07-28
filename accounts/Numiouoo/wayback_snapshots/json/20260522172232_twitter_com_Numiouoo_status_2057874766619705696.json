@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057736649417855377",
+    "created_at": "2026-05-22T17:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057874766619705696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1351508281366175748",
+          "start": 0,
+          "username": "CC330721"
+        },
+        {
+          "end": 20,
+          "id": "2034276767331221504",
+          "start": 10,
+          "username": "SAIKAIaly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057874766619705696",
+    "in_reply_to_user_id": "1351508281366175748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057759712163315730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CC330721 @SAIKAIaly 是的TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-22T17:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057874766619705696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1351508281366175748",
+              "start": 0,
+              "username": "CC330721"
+            },
+            {
+              "end": 20,
+              "id": "2034276767331221504",
+              "start": 10,
+              "username": "SAIKAIaly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057874766619705696",
+        "in_reply_to_user_id": "1351508281366175748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057759712163315730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CC330721 @SAIKAIaly 是的TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351508281366175748",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-22T09:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057759712163315730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "2034276767331221504",
+              "start": 10,
+              "username": "SAIKAIaly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057759712163315730",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736649417855377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @SAIKAIaly 哇回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n唯爱同类🩵我素精神病🩵永远爱大家\n请再一次与我相遇 我要永远和你们贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸（回不了评论哑巴中QAQ）",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 120,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T12:34:33.000Z",
+        "description": "🤤",
+        "id": "1351508281366175748",
+        "location": "🏳️‍⚧️",
+        "name": "CC0721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017757382890426371/iOap7SBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 129,
+          "like_count": 4574,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 466
+        },
+        "username": "CC330721",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T14:32:44.000Z",
+        "description": "大号妈妈:@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/LdLf6HBhDq"
+              }
+            ]
+          }
+        },
+        "id": "2034276767331221504",
+        "name": "夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056772799436611596/QiSmMFAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 132,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/LdLf6HBhDq",
+        "username": "SAIKAIaly",
+        "verified": false
+      }
+    ]
+  }
+}

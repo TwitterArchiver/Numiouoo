@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073785852531249440",
+    "created_at": "2026-07-05T15:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073792162148565419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655455133579481088",
+          "start": 0,
+          "username": "xiaolang000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073792162148565419",
+    "in_reply_to_user_id": "1655455133579481088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073785852531249440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolang000 我希望自己的身体可以同时没有这两个东西，应该跟你异曲同工（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073785852531249440].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073785852531249440",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073785852531249440"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073785852531249440",
+        "created_at": "2026-07-05T15:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073792162148565419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655455133579481088",
+              "start": 0,
+              "username": "xiaolang000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073792162148565419",
+        "in_reply_to_user_id": "1655455133579481088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073785852531249440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolang000 我希望自己的身体可以同时没有这两个东西，应该跟你异曲同工（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 951,
+          "like_count": 3289,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T06:11:05.000Z",
+        "description": "不定期更换头像，我会画画，另一个号：@langlanglan2\nTransfeminine & Enby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "langlanglan2"
+              }
+            ]
+          }
+        },
+        "id": "1655455133579481088",
+        "name": "👁️",
+        "pinned_tweet_id": "1845685401060864408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898309694554562560/xKM-CrNg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 945,
+          "like_count": 18304,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "xiaolang000",
+        "verified": false
+      }
+    ]
+  }
+}

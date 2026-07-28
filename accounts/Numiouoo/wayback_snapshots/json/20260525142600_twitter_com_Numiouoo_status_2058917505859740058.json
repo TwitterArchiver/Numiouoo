@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058866010841878935",
+    "created_at": "2026-05-25T14:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058917505859740058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005197236628840448",
+          "start": 0,
+          "username": "Ruri_17T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058917505859740058",
+    "in_reply_to_user_id": "2005197236628840448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058914337331573191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_17T6 变成精神病（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058866010841878935",
+        "created_at": "2026-05-25T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058917505859740058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005197236628840448",
+              "start": 0,
+              "username": "Ruri_17T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917505859740058",
+        "in_reply_to_user_id": "2005197236628840448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058914337331573191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_17T6 变成精神病（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005197236628840448",
+        "conversation_id": "2058866010841878935",
+        "created_at": "2026-05-25T14:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058914337331573191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058914337331573191",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058866010841878935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 求每日欣快方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 318,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 258
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T08:41:06.000Z",
+        "description": "ಇ.朝霞 | 焦慮創傷恐慌治療中(新增解離) | 厭男/厭正常健全人。| ｡.:*･ﾟ☆.｡.:*･ﾟ”￡(｡･”･)-†",
+        "id": "2005197236628840448",
+        "name": "ㄓㄒ2.0",
+        "pinned_tweet_id": "2014178575554158943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005215503162421248/muYGBQ3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 66,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 415
+        },
+        "username": "Ruri_17T6",
+        "verified": false
+      }
+    ]
+  }
+}

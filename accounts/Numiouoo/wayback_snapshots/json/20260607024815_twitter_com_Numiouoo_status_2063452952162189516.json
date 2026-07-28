@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063125855514308762",
+    "created_at": "2026-06-07T02:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063452952162189516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        },
+        {
+          "end": 27,
+          "id": "2046957580791189504",
+          "start": 14,
+          "username": "yumeialinlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063452952162189516",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063320352781177148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin @yumeialinlin 雪兔爱好者的素养！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063125855514308762",
+        "created_at": "2026-06-07T02:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063452952162189516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            },
+            {
+              "end": 27,
+              "id": "2046957580791189504",
+              "start": 14,
+              "username": "yumeialinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063452952162189516",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063320352781177148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin @yumeialinlin 雪兔爱好者的素养！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2063125855514308762",
+        "created_at": "2026-06-06T18:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063320352781177148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 23,
+              "id": "2046957580791189504",
+              "start": 10,
+              "username": "yumeialinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063320352781177148",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063185193918431560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @yumeialinlin 你为啥镇会说😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 716,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1143
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书哦。新对政治思想史 英美道德学 德国法学感兴趣。凝聚态物理研究生。想做一个功利主义的幸福者。一元论爱欲观。我来推特就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2062599294486729145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 154,
+          "like_count": 12678,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T14:21:44.000Z",
+        "description": "长叹息以掩涕兮，哀民生之多艰",
+        "id": "2046957580791189504",
+        "location": "格拉摩根",
+        "name": "玉米阿琳",
+        "pinned_tweet_id": "2062796073249476853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058262152788762624/dgjiTZv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 56,
+          "like_count": 1664,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 216
+        },
+        "username": "yumeialinlin",
+        "verified": false
+      }
+    ]
+  }
+}

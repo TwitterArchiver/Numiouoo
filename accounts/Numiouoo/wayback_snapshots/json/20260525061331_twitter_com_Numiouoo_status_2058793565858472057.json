@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058648027997610230",
+    "created_at": "2026-05-25T06:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058793565858472057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041205107920908288",
+          "start": 0,
+          "username": "yosfl907yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058793565858472057",
+    "in_reply_to_user_id": "2041205107920908288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058648027997610230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yosfl907yu 资瓷雾化蠢人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058648027997610230",
+        "created_at": "2026-05-25T06:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058793565858472057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041205107920908288",
+              "start": 0,
+              "username": "yosfl907yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058793565858472057",
+        "in_reply_to_user_id": "2041205107920908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058648027997610230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yosfl907yu 资瓷雾化蠢人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041205107920908288",
+        "conversation_id": "2058648027997610230",
+        "created_at": "2026-05-24T20:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058648027997610230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058648027997610230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我眼里蠢人和动物的区别就是听懂的人话多少，所以好像在我眼里人和动物是一样的。我本质上是有点利己思维，或者说有点像恶毒的男性思维。就那种物化女性的被骂的典型男权思维，不过我是在物化所有的蠢人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 318,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 234
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T17:24:22.000Z",
+        "description": "你好呀，你可以叫我小雨也可以叫我梦断，平时会发一些碎碎念，身体和精神上都有些问题，但是在积极生活呢，欢迎大家和我互fo喔",
+        "id": "2041205107920908288",
+        "name": "yosfl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041207343669751809/QXxw1fdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 38,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 224
+        },
+        "username": "yosfl907yu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058431759621210417",
+    "created_at": "2026-05-24T06:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058435535514071216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036472116934266880",
+          "start": 0,
+          "username": "sealofKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058435535514071216",
+    "in_reply_to_user_id": "2036472116934266880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058431759621210417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sealofKk 我也想！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058431759621210417",
+        "created_at": "2026-05-24T06:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058435535514071216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036472116934266880",
+              "start": 0,
+              "username": "sealofKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058435535514071216",
+        "in_reply_to_user_id": "2036472116934266880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058431759621210417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sealofKk 我也想！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036472116934266880",
+        "conversation_id": "2058431759621210417",
+        "created_at": "2026-05-24T06:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058431759621210417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058431759621210417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去香港买右美沙芬能带回内地不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 301,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 164
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:56:20.000Z",
+        "description": "我不认识kk 抱歉丨k大k被ban此帐号限时开放",
+        "id": "2036472116934266880",
+        "name": "在我变成你之前",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047544086165606400/FlN0xKBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "sealofKk",
+        "verified": false
+      }
+    ]
+  }
+}

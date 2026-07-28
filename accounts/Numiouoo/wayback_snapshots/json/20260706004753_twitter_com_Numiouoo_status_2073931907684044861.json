@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073787974706438195",
+    "created_at": "2026-07-06T00:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073931907684044861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907423212235038720",
+          "start": 0,
+          "username": "FireKi_TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073931907684044861",
+    "in_reply_to_user_id": "1907423212235038720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073845632230691151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FireKi_TT 不会呀，很开心你跟我分享那么多，你一定会越来越自洽自稳的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073787974706438195",
+        "created_at": "2026-07-06T00:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073931907684044861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907423212235038720",
+              "start": 0,
+              "username": "FireKi_TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073931907684044861",
+        "in_reply_to_user_id": "1907423212235038720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073845632230691151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FireKi_TT 不会呀，很开心你跟我分享那么多，你一定会越来越自洽自稳的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907423212235038720",
+        "conversation_id": "2073787974706438195",
+        "created_at": "2026-07-05T19:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073845632230691151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073845632230691151",
+        "in_reply_to_user_id": "1907423212235038720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073844878619156556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 很抱歉莫名其妙打了这么大一堆 希望没有给你带来压力o(╥﹏╥)o我不太习惯在社交平台留下太多痕迹 也许是因为深夜时段情绪不稳定所以…刚刚磕了pr现在整个人也有些乱七八糟的……我只是想说谢谢你糯米！愿我可以成为如你一般强大的人🥹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 950,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2520
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T13:22:09.000Z",
+        "description": "Hi。ᐕ)⁾⁾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fireki_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fireki_ovo",
+                "start": 0,
+                "url": "https://t.co/4g1BD3bH7t"
+              }
+            ]
+          }
+        },
+        "id": "1907423212235038720",
+        "location": "*Fiki 掉出了这个世界。Q&A↓\n",
+        "name": "Fiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073696452933771265/RYdKRFoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/4g1BD3bH7t",
+        "username": "FireKi_TT",
+        "verified": false
+      }
+    ]
+  }
+}

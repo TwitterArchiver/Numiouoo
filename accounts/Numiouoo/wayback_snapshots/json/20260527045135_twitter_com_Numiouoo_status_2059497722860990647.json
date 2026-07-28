@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059497722860990647",
+    "created_at": "2026-05-27T04:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059497722860990647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059497722860990647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029013651911524551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029013610178244608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiBINcbcAAtDLf.jpg",
+        "width": 1019
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029013638217121794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiBJ15awAIsND8.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059497722860990647",
+        "created_at": "2026-05-27T04:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059497722860990647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059497722860990647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029013651911524551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029013610178244608",
+            "3_2029013638217121794"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2029013651911524551",
+        "created_at": "2026-03-04T01:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029013651911524551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wK1XiuChT",
+              "end": 159,
+              "expanded_url": "https://x.com/neko0202002/status/2029013651911524551/photo/1",
+              "media_key": "3_2029013610178244608",
+              "start": 136,
+              "url": "https://t.co/2wK1XiuChT"
+            },
+            {
+              "display_url": "pic.x.com/2wK1XiuChT",
+              "end": 159,
+              "expanded_url": "https://x.com/neko0202002/status/2029013651911524551/photo/1",
+              "media_key": "3_2029013638217121794",
+              "start": 136,
+              "url": "https://t.co/2wK1XiuChT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029013651911524551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 68405,
+          "like_count": 642,
+          "quote_count": 14,
+          "reply_count": 53,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们，请转一下，如果你的朋友想要自杀，如果你的朋友本身不想死去，她只是太绝望了，在等别人向她伸出援手，那就请不要让她在绝望的死去，这不是什么圣母，请别骂我，如果一个人真的想死，是救不回来的，如果她在绝望里面还有希望走向死亡，那就有一定的概率可以救回来 \n请转发，求求了 https://t.co/2wK1XiuChT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 404,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 372
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1004,
+          "like_count": 1636,
+          "listed_count": 2,
+          "media_count": 1486,
+          "tweet_count": 4133
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

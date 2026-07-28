@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065735819336507802",
+    "created_at": "2026-06-15T07:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066424407061667947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994689378783039488",
+          "start": 0,
+          "username": "nemulasete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066424407061667947",
+    "in_reply_to_user_id": "1994689378783039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066423953678278853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemulasete 恭喜！被开除健全人籍贯（bushi）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066423939522555904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1pn-aa8AAr5_0.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065735819336507802",
+        "created_at": "2026-06-15T07:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066424407061667947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994689378783039488",
+              "start": 0,
+              "username": "nemulasete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066424407061667947",
+        "in_reply_to_user_id": "1994689378783039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066423953678278853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemulasete 恭喜！被开除健全人籍贯（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066423939522555904"
+          ]
+        },
+        "author_id": "1994689378783039488",
+        "conversation_id": "2065735819336507802",
+        "created_at": "2026-06-15T07:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066423953678278853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DhjcWrETq",
+              "end": 38,
+              "expanded_url": "https://x.com/nemulasete/status/2066423953678278853/photo/1",
+              "media_key": "3_2066423939522555904",
+              "start": 15,
+              "url": "https://t.co/9DhjcWrETq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066423953678278853",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065735819336507802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 干什么！ https://t.co/9DhjcWrETq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 881,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1766
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:46:43.000Z",
+        "description": "メンヘラのひとりごと。",
+        "id": "1994689378783039488",
+        "name": "マイスリー",
+        "pinned_tweet_id": "2064893045703905515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016577871855439874/85apBSRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 35,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 570
+        },
+        "username": "nemulasete",
+        "verified": false
+      }
+    ]
+  }
+}

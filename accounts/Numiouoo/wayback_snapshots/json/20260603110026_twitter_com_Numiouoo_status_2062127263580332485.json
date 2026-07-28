@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061994971532780007",
+    "created_at": "2026-06-03T11:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062127263580332485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062127263580332485",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062127006335353118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 我哭了我哭了小愿宝宝呀呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061994971532780007",
+        "created_at": "2026-06-03T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127263580332485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127263580332485",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062127006335353118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 我哭了我哭了小愿宝宝呀呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748755970636038144",
+        "conversation_id": "2061994971532780007",
+        "created_at": "2026-06-03T10:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127006335353118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127006335353118",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061994971532780007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 糯米我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 632,
+          "like_count": 1276,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 899
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "2047656403721171089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049097812126953472/7qsiStF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 566,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065978978968711617",
+    "created_at": "2026-06-14T15:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066181402446741841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812814260046872576",
+          "start": 0,
+          "username": "ttLSLjxCbi90707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066181402446741841",
+    "in_reply_to_user_id": "1812814260046872576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066150678297211377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttLSLjxCbi90707 笑死我了这个不错啊！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T15:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066181402446741841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812814260046872576",
+              "start": 0,
+              "username": "ttLSLjxCbi90707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066181402446741841",
+        "in_reply_to_user_id": "1812814260046872576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066150678297211377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttLSLjxCbi90707 笑死我了这个不错啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812814260046872576",
+        "conversation_id": "2065978978968711617",
+        "created_at": "2026-06-14T13:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066150678297211377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066150678297211377",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065978978968711617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 让他吃点感冒灵颗粒得了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 873,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1726
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T11:39:44.000Z",
+        "description": "泛性恋，sub 喜绳/滴蜡/sp\n死亡是凉爽的夜晚",
+        "id": "1812814260046872576",
+        "name": "迷路小狗",
+        "pinned_tweet_id": "1846109499830026341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820719691188596736/aoMkKYZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 363,
+          "like_count": 1772,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 474
+        },
+        "username": "ttLSLjxCbi90707",
+        "verified": false
+      }
+    ]
+  }
+}

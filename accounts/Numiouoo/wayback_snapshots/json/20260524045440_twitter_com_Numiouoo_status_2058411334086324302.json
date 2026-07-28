@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057736649417855377",
+    "created_at": "2026-05-24T04:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058411334086324302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617812832464297984",
+          "start": 0,
+          "username": "LTLkindred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058411334086324302",
+    "in_reply_to_user_id": "1617812832464297984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058410630399558072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTLkindred 宝宝！贴贴QAQ 我fo刚刚被限制了刷新cd回你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-24T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058411334086324302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617812832464297984",
+              "start": 0,
+              "username": "LTLkindred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058411334086324302",
+        "in_reply_to_user_id": "1617812832464297984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058410630399558072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTLkindred 宝宝！贴贴QAQ 我fo刚刚被限制了刷新cd回你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617812832464297984",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-24T04:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058410630399558072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058410630399558072",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736649417855377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 好耶，糯米回来啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 299,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 157
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T09:14:14.000Z",
+        "description": "//深宅家中//时常陷入抑郁 //性别未知        \n喜爱玩游戏🎮（经常不知道玩什么 讨厌腾讯\n//喜欢❤️一切可爱的事物 (ૢ˃ꌂ˂⁎)   //oder💊        \n梦想有一天突然考入心仪的学校\n//ASD（聊天能力欠缺）INTP，INFP随机转化//缺爱💔（想要姐姐妹妹）//",
+        "id": "1617812832464297984",
+        "name": "LTLkindred",
+        "pinned_tweet_id": "2028890908905885823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024260517905436672/OWpIdUho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 182
+        },
+        "username": "LTLkindred",
+        "verified": false
+      }
+    ]
+  }
+}

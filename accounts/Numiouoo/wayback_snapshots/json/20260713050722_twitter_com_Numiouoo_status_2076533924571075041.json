@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2076215262735695984",
+    "created_at": "2026-07-13T05:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076533924571075041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990368873632436224",
+          "start": 0,
+          "username": "lil_tea_cpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076533924571075041",
+    "in_reply_to_user_id": "1990368873632436224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076332218600050927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil_tea_cpp 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2076215262735695984",
+        "created_at": "2026-07-13T05:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076533924571075041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990368873632436224",
+              "start": 0,
+              "username": "lil_tea_cpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076533924571075041",
+        "in_reply_to_user_id": "1990368873632436224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076332218600050927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil_tea_cpp 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990368873632436224",
+        "conversation_id": "2076215262735695984",
+        "created_at": "2026-07-12T15:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076332218600050927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076332218600050927",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215262735695984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo jd (红底白狗图标网购软件) 试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 970,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T10:38:23.000Z",
+        "description": "she/her. enfp, bipolar. legendary coder, 已签公司. unfamous rapper, 不签公司.\n邮件联系 3h.young.tea@gmail.com , 全球可飞, 欢迎音乐节联系.\n神啊, 让心选姐取消拉黑我吧, 只要取消拉黑就行.",
+        "id": "1990368873632436224",
+        "location": "long beach",
+        "name": "lil_tea🍥",
+        "pinned_tweet_id": "2072919946846470346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068720641801666560/k4RX6NQ-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 102,
+          "like_count": 2908,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "lil_tea_cpp",
+        "verified": false
+      }
+    ]
+  }
+}

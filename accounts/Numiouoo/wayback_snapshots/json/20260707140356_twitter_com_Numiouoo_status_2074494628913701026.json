@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074128231528333573",
+    "created_at": "2026-07-07T14:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074494628913701026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074494628913701026",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074128231528333573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT 好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2074128158513917952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjIkirbcAAtq21.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2074128159273025537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjIklgagAEujtP.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2074128165233180672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjIk7tbQAARCtP.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2074128171780415488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjIlUGaIAAdoqR.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074128231528333573",
+        "created_at": "2026-07-07T14:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074494628913701026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074494628913701026",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074128231528333573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074128158513917952",
+            "3_2074128159273025537",
+            "3_2074128165233180672",
+            "3_2074128171780415488"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074128231528333573",
+        "created_at": "2026-07-06T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074128231528333573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRP7Upa4kV",
+              "end": 44,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074128231528333573/photo/1",
+              "media_key": "3_2074128158513917952",
+              "start": 21,
+              "url": "https://t.co/fRP7Upa4kV"
+            },
+            {
+              "display_url": "pic.x.com/fRP7Upa4kV",
+              "end": 44,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074128231528333573/photo/1",
+              "media_key": "3_2074128159273025537",
+              "start": 21,
+              "url": "https://t.co/fRP7Upa4kV"
+            },
+            {
+              "display_url": "pic.x.com/fRP7Upa4kV",
+              "end": 44,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074128231528333573/photo/1",
+              "media_key": "3_2074128165233180672",
+              "start": 21,
+              "url": "https://t.co/fRP7Upa4kV"
+            },
+            {
+              "display_url": "pic.x.com/fRP7Upa4kV",
+              "end": 44,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074128231528333573/photo/1",
+              "media_key": "3_2074128171780415488",
+              "start": 21,
+              "url": "https://t.co/fRP7Upa4kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074128231528333573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12576,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "捲毛操蛋小貓咪🐈️⁉️\n請開大圖食用喵♡ https://t.co/fRP7Upa4kV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 960,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 41,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

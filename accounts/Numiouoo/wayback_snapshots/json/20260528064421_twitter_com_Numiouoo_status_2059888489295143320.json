@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059868923957547197",
+    "created_at": "2026-05-28T06:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059888489295143320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058623145423388672",
+          "start": 0,
+          "username": "Nosameyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059888489295143320",
+    "in_reply_to_user_id": "2058623145423388672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059883741267312755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nosameyer 冲爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059868923957547197",
+        "created_at": "2026-05-28T06:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059888489295143320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058623145423388672",
+              "start": 0,
+              "username": "Nosameyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059888489295143320",
+        "in_reply_to_user_id": "2058623145423388672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059883741267312755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nosameyer 冲爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058623145423388672",
+        "conversation_id": "2059868923957547197",
+        "created_at": "2026-05-28T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059883741267312755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059883741267312755",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059868923957547197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo o爽了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 433,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 442
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T18:57:06.000Z",
+        "description": "酒蒙子，furry控，直的，有礼貌的小男生也可以找我扩不厌男不恐同（前提有礼貌）qq3432175995欢迎找我扩\n来玩推特想交朋友🥺🥺🥺",
+        "id": "2058623145423388672",
+        "location": "中国",
+        "name": "No sa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058644050756902912/Wg-d3C57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 59,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "Nosameyer",
+        "verified": false
+      }
+    ]
+  }
+}

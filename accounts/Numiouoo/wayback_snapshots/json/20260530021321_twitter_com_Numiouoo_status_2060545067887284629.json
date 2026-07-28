@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2060386538828308590",
+    "created_at": "2026-05-30T02:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060545067887284629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940833261363908611",
+          "start": 0,
+          "username": "miaomiaopig4576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060545067887284629",
+    "in_reply_to_user_id": "1940833261363908611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060400452634890339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomiaopig4576 好的一起爽吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2060386538828308590",
+        "created_at": "2026-05-30T02:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060545067887284629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940833261363908611",
+              "start": 0,
+              "username": "miaomiaopig4576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060545067887284629",
+        "in_reply_to_user_id": "1940833261363908611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060400452634890339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomiaopig4576 好的一起爽吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940833261363908611",
+        "conversation_id": "2060386538828308590",
+        "created_at": "2026-05-29T16:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060400452634890339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060400452634890339",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386538828308590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 已严肃学习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵同类回fo🩵漏fo私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 470,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 543
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T18:01:41.000Z",
+        "description": "心随天地走",
+        "id": "1940833261363908611",
+        "location": "在你床底",
+        "name": "拥抱直到世界毁灭",
+        "pinned_tweet_id": "2054513698119782790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054514469259358208/01WCsq2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 50,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1373
+        },
+        "username": "miaomiaopig4576",
+        "verified": false
+      }
+    ]
+  }
+}

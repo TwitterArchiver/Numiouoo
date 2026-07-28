@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063377676744950149",
+    "created_at": "2026-06-07T04:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063485895630799002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063485895630799002",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063377676744950149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZianTT_Official 卧槽哪里来的那么多可以面基的推友我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2063377667018420224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKXDlAbcAAcFpC.jpg",
+        "width": 881
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063377667026771968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKXDlCa4AAgeHL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2063377667022626816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKXDlBboAAj_16.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063377676744950149",
+        "created_at": "2026-06-07T04:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063485895630799002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063485895630799002",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063377676744950149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official 卧槽哪里来的那么多可以面基的推友我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063377667018420224",
+            "3_2063377667026771968",
+            "3_2063377667022626816"
+          ]
+        },
+        "author_id": "1689214483481452544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063377676744950149",
+        "created_at": "2026-06-06T21:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063377676744950149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7HVvjAd3M",
+              "end": 63,
+              "expanded_url": "https://x.com/ZianTT_Official/status/2063377676744950149/photo/1",
+              "media_key": "3_2063377667018420224",
+              "start": 40,
+              "url": "https://t.co/o7HVvjAd3M"
+            },
+            {
+              "display_url": "pic.x.com/o7HVvjAd3M",
+              "end": 63,
+              "expanded_url": "https://x.com/ZianTT_Official/status/2063377676744950149/photo/1",
+              "media_key": "3_2063377667026771968",
+              "start": 40,
+              "url": "https://t.co/o7HVvjAd3M"
+            },
+            {
+              "display_url": "pic.x.com/o7HVvjAd3M",
+              "end": 63,
+              "expanded_url": "https://x.com/ZianTT_Official/status/2063377676744950149/photo/1",
+              "media_key": "3_2063377667022626816",
+              "start": 40,
+              "url": "https://t.co/o7HVvjAd3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063377676744950149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同步一些近期的 meetup\n（人在广州 感觉良好 开水下的很好下次不要下了） https://t.co/o7HVvjAd3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 717,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1153
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 486,
+          "like_count": 2959,
+          "listed_count": 7,
+          "media_count": 224,
+          "tweet_count": 3467
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

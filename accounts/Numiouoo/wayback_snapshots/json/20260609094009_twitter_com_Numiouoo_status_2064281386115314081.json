@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2064170093706346540",
+    "created_at": "2026-06-09T09:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064281386115314081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696520356050444288",
+          "start": 0,
+          "username": "For_the_AIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064281386115314081",
+    "in_reply_to_user_id": "1696520356050444288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064275289316925495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@For_the_AIR 极乐人生！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2064170093706346540",
+        "created_at": "2026-06-09T09:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064281386115314081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696520356050444288",
+              "start": 0,
+              "username": "For_the_AIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064281386115314081",
+        "in_reply_to_user_id": "1696520356050444288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064275289316925495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@For_the_AIR 极乐人生！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696520356050444288",
+        "conversation_id": "2064170093706346540",
+        "created_at": "2026-06-09T09:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064275289316925495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064275289316925495",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064170093706346540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 极乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 813,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1383
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:49:28.000Z",
+        "description": "Looking in everywhere（\n眠るのが好き…",
+        "id": "1696520356050444288",
+        "name": "A",
+        "pinned_tweet_id": "1948795855458500898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739851588515291136/sun8z21A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 182,
+          "like_count": 7313,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 179
+        },
+        "username": "For_the_AIR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067295661473898766",
+    "created_at": "2026-06-17T17:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067295661473898766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2067267041082630276",
+          "start": 21,
+          "url": "https://t.co/tn5Qv2lVHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067295661473898766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067267041082630276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yueyueyue 吐傻了 刚刚凝聚人形 https://t.co/tn5Qv2lVHV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067295661473898766",
+        "created_at": "2026-06-17T17:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067295661473898766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2067267041082630276",
+              "start": 21,
+              "url": "https://t.co/tn5Qv2lVHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067295661473898766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267041082630276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yueyueyue 吐傻了 刚刚凝聚人形 https://t.co/tn5Qv2lVHV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2067267041082630276",
+        "created_at": "2026-06-17T15:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067267041082630276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067267041082630276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糯米不发推是因为它吐higt了 食用某阿片(遵循医嘱止痛使用 并非滥用)后绝赞连吐三次 现在瘫在我腿上动弹不得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 896,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1898
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 1537,
+          "like_count": 5386,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 2417
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

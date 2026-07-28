@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062507581705507161",
+    "created_at": "2026-06-04T12:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062511859585196106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587713006334418945",
+          "start": 0,
+          "username": "chenrui_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062511859585196106",
+    "in_reply_to_user_id": "1587713006334418945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062511754102313409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenrui_QAQ 守护全部enby！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062511754102313409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062511754102313409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062511754102313409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062507581705507161",
+        "created_at": "2026-06-04T12:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062511859585196106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587713006334418945",
+              "start": 0,
+              "username": "chenrui_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511859585196106",
+        "in_reply_to_user_id": "1587713006334418945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062511754102313409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenrui_QAQ 守护全部enby！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 660,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 994
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T07:47:45.000Z",
+        "description": "社恐\\欢迎互fo\\od\\键政",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cr77691",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cr77691",
+                "start": 0,
+                "url": "https://t.co/W4iZqYdyum"
+              }
+            ]
+          }
+        },
+        "id": "1587713006334418945",
+        "location": "生死門",
+        "name": "敐綏✨",
+        "pinned_tweet_id": "2056716375867961741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053143486258413575/LEhnX6GJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 113,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/W4iZqYdyum",
+        "username": "chenrui_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

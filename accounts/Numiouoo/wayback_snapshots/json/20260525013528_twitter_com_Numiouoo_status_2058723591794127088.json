@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058519966476083207",
+    "created_at": "2026-05-25T01:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058723591794127088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        },
+        {
+          "end": 28,
+          "id": "1978128183875514369",
+          "start": 17,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058723591794127088",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058682207275815340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 @na_an31255 我没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058519966476083207",
+        "created_at": "2026-05-25T01:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058723591794127088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            },
+            {
+              "end": 28,
+              "id": "1978128183875514369",
+              "start": 17,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058723591794127088",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058682207275815340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 @na_an31255 我没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2058519966476083207",
+        "created_at": "2026-05-24T22:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058682207275815340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058682207275815340",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058519966476083207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 那我现在还是bzd和阿片处男，pr是正经对象，pr吃没了就出轨下加巴喷丁，偶尔嫖娼下小美，最近美金刚勾引我，我没忍住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 315,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 222
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "oder 心理学 玄学 (八字 六爻 奇门 塔罗) 药理学 English\n欢迎找窝聊天哦～我会好好安慰你的！\npr ym在售 有需要的直接私\nqq2319049035",
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 119,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 733
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "pinned_tweet_id": "1997278535908729264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 145,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 934
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

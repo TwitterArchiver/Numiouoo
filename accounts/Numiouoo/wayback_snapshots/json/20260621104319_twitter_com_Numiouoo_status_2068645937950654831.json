@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068364997806408082",
+    "created_at": "2026-06-21T10:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068645937950654831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        },
+        {
+          "end": 29,
+          "id": "1214010428235247616",
+          "start": 13,
+          "username": "GiveProofToLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068645937950654831",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068364997806408082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ @GiveProofToLove 好萌呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2068364989996597248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRO_-6aAAAdYAs.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068364997806408082",
+        "created_at": "2026-06-21T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068645937950654831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            },
+            {
+              "end": 29,
+              "id": "1214010428235247616",
+              "start": 13,
+              "username": "GiveProofToLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068645937950654831",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068364997806408082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ @GiveProofToLove 好萌呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068364989996597248"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2068364997806408082",
+        "created_at": "2026-06-20T16:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068364997806408082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1214010428235247616",
+              "start": 39,
+              "username": "GiveProofToLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoSkRyNms6",
+              "end": 79,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2068364997806408082/photo/1",
+              "media_key": "3_2068364989996597248",
+              "start": 56,
+              "url": "https://t.co/xoSkRyNms6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068364997806408082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桔桔 x 玖玖联动四周年！！🎉🎈一晃在一起居然这么久了～今天是我们的纪念日喔\n@GiveProofToLove https://t.co/xoSkRyNms6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 915,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "夸张桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 506,
+          "like_count": 43996,
+          "listed_count": 17,
+          "media_count": 3375,
+          "tweet_count": 47318
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-06T02:27:05.000Z",
+        "description": "正在思考：最近应该重新干什么。",
+        "id": "1214010428235247616",
+        "name": "凝",
+        "pinned_tweet_id": "1885151048106729959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029515883270516736/Va2RxZ2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 18,
+          "like_count": 2986,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "GiveProofToLove",
+        "verified": false
+      }
+    ]
+  }
+}

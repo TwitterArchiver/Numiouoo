@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2075463234606481789",
+    "created_at": "2026-07-10T06:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075463234606481789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eulerfurai04/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/eulerfurai04/status/2075308360975736846",
+          "start": 7,
+          "url": "https://t.co/eDVdkjF0pY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075463234606481789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075308360975736846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目莉重生辣！ https://t.co/eDVdkjF0pY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075308351521792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMz580PboAAJJDm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2075463234606481789",
+        "created_at": "2026-07-10T06:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075463234606481789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eulerfurai04/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/eulerfurai04/status/2075308360975736846",
+              "start": 7,
+              "url": "https://t.co/eDVdkjF0pY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075463234606481789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075308360975736846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目莉重生辣！ https://t.co/eDVdkjF0pY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075308351521792000"
+          ]
+        },
+        "author_id": "1906989460405035008",
+        "conversation_id": "2075308360975736846",
+        "created_at": "2026-07-09T19:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075308360975736846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEWWStUgGp",
+              "end": 82,
+              "expanded_url": "https://x.com/eulerfurai04/status/2075308360975736846/photo/1",
+              "media_key": "3_2075308351521792000",
+              "start": 59,
+              "url": "https://t.co/OEWWStUgGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075308360975736846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的幸福就是我的幸福。\n正经受冰川时代的死目莉互关寻回中……\n⁠#病み垢さんと繋がりたい\n#承認欲求の塊\n #病み垢 https://t.co/OEWWStUgGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 962,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2636
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T08:38:29.000Z",
+        "description": "为什么就3.0了呢我也不知道。\n＝死目莉@DrankGhostU 是我\n双相情感障碍/重焦/adhd/💊🔪🩸/病み垢\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸😺😈❤️‍🩹⁉️…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "DrankGhostU"
+              }
+            ]
+          }
+        },
+        "id": "1906989460405035008",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075282840787533825/3PiGZLdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "eulerfurai04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063607575619440661",
+    "created_at": "2026-06-07T15:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063642665137459348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1604763406669684737",
+          "start": 0,
+          "username": "shundebo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063642665137459348",
+    "in_reply_to_user_id": "1604763406669684737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063638697195766083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shundebo__ ok啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T15:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063642665137459348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604763406669684737",
+              "start": 0,
+              "username": "shundebo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063642665137459348",
+        "in_reply_to_user_id": "1604763406669684737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063638697195766083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shundebo__ ok啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604763406669684737",
+        "conversation_id": "2063607575619440661",
+        "created_at": "2026-06-07T15:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063638697195766083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063638697195766083",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607575619440661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo intp 兑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 742,
+          "like_count": 1697,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1217
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T09:00:18.000Z",
+        "description": "@schlen_land\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝JSR  aziwa'ninndro\nshundebo@shundebo.top/\n我是抖m我是杂鱼\nhttps://t.co/pYxaD2DiYp\nINTP\nhttps://t.co/FG3ShLqduq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "schlen_land"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/aziwaninndroic…",
+                "end": 97,
+                "expanded_url": "http://t.me/aziwaninndroichi",
+                "start": 74,
+                "url": "https://t.co/pYxaD2DiYp"
+              },
+              {
+                "display_url": "schlen.top",
+                "end": 126,
+                "expanded_url": "https://schlen.top",
+                "start": 103,
+                "url": "https://t.co/FG3ShLqduq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.shundebo.top",
+                "end": 23,
+                "expanded_url": "https://blog.shundebo.top/",
+                "start": 0,
+                "url": "https://t.co/p1Ntj3QA91"
+              }
+            ]
+          }
+        },
+        "id": "1604763406669684737",
+        "location": "schlen地",
+        "name": "shundebo",
+        "pinned_tweet_id": "1989666656889835547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022848904992296960/kyURG7Cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 808,
+          "like_count": 6950,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/p1Ntj3QA91",
+        "username": "shundebo__",
+        "verified": false
+      }
+    ]
+  }
+}

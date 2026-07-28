@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2061822238937190571",
+    "created_at": "2026-06-04T04:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062390938883051985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007465888438706176",
+          "start": 0,
+          "username": "Kakuko42"
+        },
+        {
+          "end": 18,
+          "id": "1695314246735892480",
+          "start": 10,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062390938883051985",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062362909779349952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 @szfx123 好哦！！核子最棒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061822238937190571",
+        "created_at": "2026-06-04T04:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062390938883051985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            },
+            {
+              "end": 18,
+              "id": "1695314246735892480",
+              "start": 10,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062390938883051985",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062362909779349952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 @szfx123 好哦！！核子最棒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007465888438706176",
+        "conversation_id": "2061822238937190571",
+        "created_at": "2026-06-04T02:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062362909779349952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 18,
+              "id": "1695314246735892480",
+              "start": 10,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062362909779349952",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062005046284612004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @szfx123 好…我也要努力爱自己!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 641,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 948
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko | 炉心融解激推 | 20⬆️ | enby | any pronouns | 飛び込んでみたいと 思う | 不在国内不卖药 | Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 236,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 291
+        },
+        "username": "Kakuko42",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 想和你们交朋友☺️欢迎互fo微查成分 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 182,
+          "like_count": 10290,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 427
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

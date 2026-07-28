@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064873246969995264"
+      ]
+    },
+    "author_id": "2057729979677548544",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064873254528209396",
+    "created_at": "2026-06-11T00:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064873254528209396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcHFfrOh0D",
+          "end": 109,
+          "expanded_url": "https://x.com/Numiouoo/status/2064873254528209396/photo/1",
+          "media_key": "3_2064873246969995264",
+          "start": 86,
+          "url": "https://t.co/vcHFfrOh0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064873254528209396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你看msk就是不干好事，我之前随手一条引得神经病纷纷共鸣，现在每天装光伟正装得我不停呕吐！还得跟大家挤眉弄眼打暗语叠马甲。健全究竟有什么意思！我现在是一片反胃的糯米糖纸！ https://t.co/vcHFfrOh0D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2064873246969995264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfnRyfaoAAcvNm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064873246969995264"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064873254528209396",
+        "created_at": "2026-06-11T00:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064873254528209396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcHFfrOh0D",
+              "end": 109,
+              "expanded_url": "https://x.com/Numiouoo/status/2064873254528209396/photo/1",
+              "media_key": "3_2064873246969995264",
+              "start": 86,
+              "url": "https://t.co/vcHFfrOh0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064873254528209396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看msk就是不干好事，我之前随手一条引得神经病纷纷共鸣，现在每天装光伟正装得我不停呕吐！还得跟大家挤眉弄眼打暗语叠马甲。健全究竟有什么意思！我现在是一片反胃的糯米糖纸！ https://t.co/vcHFfrOh0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵同类查成分主页感兴趣会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 841,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1482
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070832287026126849",
+    "created_at": "2026-06-28T04:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071094506531979408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071094506531979408",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070932770948538525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia 感觉演变到今天是为了给后代提供生产价值，把人们异化成一个个基于性缘的家庭了那么大家就只能麻木地往下繁衍抚育，有利于人类社会的延续"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-28T04:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071094506531979408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071094506531979408",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070932770948538525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 感觉演变到今天是为了给后代提供生产价值，把人们异化成一个个基于性缘的家庭了那么大家就只能麻木地往下繁衍抚育，有利于人类社会的延续"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-27T18:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070932770948538525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070932770948538525",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070832287026126849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 事实上这种秩序的建立过程本身很值得思考…社会出于何种原因建立了这种秩序，又是如何转化为一种规训的？\n目前可能推测是和早期人类部落朴素的生命政治有关系？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 920,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2225
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "但双角斧的具名者们守口如瓶的秘密是：刃并非只能匍匐于尘土。将其垂直转动，使其锋芒指向那不可言说的上方，让它锐利的尖端亲吻那十二道锁孔。唯有如此，那曾经撕裂我们的十二道耻辱的伤痕，方可依次洞开。",
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1263,
+          "like_count": 107830,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 11760
+        },
+        "url": "",
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074377915270418888",
+    "created_at": "2026-07-07T07:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074400653171159271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1675077304601677824",
+          "start": 0,
+          "username": "xhd0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074400653171159271",
+    "in_reply_to_user_id": "1675077304601677824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074398577431035978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhd0u 孩子你是不是磕大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-07T07:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074400653171159271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1675077304601677824",
+              "start": 0,
+              "username": "xhd0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074400653171159271",
+        "in_reply_to_user_id": "1675077304601677824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074398577431035978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhd0u 孩子你是不是磕大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675077304601677824",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-07T07:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074398577431035978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074398577431035978",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074377915270418888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 没事啊 哈哈 你看了第三季对吧 变搞笑片了  一起出来吐槽笑一笑啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 958,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T09:42:20.000Z",
+        "description": "",
+        "id": "1675077304601677824",
+        "name": "🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073243303148150784/XSpmX_NV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 216,
+          "like_count": 20864,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "xhd0u",
+        "verified": false
+      }
+    ]
+  }
+}

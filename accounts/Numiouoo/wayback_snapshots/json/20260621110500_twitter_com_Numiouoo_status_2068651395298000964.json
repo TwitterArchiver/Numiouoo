@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068508612134384023",
+    "created_at": "2026-06-21T11:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068651395298000964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068311808285589504",
+          "start": 0,
+          "username": "eatmewhole2"
+        },
+        {
+          "end": 23,
+          "id": "162974851",
+          "start": 13,
+          "username": "Paramjitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068651395298000964",
+    "in_reply_to_user_id": "2068311808285589504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068508612134384023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eatmewhole2 @Paramjitt 小冰冰冰啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068508612134384023",
+        "created_at": "2026-06-21T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068651395298000964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068311808285589504",
+              "start": 0,
+              "username": "eatmewhole2"
+            },
+            {
+              "end": 23,
+              "id": "162974851",
+              "start": 13,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068651395298000964",
+        "in_reply_to_user_id": "2068311808285589504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068508612134384023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eatmewhole2 @Paramjitt 小冰冰冰啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068311808285589504",
+        "conversation_id": "2068508612134384023",
+        "created_at": "2026-06-21T01:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068508612134384023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068508612134384023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是冰冰/小冰我转生了卢关帮我转转呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 916,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2046
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T12:39:01.000Z",
+        "description": "ⓘ我是冰冰我转生了｜10世代｜双相｜she/her/hers｜ #shtwt｜#odtwt｜#地雷系｜LGBTQIA+全友好♡ ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "odtwt"
+              },
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "地雷系"
+              }
+            ]
+          }
+        },
+        "id": "2068311808285589504",
+        "name": "薄氷殉情_2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068313006136832000/3SpSMtrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "eatmewhole2",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n木木雨（那个不可提及的数字00000）\n版本号：路易十六\n末影人\n12×09×17\n大号@Shivam3228\n💊@idris21000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "idris21000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖林木木（16.0寻回。）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067871130413940736/TzAPFnG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 111,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

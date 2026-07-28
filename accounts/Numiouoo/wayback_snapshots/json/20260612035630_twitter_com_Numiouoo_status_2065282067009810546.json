@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065160453496643850",
+    "created_at": "2026-06-12T03:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065282067009810546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1878828387369926656",
+          "start": 0,
+          "username": "hmj404"
+        },
+        {
+          "end": 20,
+          "id": "1806849464386416640",
+          "start": 8,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065282067009810546",
+    "in_reply_to_user_id": "1878828387369926656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065278851723522052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmj404 @tangeorange 卧槽你提醒我了我转世了还没接着追寻我女神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065160453496643850",
+        "created_at": "2026-06-12T03:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065282067009810546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878828387369926656",
+              "start": 0,
+              "username": "hmj404"
+            },
+            {
+              "end": 20,
+              "id": "1806849464386416640",
+              "start": 8,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282067009810546",
+        "in_reply_to_user_id": "1878828387369926656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065278851723522052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmj404 @tangeorange 卧槽你提醒我了我转世了还没接着追寻我女神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878828387369926656",
+        "conversation_id": "2065160453496643850",
+        "created_at": "2026-06-12T03:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065278851723522052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065278851723522052",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065160453496643850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 看樁山民子的福利图(×"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&SH激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 852,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1532
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T15:36:29.000Z",
+        "description": "简繁中英/轨道交通🚇/不会写代码/烤盐气氛组/术力口/双極性障害/不割手不od/性别为无/前端开发js vue react/僕が死のうと思ったのは/真的不是地雷女！",
+        "id": "1878828387369926656",
+        "location": "火星",
+        "name": "烬欢Ashley",
+        "pinned_tweet_id": "2063159819159375946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050858545080590336/3iSQEvto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 1119,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 331
+        },
+        "username": "hmj404",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\nbff @maoxianACT @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "maoxianACT"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tangeror"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 2823,
+          "like_count": 8867,
+          "listed_count": 4,
+          "media_count": 1282,
+          "tweet_count": 8591
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

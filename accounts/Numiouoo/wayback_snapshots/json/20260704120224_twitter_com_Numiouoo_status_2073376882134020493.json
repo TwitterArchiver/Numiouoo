@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2073298118624571869",
+    "created_at": "2026-07-04T12:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073376882134020493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073376882134020493",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073298118624571869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 好漂亮QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2073298037154439169",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMXVlHoa4AESj5S.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMXVlHoa4AESj5S.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "duration_ms": 20121,
+        "height": 1030,
+        "media_key": "13_2073298043076800512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073298043076800512/img/pcpftoQRbXoAD4f5.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073298043076800512/vid/avc1/320x456/itItgISmNj90wTmN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073298043076800512/vid/avc1/480x686/K0PYrCZZ8WRjIekc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073298043076800512/vid/avc1/720x1030/n3gB6LxGvIe-GJEJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073298043076800512/pl/le98yLMDP85PWjXz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2073298118624571869",
+        "created_at": "2026-07-04T12:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073376882134020493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073376882134020493",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073298118624571869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 好漂亮QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073298037154439169",
+            "13_2073298043076800512"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "conversation_id": "2073298118624571869",
+        "created_at": "2026-07-04T06:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073298118624571869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxPOrl7dJb",
+              "end": 26,
+              "expanded_url": "https://x.com/yuganbb823/status/2073298118624571869/video/1",
+              "media_key": "16_2073298037154439169",
+              "start": 3,
+              "url": "https://t.co/YxPOrl7dJb"
+            },
+            {
+              "display_url": "pic.x.com/YxPOrl7dJb",
+              "end": 26,
+              "expanded_url": "https://x.com/yuganbb823/status/2073298118624571869/video/1",
+              "media_key": "13_2073298043076800512",
+              "start": 3,
+              "url": "https://t.co/YxPOrl7dJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073298118624571869",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩸🩸 https://t.co/YxPOrl7dJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 950,
+          "like_count": 3257,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2466
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072603682190045184/bq4D2yOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 255,
+          "like_count": 5986,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065635955672076532",
+    "created_at": "2026-06-13T10:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065743443289420275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065743443289420275",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065693307699622390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 嘻嘻要开开心心每一天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065635955672076532",
+        "created_at": "2026-06-13T10:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065743443289420275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065743443289420275",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065693307699622390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 嘻嘻要开开心心每一天！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589508609578176512",
+        "conversation_id": "2065635955672076532",
+        "created_at": "2026-06-13T07:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065693307699622390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065693307699622390",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065635955672076532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 这样子很好呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 860,
+          "like_count": 2236,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1630
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！正在努力学英语润出去.. 会给互fo画画（不过技术不太好 /画的有些慢） Telegram群: https://t.co/R8kPJWfjhP欢迎各位宝宝来群里面聊天~🥰有对象别骚扰我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VOAVfurE50NlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+VOAVfurE50NlZjQx",
+                "start": 84,
+                "url": "https://t.co/R8kPJWfjhP"
+              }
+            ]
+          }
+        },
+        "id": "1589508609578176512",
+        "name": "米花糖（看不了私信）",
+        "pinned_tweet_id": "2064705438755492127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1074,
+          "like_count": 8802,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2625
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

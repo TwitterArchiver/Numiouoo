@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067260119226974551",
+    "created_at": "2026-06-18T06:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067501222488342633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BG9JUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067501222488342633",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067291990191128829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG9JUE 什么档次也和我们健胃消食片比🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067260119226974551",
+        "created_at": "2026-06-18T06:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067501222488342633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BG9JUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067501222488342633",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067291990191128829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG9JUE 什么档次也和我们健胃消食片比🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937385761785188352",
+        "conversation_id": "2067260119226974551",
+        "created_at": "2026-06-17T17:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067291990191128829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067291990191128829",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067260119226974551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 为什么不是乳酸菌素片？😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 897,
+          "like_count": 2420,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1911
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "无线电爱好/退役刷机佬/苦逼高中生/化竞小资历/🏳️‍⚧️(she/her)丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "location": "北落师门",
+        "name": "Starlight",
+        "pinned_tweet_id": "1964342309602164749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873320708931584/9T0uSZLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 374,
+          "like_count": 22618,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1536
+        },
+        "username": "BG9JUE",
+        "verified": false
+      }
+    ]
+  }
+}

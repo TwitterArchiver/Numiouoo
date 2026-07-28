@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2062408572395508157",
+    "created_at": "2026-06-04T05:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062413737408237571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        },
+        {
+          "end": 22,
+          "id": "1634035914778488832",
+          "start": 9,
+          "username": "Sinclair0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062413737408237571",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062410413095133611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 @Sinclair0427 好的，不会的，我尊重所有人的观点只要没有冒犯到谁w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2062408572395508157",
+        "created_at": "2026-06-04T05:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062413737408237571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            },
+            {
+              "end": 22,
+              "id": "1634035914778488832",
+              "start": 9,
+              "username": "Sinclair0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062413737408237571",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062410413095133611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 @Sinclair0427 好的，不会的，我尊重所有人的观点只要没有冒犯到谁w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2062408572395508157",
+        "created_at": "2026-06-04T05:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062410413095133611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634035914778488832",
+              "start": 0,
+              "username": "Sinclair0427"
+            },
+            {
+              "end": 23,
+              "id": "2057729979677548544",
+              "start": 14,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062410413095133611",
+        "in_reply_to_user_id": "1634035914778488832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062408572395508157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sinclair0427 @Numiouoo 糯米可以看看我写的这个，我不想昨天我的言论给你留下很不好的印象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 643,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 951
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "另一个我@Sinclair0427",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Sinclair0427"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demian0427",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demian0427",
+                "start": 0,
+                "url": "https://t.co/gjPFjOE7K5"
+              }
+            ]
+          }
+        },
+        "id": "2047155443613704192",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/gjPFjOE7K5",
+        "username": "dem0427",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T03:39:45.000Z",
+        "description": "不过是人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demian0427",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demian0427",
+                "start": 0,
+                "url": "https://t.co/chzyo9fDT1"
+              }
+            ]
+          }
+        },
+        "id": "1634035914778488832",
+        "location": "永恒重复的天国",
+        "name": "客尘",
+        "pinned_tweet_id": "2062408572395508157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374166904057856/Fd_buUb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/chzyo9fDT1",
+        "username": "Sinclair0427",
+        "verified": true
+      }
+    ]
+  }
+}

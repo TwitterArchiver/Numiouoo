@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063233854115282968",
+    "created_at": "2026-06-06T12:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063241331871498244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939281134010904576",
+          "start": 0,
+          "username": "emptyblisters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063241331871498244",
+    "in_reply_to_user_id": "1939281134010904576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063240401079697607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emptyblisters sure!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063233854115282968",
+        "created_at": "2026-06-06T12:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063241331871498244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939281134010904576",
+              "start": 0,
+              "username": "emptyblisters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063241331871498244",
+        "in_reply_to_user_id": "1939281134010904576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063240401079697607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emptyblisters sure!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939281134010904576",
+        "conversation_id": "2063233854115282968",
+        "created_at": "2026-06-06T12:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063240401079697607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063240401079697607",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063233854115282968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo Moots?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 707,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1115
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T11:13:57.000Z",
+        "description": "I do many drugs, I'm not new here. #drugtwt #shtwt #kleptotwt #ketamine #cocaine #meth  #morphine #opioids #heroin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "kleptotwt"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "ketamine"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "cocaine"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "meth"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "morphine"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "opioids"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "heroin"
+              }
+            ]
+          }
+        },
+        "id": "1939281134010904576",
+        "location": "ERA 💉💉",
+        "name": "𝕄𝕆ℝ𝔽𝕀ℕ𝕀𝕋𝔸",
+        "pinned_tweet_id": "1954475974134825316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043895462378242048/1945YGTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 826,
+          "like_count": 5909,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 765
+        },
+        "username": "emptyblisters",
+        "verified": false
+      }
+    ]
+  }
+}

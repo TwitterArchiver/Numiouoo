@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2068734855639392325",
+    "created_at": "2026-06-21T16:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068734855639392325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gem7749/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/gem7749/status/2068730038846136372",
+          "start": 18,
+          "url": "https://t.co/sOrw4xEYBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068734855639392325",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068730038846136372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "17yummmyyummmyyy🤤 https://t.co/sOrw4xEYBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068730029270593536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWbAELbcAAU-EH.jpg",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068734855639392325",
+        "created_at": "2026-06-21T16:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068734855639392325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gem7749/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/gem7749/status/2068730038846136372",
+              "start": 18,
+              "url": "https://t.co/sOrw4xEYBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068734855639392325",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068730038846136372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "17yummmyyummmyyy🤤 https://t.co/sOrw4xEYBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068730029270593536"
+          ]
+        },
+        "author_id": "2033127264058224640",
+        "conversation_id": "2068730038846136372",
+        "created_at": "2026-06-21T16:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068730038846136372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fs5hmCUNGf",
+              "end": 32,
+              "expanded_url": "https://x.com/Gem7749/status/2068730038846136372/photo/1",
+              "media_key": "3_2068730029270593536",
+              "start": 9,
+              "url": "https://t.co/Fs5hmCUNGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068730038846136372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常美也非常美味 https://t.co/Fs5hmCUNGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 915,
+          "like_count": 2579,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:30:45.000Z",
+        "description": "One topples the boulder One rebuilds the ruins\n如果这个世界上还有另一个彼此\n--此账号为糯米与十七记录账号--",
+        "id": "2033127264058224640",
+        "name": "双子星N-7749",
+        "pinned_tweet_id": "2033131922210398326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066377868196929536/m-6J8Utf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Gem7749",
+        "verified": false
+      }
+    ]
+  }
+}

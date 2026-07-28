@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058923397904503088",
+    "created_at": "2026-05-26T03:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059118548119949355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1515920862205001732",
+          "start": 0,
+          "username": "cnmdsjdqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059118548119949355",
+    "in_reply_to_user_id": "1515920862205001732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058923397904503088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmdsjdqs 我草好神秘为什么我们不是互关但我在你外圈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2058923391881457665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLD6pDWMAEIlJu.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058923397904503088",
+        "created_at": "2026-05-26T03:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059118548119949355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515920862205001732",
+              "start": 0,
+              "username": "cnmdsjdqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059118548119949355",
+        "in_reply_to_user_id": "1515920862205001732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058923397904503088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmdsjdqs 我草好神秘为什么我们不是互关但我在你外圈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058923391881457665"
+          ]
+        },
+        "author_id": "1515920862205001732",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2058923397904503088",
+        "created_at": "2026-05-25T14:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058923397904503088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/81BROXqreE"
+            },
+            {
+              "display_url": "pic.x.com/45HIAmRaKD",
+              "end": 64,
+              "expanded_url": "https://x.com/cnmdsjdqs/status/2058923397904503088/photo/1",
+              "media_key": "3_2058923391881457665",
+              "start": 41,
+              "url": "https://t.co/45HIAmRaKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058923397904503088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/81BROXqreE https://t.co/45HIAmRaKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 352,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "@Akiscara_3405这是我妈妈 有的人操你妈的，你TM爱看不看没逼着你看，不想看把我拉黑，再骂我的全家都死完🙄滚 欢迎大家匿名提问给我https://t.co/ROzpKPzEwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Akiscara_3405"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jiue1014",
+                "end": 94,
+                "expanded_url": "https://ngl.link/jiue1014",
+                "start": 71,
+                "url": "https://t.co/ROzpKPzEwO"
+              }
+            ]
+          }
+        },
+        "id": "1515920862205001732",
+        "location": "🚪88 188 288 520 1314  不退🚪",
+        "name": "每天都好累",
+        "pinned_tweet_id": "2058230317962653757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031793522001788930/7CTBuDAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 133,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1695
+        },
+        "username": "cnmdsjdqs",
+        "verified": false
+      }
+    ]
+  }
+}

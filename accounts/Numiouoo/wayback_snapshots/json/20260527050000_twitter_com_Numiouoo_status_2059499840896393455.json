@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2058503809824113064",
+    "created_at": "2026-05-27T05:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059499840896393455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754502413728280576",
+          "start": 0,
+          "username": "Erii_Wilson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059499840896393455",
+    "in_reply_to_user_id": "1754502413728280576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059341354233401551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erii_Wilson 好萌！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2059341333509406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRACC8bgAAXFHz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058503809824113064",
+        "created_at": "2026-05-27T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059499840896393455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754502413728280576",
+              "start": 0,
+              "username": "Erii_Wilson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499840896393455",
+        "in_reply_to_user_id": "1754502413728280576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059341354233401551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erii_Wilson 好萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059341333509406720"
+          ]
+        },
+        "author_id": "1754502413728280576",
+        "conversation_id": "2058503809824113064",
+        "created_at": "2026-05-26T18:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059341354233401551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUPi6CE8X3",
+              "end": 41,
+              "expanded_url": "https://x.com/Erii_Wilson/status/2059341354233401551/photo/1",
+              "media_key": "3_2059341333509406720",
+              "start": 18,
+              "url": "https://t.co/MUPi6CE8X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059341354233401551",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058503809824113064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 看到的图…好爱 https://t.co/MUPi6CE8X3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 404,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 383
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:49:20.000Z",
+        "description": "Erii/梨梨：♀ADHD⚠️ ｜努力变健全｜可提供动物医疗/精神&全科等问答科普: 文字&语音 (提问内容不限) 私信即可｜照片在亮点(已过期) / Instagram⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/erii_w_?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/erii_w_?igsh=dzE2bzhzamt1emQ0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/IuWnXY0yOh"
+              }
+            ]
+          }
+        },
+        "id": "1754502413728280576",
+        "location": "Equality On-Sea",
+        "name": "超绝可爱Erii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754502545244872704/x61GZNd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 115,
+          "like_count": 1509,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/IuWnXY0yOh",
+        "username": "Erii_Wilson",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067236789346255356",
+    "created_at": "2026-06-18T07:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504881741770784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057506162862686208",
+          "start": 0,
+          "username": "Luoyu147258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504881741770784",
+    "in_reply_to_user_id": "2057506162862686208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067413161817620733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyu147258 抱抱呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067236789346255356",
+        "created_at": "2026-06-18T07:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504881741770784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057506162862686208",
+              "start": 0,
+              "username": "Luoyu147258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504881741770784",
+        "in_reply_to_user_id": "2057506162862686208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067413161817620733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyu147258 抱抱呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057506162862686208",
+        "conversation_id": "2067236789346255356",
+        "created_at": "2026-06-18T01:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067413161817620733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067413161817620733",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067236789346255356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 抱抱🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 898,
+          "like_count": 2423,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1922
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:59:33.000Z",
+        "description": "｜🏳️‍⚧️🍥｜2012.03.06｜hrt：2025.01.24｜是家暴党｜✝️overdose✝️｜已炸柜｜已扭转｜已精卫｜双相｜互fo｜三代目｜对象@huyisusu｜姐姐@luo_240110｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "huyisusu"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "luo_240110"
+              }
+            ]
+          }
+        },
+        "id": "2057506162862686208",
+        "name": "洛雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059337200496722221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059336209282043904/BJPryx-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 233,
+          "like_count": 389,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Luoyu147258",
+        "verified": false
+      }
+    ]
+  }
+}

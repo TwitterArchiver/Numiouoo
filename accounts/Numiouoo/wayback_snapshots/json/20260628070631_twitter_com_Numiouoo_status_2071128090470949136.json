@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070888942896128388",
+    "created_at": "2026-06-28T07:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071128090470949136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055550207069446144",
+          "start": 0,
+          "username": "AliceDeeriatl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071128090470949136",
+    "in_reply_to_user_id": "2055550207069446144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071103984509886876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceDeeriatl 贴贴贴贴恋恋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-28T07:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071128090470949136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055550207069446144",
+              "start": 0,
+              "username": "AliceDeeriatl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071128090470949136",
+        "in_reply_to_user_id": "2055550207069446144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071103984509886876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceDeeriatl 贴贴贴贴恋恋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055550207069446144",
+        "conversation_id": "2070888942896128388",
+        "created_at": "2026-06-28T05:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071103984509886876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071103984509886876",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070889549618950415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 抱抱抱抱抱抱亲爱的糯宝!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 920,
+          "like_count": 2944,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2229
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T07:26:19.000Z",
+        "description": "骐骥成为小萝莉",
+        "id": "2055550207069446144",
+        "location": "四川泸州",
+        "name": "Alice Deer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055550524553125888/QgqiLl6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "AliceDeeriatl",
+        "verified": false
+      }
+    ]
+  }
+}

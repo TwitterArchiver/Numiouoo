@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2063233854115282968",
+    "created_at": "2026-06-06T12:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063233854115282968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2063232233784451438",
+          "start": 31,
+          "url": "https://t.co/tzXF4PEgGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063233854115282968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063232233784451438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等它考完再说 谢谢大家 小问题自己搜搜谷歌问问ai动动小手喵 https://t.co/tzXF4PEgGb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063233854115282968",
+        "created_at": "2026-06-06T12:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063233854115282968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2063232233784451438",
+              "start": 31,
+              "url": "https://t.co/tzXF4PEgGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063233854115282968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063232233784451438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等它考完再说 谢谢大家 小问题自己搜搜谷歌问问ai动动小手喵 https://t.co/tzXF4PEgGb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2063232233784451438",
+        "created_at": "2026-06-06T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063232233784451438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063232233784451438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另外我大号被封了正在申诉，如果有什么事情请来私信/评论这个账号，但我不确定有没有时间回，因为这几天要忙着高考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 707,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1111
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/师长:@futi999139732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "futi999139732"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 67,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

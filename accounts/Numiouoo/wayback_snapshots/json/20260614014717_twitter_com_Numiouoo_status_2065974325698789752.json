@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065358346014855625",
+    "created_at": "2026-06-14T01:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065974325698789752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999045703935614976",
+          "start": 0,
+          "username": "Qiu4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065974325698789752",
+    "in_reply_to_user_id": "1999045703935614976",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065940329325638076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu4u okok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065358346014855625",
+        "created_at": "2026-06-14T01:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065974325698789752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999045703935614976",
+              "start": 0,
+              "username": "Qiu4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065974325698789752",
+        "in_reply_to_user_id": "1999045703935614976",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065940329325638076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu4u okok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999045703935614976",
+        "conversation_id": "2065358346014855625",
+        "created_at": "2026-06-13T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065940329325638076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065940329325638076",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065358346014855625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 862,
+          "like_count": 2281,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1674
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:17:12.000Z",
+        "description": "我是小秋/ED 双相二型已被上报/我o我割/求大家和我互fo！/English Krean ok/地雷系と繋がりたい/27🇰🇷留子",
+        "id": "1999045703935614976",
+        "location": "Kanagawa-ken, Japan",
+        "name": "用你笑容为我祭奠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002838039543136256/3OmqFFrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 183,
+          "like_count": 1702,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 446
+        },
+        "username": "Qiu4u",
+        "verified": false
+      }
+    ]
+  }
+}

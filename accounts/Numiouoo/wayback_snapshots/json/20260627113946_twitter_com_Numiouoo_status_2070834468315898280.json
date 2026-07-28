@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2070832287026126849",
+    "created_at": "2026-06-27T11:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070834468315898280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070834468315898280",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070832287026126849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次刷墙内刷到有人问三分立的关系，我就觉得很荒谬，这不荒谬吗？人生是旷野 情感是宇宙 这个世界居然试图让人类推开最爱最亲的人去找只有性吸引更甚至只有利益交互的弱智共度余生 一群相爱的人被性缘羁绊切割开来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-27T11:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070834468315898280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070834468315898280",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070832287026126849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次刷墙内刷到有人问三分立的关系，我就觉得很荒谬，这不荒谬吗？人生是旷野 情感是宇宙 这个世界居然试图让人类推开最爱最亲的人去找只有性吸引更甚至只有利益交互的弱智共度余生 一群相爱的人被性缘羁绊切割开来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2070832287026126849",
+        "created_at": "2026-06-27T11:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070832287026126849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070832287026126849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完全qpr爱好者来的，从小到大都如此，传统的亲缘友缘性缘三分立对我来说太狭隘太无趣了，为什么家人不能做爱，为什么朋友不能接吻，为什么基于性缘建立的关系要高于其他关系？\n\n“爱人”应属于所有关系，这世间有太多关系不能被归纳总结，社会试图用恋爱婚姻来异化人类之间深刻的爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 920,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2193
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

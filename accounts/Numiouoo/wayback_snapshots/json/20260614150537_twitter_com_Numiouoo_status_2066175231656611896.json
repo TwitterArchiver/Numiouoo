@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065820283915903032",
+    "created_at": "2026-06-14T15:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066175231656611896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770713435182915584",
+          "start": 0,
+          "username": "y8031040625196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066175231656611896",
+    "in_reply_to_user_id": "1770713435182915584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066152210694877309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y8031040625196 何意味别打广告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065820283915903032",
+        "created_at": "2026-06-14T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066175231656611896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770713435182915584",
+              "start": 0,
+              "username": "y8031040625196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066175231656611896",
+        "in_reply_to_user_id": "1770713435182915584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066152210694877309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y8031040625196 何意味别打广告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770713435182915584",
+        "conversation_id": "2065820283915903032",
+        "created_at": "2026-06-14T13:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066152210694877309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066152210694877309",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065820283915903032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 想买药可以看看我，想凑热闹可以转发抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 873,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1719
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T07:26:05.000Z",
+        "description": "买愈美片 普瑞巴林 安非他酮各种详情看置顶",
+        "id": "1770713435182915584",
+        "name": "腰带",
+        "pinned_tweet_id": "2066151986249261181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314721144729600/_nSretD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 60,
+          "like_count": 549,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 706
+        },
+        "username": "y8031040625196",
+        "verified": false
+      }
+    ]
+  }
+}

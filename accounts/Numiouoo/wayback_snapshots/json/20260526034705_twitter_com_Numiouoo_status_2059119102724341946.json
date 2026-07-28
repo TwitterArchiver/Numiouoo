@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059117439724458382",
+    "created_at": "2026-05-26T03:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059119102724341946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        },
+        {
+          "end": 32,
+          "id": "1423594963422547969",
+          "start": 17,
+          "username": "maru_Rema_maru"
+        },
+        {
+          "end": 49,
+          "id": "1850587533924876288",
+          "start": 33,
+          "username": "NewYear_NewYear"
+        },
+        {
+          "end": 60,
+          "id": "94999172",
+          "start": 50,
+          "username": "toukorina"
+        },
+        {
+          "end": 70,
+          "id": "2405324646",
+          "start": 61,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059119102724341946",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059117439724458382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric @maru_Rema_maru @NewYear_NewYear @toukorina @alexavad 我是第一个🥰🥰🥰好开心\n我爱你小欢乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059117439724458382",
+        "created_at": "2026-05-26T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059119102724341946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            },
+            {
+              "end": 32,
+              "id": "1423594963422547969",
+              "start": 17,
+              "username": "maru_Rema_maru"
+            },
+            {
+              "end": 49,
+              "id": "1850587533924876288",
+              "start": 33,
+              "username": "NewYear_NewYear"
+            },
+            {
+              "end": 60,
+              "id": "94999172",
+              "start": 50,
+              "username": "toukorina"
+            },
+            {
+              "end": 70,
+              "id": "2405324646",
+              "start": 61,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059119102724341946",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059117439724458382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric @maru_Rema_maru @NewYear_NewYear @toukorina @alexavad 我是第一个🥰🥰🥰好开心\n我爱你小欢乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059117439724458382",
+        "created_at": "2026-05-26T03:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059117439724458382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 27,
+              "id": "1423594963422547969",
+              "start": 12,
+              "username": "maru_Rema_maru"
+            },
+            {
+              "end": 45,
+              "id": "1850587533924876288",
+              "start": 29,
+              "username": "NewYear_NewYear"
+            },
+            {
+              "end": 57,
+              "id": "94999172",
+              "start": 47,
+              "username": "toukorina"
+            },
+            {
+              "end": 68,
+              "id": "2405324646",
+              "start": 59,
+              "username": "alexavad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Disturbeuphori…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Disturbeuphoric/status/2059115681472237692",
+              "start": 126,
+              "url": "https://t.co/pAVgXJS0O4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059117439724458382",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059115681472237692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo\n, @maru_Rema_maru, @NewYear_NewYear, @toukorina, @alexavad\nthank you very much for your existence on this planet🙏🤩😊 https://t.co/pAVgXJS0O4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 352,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 305
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "艺术家。非典型。不稳定。宅男。弱智中。我既不是天使也不是恶魔。我展现出的形象完全体现了我的个性。经常有人告诉我，我是纯洁的。我温柔又善良。我希望你能以善意接纳真实的我。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我无法忍受暴力。我痛恨战争和政治。我讨厌性与爱。我与你分享我的情绪状态。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBWgrr"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2059115681472237692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047474227993829378/Tpk4CX1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 147,
+          "like_count": 15373,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/OARyaBWgrr",
+        "username": "Disturbeuphoric",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/低浮上/大体推し活垢/無言フォロー失礼いたします/日本語勉強中/翻訳機使用あり/\nよろしくお願いします😸",
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2019873676972404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047391879168409600/OyQmRQF5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 305
+        },
+        "username": "maru_Rema_maru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 408,
+          "like_count": 7480,
+          "listed_count": 1,
+          "media_count": 814,
+          "tweet_count": 4859
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 947,
+          "like_count": 172135,
+          "listed_count": 17,
+          "media_count": 1501,
+          "tweet_count": 43735
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJUUX"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042504294608617475/yz7OqWdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 262,
+          "like_count": 3561,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/dq6IelJUUX",
+        "username": "alexavad",
+        "verified": true
+      }
+    ]
+  }
+}

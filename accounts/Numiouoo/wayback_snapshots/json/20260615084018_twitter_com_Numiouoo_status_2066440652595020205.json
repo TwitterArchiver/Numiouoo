@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066439630426370062",
+    "created_at": "2026-06-15T08:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066440652595020205"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066440652595020205",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066439630426370062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "……亲友受到情伤，遍体鳞伤地向我走回来的时候，我通常都很冷漠，一方面是因为我从一开始就说了此人不是好料，你偏向虎山行，我没有义务承担你的性缘伤痛，那很不公平。另一方面是因为我缺乏这种体验，我不知道从哪里安慰，对我来说别人伤害我我就要捅回去，没有一个人哭的道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066439630426370062",
+        "created_at": "2026-06-15T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066440652595020205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066440652595020205",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066439630426370062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……亲友受到情伤，遍体鳞伤地向我走回来的时候，我通常都很冷漠，一方面是因为我从一开始就说了此人不是好料，你偏向虎山行，我没有义务承担你的性缘伤痛，那很不公平。另一方面是因为我缺乏这种体验，我不知道从哪里安慰，对我来说别人伤害我我就要捅回去，没有一个人哭的道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066439630426370062",
+        "created_at": "2026-06-15T08:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066439630426370062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066439630426370062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于部分亲友找的恋人，我不明白，我痛心疾首，你怎么会爱上那样的东西\n我们曾在白天一起大笑或哭过，又在深夜里共享生命互相填补了对方的经验缺失。你那么可爱丰盈，怎么会去找一个空着灵魂的壳子，吻上这头蠢猪的时候你自己没笑吗？！这个东西舍得伤害你、背叛你，像木偶师一样操纵你！……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 883,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1779
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

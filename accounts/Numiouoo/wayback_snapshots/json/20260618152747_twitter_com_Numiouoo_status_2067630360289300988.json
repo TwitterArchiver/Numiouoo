@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2067627000764973188",
+    "created_at": "2026-06-18T15:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067630360289300988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801631185355083779",
+          "start": 0,
+          "username": "Shinonome_Layer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067630360289300988",
+    "in_reply_to_user_id": "1801631185355083779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067628509850382522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinonome_Layer 嘻嘻贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-18T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067630360289300988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801631185355083779",
+              "start": 0,
+              "username": "Shinonome_Layer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067630360289300988",
+        "in_reply_to_user_id": "1801631185355083779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067628509850382522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinonome_Layer 嘻嘻贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801631185355083779",
+        "conversation_id": "2067627000764973188",
+        "created_at": "2026-06-18T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067628509850382522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067628509850382522",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067627000764973188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 23:20 剧烈羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 906,
+          "like_count": 2453,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1954
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T15:02:39.000Z",
+        "description": "20↓｜裏垢用｜無言フォロー失礼します｜人見知りだけど関わりたがり",
+        "id": "1801631185355083779",
+        "location": "🌙",
+        "name": "木板海胆🇦🇶",
+        "pinned_tweet_id": "1933308574773752153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908628502464913410/odHMoJMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 448,
+          "like_count": 10551,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 544
+        },
+        "username": "Shinonome_Layer",
+        "verified": false
+      }
+    ]
+  }
+}

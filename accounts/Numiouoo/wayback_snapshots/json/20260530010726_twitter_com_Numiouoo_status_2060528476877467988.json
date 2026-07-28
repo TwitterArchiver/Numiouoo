@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2060297021089812921",
+    "created_at": "2026-05-30T01:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060528476877467988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058350329574412288",
+          "start": 0,
+          "username": "Crystallize444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060528476877467988",
+    "in_reply_to_user_id": "2058350329574412288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060515525961335024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystallize444 笑死我了 不管了世界必须挨我一草！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2060297021089812921",
+        "created_at": "2026-05-30T01:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060528476877467988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058350329574412288",
+              "start": 0,
+              "username": "Crystallize444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060528476877467988",
+        "in_reply_to_user_id": "2058350329574412288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060515525961335024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystallize444 笑死我了 不管了世界必须挨我一草！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058350329574412288",
+        "conversation_id": "2060297021089812921",
+        "created_at": "2026-05-30T00:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060515525961335024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060515525961335024",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060297021089812921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 哈哈这b世界像极了抽象吧，昨天被干今天就得还回去，轮流坐庄是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵同类回fo🩵漏fo私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 470,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 533
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T00:53:32.000Z",
+        "description": "公益项目警惕药商利益团体造谣 多人帳號 MEME創作 亞文化 言論自由 不出東西不擔保交易 投稿/問題解答 私訊 \n#overdose #drugtwt #researchchemicals\n！網站和社群在置頂推文！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 58,
+                "tag": "overdose"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 95,
+                "start": 77,
+                "tag": "researchchemicals"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/1Lfrhl9O6P"
+              }
+            ]
+          }
+        },
+        "id": "2058350329574412288",
+        "location": "✝️結晶化✝️",
+        "name": "结晶化（Crystallize） - 公益結晶圈藥物加密論壇",
+        "pinned_tweet_id": "2059070686706987418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059965140393406467/42pQfjyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 63,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/1Lfrhl9O6P",
+        "username": "Crystallize444",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081366399164047596",
+    "created_at": "2026-07-27T10:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081690015453905265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682249026442506240",
+          "start": 0,
+          "username": "zhxyn331346"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081690015453905265",
+    "in_reply_to_user_id": "1682249026442506240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081594625845002464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhxyn331346 能哭好事🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081366399164047596",
+        "created_at": "2026-07-27T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081690015453905265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682249026442506240",
+              "start": 0,
+              "username": "zhxyn331346"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081690015453905265",
+        "in_reply_to_user_id": "1682249026442506240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081594625845002464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhxyn331346 能哭好事🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682249026442506240",
+        "conversation_id": "2081366399164047596",
+        "created_at": "2026-07-27T04:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081594625845002464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081594625845002464",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081366399164047596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 哭泣是灵魂温暖的人才有的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 982,
+          "like_count": 3726,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T04:40:08.000Z",
+        "description": "为了没有眼泪的明天。\n情绪发泄 负能量悲观厌世 \n在迷茫中活着 在迷茫中寻找 在迷茫中前进\n喜欢致幻类物质|欢迎互fo|敏感体质低耐受",
+        "id": "1682249026442506240",
+        "location": "日本",
+        "name": "无翼猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062000864517345280/w30fU9k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 136,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "zhxyn331346",
+        "verified": false
+      }
+    ]
+  }
+}

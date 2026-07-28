@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2072641084065480985",
+    "created_at": "2026-07-03T01:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072848167109066820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071924874163912704",
+          "start": 0,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072848167109066820",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072835214649266666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EVEgojj5 我来惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2072641084065480985",
+        "created_at": "2026-07-03T01:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072848167109066820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072848167109066820",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072835214649266666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EVEgojj5 我来惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2072641084065480985",
+        "created_at": "2026-07-03T00:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072835214649266666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072835214649266666",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072641084065480985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 妈咪妈咪我重生了来互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 944,
+          "like_count": 3213,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "",
+        "id": "2071924874163912704",
+        "name": "霸王龍愛吃三角龍（侏羅紀第二世版）",
+        "pinned_tweet_id": "2071995187539111969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071925633051934720/R23GN4U-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 153,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false
+      }
+    ]
+  }
+}

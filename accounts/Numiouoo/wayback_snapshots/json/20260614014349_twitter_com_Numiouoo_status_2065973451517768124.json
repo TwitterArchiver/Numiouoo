@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2065878722214019086",
+    "created_at": "2026-06-14T01:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065973451517768124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065973451517768124",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065878722214019086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 我的天目莉宝宝天使来的 不要欺负我们目莉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-14T01:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065973451517768124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065973451517768124",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065878722214019086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 我的天目莉宝宝天使来的 不要欺负我们目莉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-13T19:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065878722214019086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2065863783533461951",
+              "start": 133,
+              "url": "https://t.co/fXfcTToZtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065878722214019086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去年我真的把一个朋友接到身边，让她当我助理给她发3000一个月的工资，原本应该均摊的房租让我一个人付了第一个月的包括水电，此外我包揽的生活开支高达20000\n\n最后因为我精神病发想要独处环境，她就是不愿意离开我的主卧。导致我精神病大爆发甚至动用警力让她离开我的房间\nwtf只是离开房间这么一件小事她都无法退让。最后爆了。她妈妈过来把她接走了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863783533461951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年我真的把一个朋友接到身边，让她当我助理给她发3000一个月的工资，原本应该均摊的房租让我一个人付了第一个月的包括水电，此外我包揽的生活开支高达20000\n\n最后因为我精神病发想要独处环境，她就是不愿意离开我的主卧。导致我精神病大爆发甚至动用警力让她离开我的房间 https://t.co/fXfcTToZtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 861,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1667
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 199,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 688
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

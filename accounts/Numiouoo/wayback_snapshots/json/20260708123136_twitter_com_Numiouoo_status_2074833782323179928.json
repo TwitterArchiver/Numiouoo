@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074377915270418888",
+    "created_at": "2026-07-08T12:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074833782323179928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007416053450891264",
+          "start": 0,
+          "username": "chaoshidefeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074833782323179928",
+    "in_reply_to_user_id": "2007416053450891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074427351308595516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoshidefeng 贴贴🥺🥺很开心被认可！（塞一版糯米纸哇哇哇哇）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-08T12:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074833782323179928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007416053450891264",
+              "start": 0,
+              "username": "chaoshidefeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074833782323179928",
+        "in_reply_to_user_id": "2007416053450891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074427351308595516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoshidefeng 贴贴🥺🥺很开心被认可！（塞一版糯米纸哇哇哇哇）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007416053450891264",
+        "conversation_id": "2074377915270418888",
+        "created_at": "2026-07-07T09:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074427351308595516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074427351308595516",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074377915270418888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我喜欢泥的嗑药观...（？）啊啊小糯米   你的id听起来也很好吃  我当时吃药太苦了太恶心了就会抱着糯米纸或者糯米胶囊壳，蟹蟹泥小糯米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 960,
+          "like_count": 3392,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2603
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T11:37:50.000Z",
+        "description": "您好。你好哇。\n我的爱人→♛@maplemota  我深爱着祂。\n我对祂爱憎的情绪就像猫的眼睛那样，一个晚上能变换好几次 \n   ＊   合法合规成年jk  sw 混沌的普通变态。＊\n成分复杂 # 我很友善欢迎来找我聊天  ( Ꙭ) 喵？\n\n‖警告 可能随机刷出疯语 负面 R18g 鉴证 精神疾病 💊等恶俗言论...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "maplemota"
+              }
+            ]
+          }
+        },
+        "id": "2007416053450891264",
+        "location": "天空",
+        "name": "查询失败，用户已注销",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028782211147968512/8ZVTD4WK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1342,
+          "like_count": 9364,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 917
+        },
+        "url": "",
+        "username": "chaoshidefeng",
+        "verified": false
+      }
+    ]
+  }
+}

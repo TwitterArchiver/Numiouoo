@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059628915438559734",
+    "created_at": "2026-05-27T13:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059628915438559734"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059628915438559734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在每天都剧烈厌食，什么都不想吃肉嚼两口就吐了，每天就靠卧槽同事投喂的各类垃圾食品和奶茶，午饭晚饭每一口都恶心的很，试图用垃圾食品唤醒我的食欲QAQ（有一定用处但不多）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059628915438559734",
+        "created_at": "2026-05-27T13:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059628915438559734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059628915438559734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在每天都剧烈厌食，什么都不想吃肉嚼两口就吐了，每天就靠卧槽同事投喂的各类垃圾食品和奶茶，午饭晚饭每一口都恶心的很，试图用垃圾食品唤醒我的食欲QAQ（有一定用处但不多）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 427,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 413
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

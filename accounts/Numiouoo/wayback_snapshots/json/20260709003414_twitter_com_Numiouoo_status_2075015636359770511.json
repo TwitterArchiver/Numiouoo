@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2074720612468261134",
+    "created_at": "2026-07-09T00:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075015636359770511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045150537642090496",
+          "start": 0,
+          "username": "NANZHIQVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075015636359770511",
+    "in_reply_to_user_id": "2045150537642090496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882011404333215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NANZHIQVQ 嘿嘿嘿我素神！（骄傲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2074720612468261134",
+        "created_at": "2026-07-09T00:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075015636359770511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045150537642090496",
+              "start": 0,
+              "username": "NANZHIQVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075015636359770511",
+        "in_reply_to_user_id": "2045150537642090496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882011404333215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NANZHIQVQ 嘿嘿嘿我素神！（骄傲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045150537642090496",
+        "conversation_id": "2074720612468261134",
+        "created_at": "2026-07-08T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882011404333215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882011404333215",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074720612468261134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 糯米是神嘿嘿^q^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 960,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2614
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T14:41:58.000Z",
+        "description": "可以叫我小栀\n08/重抑重焦/🩸/🔪\n随便发点|･з･)｡\n反正没人浏览就不怕被举报喵……",
+        "id": "2045150537642090496",
+        "location": "碳酸锂好难吃",
+        "name": "栀雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046486523126964224/qINAsxNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 53,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "NANZHIQVQ",
+        "verified": false
+      }
+    ]
+  }
+}

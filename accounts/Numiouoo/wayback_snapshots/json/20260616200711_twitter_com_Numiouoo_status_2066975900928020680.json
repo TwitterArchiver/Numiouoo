@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2066974862791569654",
+    "created_at": "2026-06-16T20:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066975900928020680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066975900928020680",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066974862791569654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I feel complete peace and pure love now"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066974862791569654",
+        "created_at": "2026-06-16T20:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066975900928020680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066975900928020680",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066974862791569654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I feel complete peace and pure love now"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066974862791569654",
+        "created_at": "2026-06-16T20:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066974862791569654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1638959586140098560",
+              "start": 11,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066974862791569654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何物质联用这个17 @jiuyouforwhite 都是指数级翻倍爆炸爽……我们爽到不行了\n\n压缩的羽毛填进胸腔，爆炸地膨胀，柔软到让人无措。不知所措，停在原地。我看见周围的云在飘，十七看见地上的水在游。一场美梦。幻境般流光溢彩波澜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 888,
+          "like_count": 2405,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1848
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

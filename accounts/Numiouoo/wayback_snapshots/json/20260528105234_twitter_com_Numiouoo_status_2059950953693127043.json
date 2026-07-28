@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2059873695787803044",
+    "created_at": "2026-05-28T10:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059950953693127043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059950953693127043",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059873695787803044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 草！冰！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2059873695787803044",
+        "created_at": "2026-05-28T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059950953693127043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059950953693127043",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059873695787803044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 草！冰！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2059873695787803044",
+        "created_at": "2026-05-28T05:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059873695787803044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wakabana7/stat…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/Wakabana7/status/2059642865350021382",
+              "start": 116,
+              "url": "https://t.co/gDMWERy7Zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059873695787803044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059642865350021382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们要分清症状和疾病，惊恐发作是症状，害怕，强迫，无意识紧咬牙关这都是症状，所以才有药物去解决这些急性的症状，那抑郁的症状是什么？心情不好？不舒服？一个本身没有急性症状的疾病，你却要速效药物，那不就是纯让人心情从差变好，我草！冰！ https://t.co/gDMWERy7Zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 464
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "oder 心理学 玄学 (八字 六爻 奇门 塔罗) 药理学 English\n欢迎找窝聊天哦～我会好好安慰你的！\npr ym在售 有需要的直接私\nhttps://t.co/2PlWz3O3g6\n欢迎匿名提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llen28538",
+                "end": 95,
+                "expanded_url": "https://ngl.link/llen28538",
+                "start": 72,
+                "url": "https://t.co/2PlWz3O3g6"
+              }
+            ]
+          }
+        },
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 132,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 841
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

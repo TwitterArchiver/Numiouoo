@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2071608279730618686",
+    "created_at": "2026-06-29T15:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071622345056464968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071622345056464968",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071614337987580354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 那也很好 努力活下去吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2071608279730618686",
+        "created_at": "2026-06-29T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071622345056464968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071622345056464968",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071614337987580354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 那也很好 努力活下去吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2071608279730618686",
+        "created_at": "2026-06-29T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071614337987580354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071614337987580354",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得死亡很恐怖诶，只是想到我的自我有一天会消失就怕得不行，想到有一天这个世界上所有美好的人和事物都与我无关了，我就非常的恐惧，我既贪生又怕死，尽管我此前的人生痛苦和苦难远大于快乐。但我觉得痛苦也很美，痛苦的体验总比没有体验要更好，存在着什么总比空无一物要更好，不然为什么存在着这样一个世界，而不是什么都没有呢？世界存在着一定是有它的意义的，既然生命也像世界存在这样存在着，那么我想我们的生命也一定是有意义的。但我又想到毕竟生命短暂，不过短短几十年而已，在历史的长河中完全是微不足道的，也许根本就不会有什么意义，但是，我们怎能因为意义的难以求证就不珍惜我们短暂又渺小的生命呢。死亡迟早是要到来的，希望我面对死亡的时候不会感到恐惧和后悔。\n希望到时我有勇气说出二十世纪最伟大的哲学家的那句“告诉他们，我度过了美好的一生。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071608279730618686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我觉得死亡很恐怖诶，只是想到我的自我有一天会消失就怕得不行，想到有一天这个世界上所有美好的人和事物都与我无关了，我就非常的恐惧，我既贪生又怕死，尽管我此前的人生痛苦和苦难远大于快乐。但我觉得痛苦也很美，痛苦的体验总比没有体验要更好，存在着什么总比空无一物要更好，不然为什么存在着这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 931,
+          "like_count": 3117,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "你看我时很近",
+        "id": "2047155443613704192",
+        "location": "嫉妒",
+        "name": "绯世",
+        "pinned_tweet_id": "2067117616406376631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": true
+      }
+    ]
+  }
+}
