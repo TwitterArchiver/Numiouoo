@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081990105083080806",
+    "created_at": "2026-07-28T06:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081992723863855376"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081992723863855376",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081990105083080806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭借我的极品健全阳气，从小到大成功哄骗无数长辈，我撒谎干坏事都没人发现，大家坚信我做什么都有我的政治正确，我妈的所有朋友同事都非常喜欢我，家里最位高权重的几位长辈都喜欢我，我一说话就维护我“xx有自己的道理，比你们懂得多”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081990105083080806",
+        "created_at": "2026-07-28T06:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081992723863855376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081992723863855376",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081990105083080806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭借我的极品健全阳气，从小到大成功哄骗无数长辈，我撒谎干坏事都没人发现，大家坚信我做什么都有我的政治正确，我妈的所有朋友同事都非常喜欢我，家里最位高权重的几位长辈都喜欢我，我一说话就维护我“xx有自己的道理，比你们懂得多”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081990105083080806",
+        "created_at": "2026-07-28T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:22:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988598052864348",
+          "2081990105083080806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081990105083080806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亲友说，把我的照片给他们的家人朋友看了，对方都说我看起来善良温柔，不像有那种不良嗜好或者神经病的人，也看不出我喜欢暴力血腥喜欢违法犯罪，长得一副从小幸福无忧的健全人模样\n\n我说，对的对的我就喜欢装成这样，我住精神病院除了医生以外大家都觉得我没病，休学复读除了校长把我交接给班主任知道以外其他人也都不知道我有病，装成这样太好玩了，我是原教旨地雷，亲友说别的地雷远观已经要爆炸了，我是近距离碰了才发现会炸但是跑已经来不及了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友说，把我的照片给他们的家人朋友看了，对方都说我看起来善良温柔，不像有那种不良嗜好或者神经病的人，也看不出我喜欢暴力血腥喜欢违法犯罪，长得一副从小幸福无忧的健全人模样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 984,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2860
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081761647425978558",
+    "created_at": "2026-07-28T06:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081989289165095113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081989289165095113",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081953591930327355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 操神经病🤤🤤🤤美味……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-28T06:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081989289165095113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081989289165095113",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081953591930327355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 操神经病🤤🤤🤤美味……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-28T04:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081953591930327355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081953591930327355",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081761647425978558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 笑死我了操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 984,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2857
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "location": "東京は愛せど何もない",
+        "name": "にゃがいも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077327666164977664/vmW7Toyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 741,
+          "like_count": 50113,
+          "listed_count": 8,
+          "media_count": 805,
+          "tweet_count": 15102
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": false
+      }
+    ]
+  }
+}

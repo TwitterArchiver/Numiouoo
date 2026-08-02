@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083231007235596639",
+    "created_at": "2026-08-01T12:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083532600963108913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062215721275551744",
+          "start": 0,
+          "username": "jlmmb4562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083532600963108913",
+    "in_reply_to_user_id": "2062215721275551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083376747970736246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlmmb4562 好的牙谢谢你 o(╥﹏╥)o 我会努力的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083231007235596639",
+        "created_at": "2026-08-01T12:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083532600963108913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062215721275551744",
+              "start": 0,
+              "username": "jlmmb4562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083532600963108913",
+        "in_reply_to_user_id": "2062215721275551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083376747970736246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlmmb4562 好的牙谢谢你 o(╥﹏╥)o 我会努力的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062215721275551744",
+        "conversation_id": "2083231007235596639",
+        "created_at": "2026-08-01T02:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083376747970736246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083376747970736246",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083231007235596639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 慢慢来，朋友，减肥什么的都是要半年一年为单位，为什么镜子里的自己不可以是你向理想方向前进的动力呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 983,
+          "like_count": 3920,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2953
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T16:52:55.000Z",
+        "description": "无论你是谁，为何来到我主页，我都永远希望你有一个自由的幸福的充满光明的生活与未来，并能满怀信心地为此奋斗\n02毕业打工女，想成为所有人的朋友\n喜欢的角色有罗伯特基利曼，玛恩纳，阿拉纳克，当然也有头像\n在X刷墙内不能看的(涩涩?)\n明日方舟官服:砖家叫兽#7855\n(可能会沾一些敏感分区⚠️)\n依旧苦等孤独摇滚更新",
+        "id": "2062215721275551744",
+        "location": "大炎–姜齐",
+        "name": "基利曼曼波",
+        "pinned_tweet_id": "2082426458300194897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082116299942141953/VWaL-Q2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 54,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "jlmmb4562",
+        "verified": false
+      }
+    ]
+  }
+}

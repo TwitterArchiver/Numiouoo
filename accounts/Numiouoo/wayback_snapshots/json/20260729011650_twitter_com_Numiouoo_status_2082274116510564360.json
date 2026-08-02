@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081761647425978558",
+    "created_at": "2026-07-29T01:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082274116510564360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082274116510564360",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082194650060791910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 健全人真的烦死了 我觉得好弱智（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-29T01:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082274116510564360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082274116510564360",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082194650060791910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 健全人真的烦死了 我觉得好弱智（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870858980752543744",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-28T20:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082194650060791910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082194650060791910",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081761647425978558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 是这样的，之前我快被有白骑士的健全人逼死了，我一直想死而他一直想救我，就这样负能量无限循环了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 980,
+          "like_count": 3778,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "叫我Azael或者清，双相/BPD/ADHD/自残/挂逼/泛性恋/性别是阿普唑仑/上一世被查封秽土转生版/偶尔关闭主页\n在推上什么也不干，纯宣泄，不是同类别找我",
+        "id": "1870858980752543744",
+        "location": "马里亚纳海沟",
+        "name": "雨汇聚成海水与眼泪",
+        "pinned_tweet_id": "2074837730249290024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074845725590999041/59OdY5oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false
+      }
+    ]
+  }
+}

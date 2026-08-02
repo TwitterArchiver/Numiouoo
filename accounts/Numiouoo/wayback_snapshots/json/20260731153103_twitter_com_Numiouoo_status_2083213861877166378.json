@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083103765893431378",
+    "created_at": "2026-07-31T15:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083213861877166378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083213861877166378",
+    "in_reply_to_user_id": "1974420946045071360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083203128682594462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 msk已经沉浸在自己的文字狱艺术中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083103765893431378",
+        "created_at": "2026-07-31T15:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083213861877166378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083213861877166378",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083203128682594462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 msk已经沉浸在自己的文字狱艺术中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974420946045071360",
+        "conversation_id": "2083103765893431378",
+        "created_at": "2026-07-31T14:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083203128682594462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083203128682594462",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083103765893431378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo msk殺瘋了屬於是 只要是有身體藝術 藥物 說自己想亖都逃不過😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 980,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "查主頁與推文回fo｜友LGBTQ+｜同類 無發表爭議性話題必回｜有自殘無嗑藥｜精神狀態較差｜不定時產出較為高深推文｜碎碎念｜主吃泡麵｜畫圖與手作｜主研究生物與一點心理學 醫學也有碰過一點｜上學中｜已有對象請勿騷擾謝謝｜可存活天數:未知｜出現時間:未知｜未回覆就是推特吞通知了｜",
+        "id": "1974420946045071360",
+        "name": "濪",
+        "pinned_tweet_id": "2081484508357070991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040996760517320704/yxiZJH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 119,
+          "like_count": 2585,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false
+      }
+    ]
+  }
+}

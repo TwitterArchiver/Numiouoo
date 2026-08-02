@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083483056812523870",
+    "created_at": "2026-08-01T10:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083494858505998605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083494858505998605",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083483056812523870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@__Ju___Ju__ 成功把隐匿于墙角的药物干空干下架了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2083483050806272000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoEy8La4AAkzRZ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083483056812523870",
+        "created_at": "2026-08-01T10:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083494858505998605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083494858505998605",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083483056812523870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@__Ju___Ju__ 成功把隐匿于墙角的药物干空干下架了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083483050806272000"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2083483056812523870",
+        "created_at": "2026-08-01T09:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083483056812523870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W98WmvbwIm",
+              "end": 29,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2083483056812523870/photo/1",
+              "media_key": "3_2083483050806272000",
+              "start": 6,
+              "url": "https://t.co/W98WmvbwIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083483056812523870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "疯狂的毒虫 https://t.co/W98WmvbwIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 982,
+          "like_count": 3919,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2950
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n爱人玖玖@GiveProofToLove \n好诡秘@mukdengise\n小咩@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "mukdengise"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学木吉🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 512,
+          "like_count": 44670,
+          "listed_count": 17,
+          "media_count": 3468,
+          "tweet_count": 48628
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

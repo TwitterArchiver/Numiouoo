@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081991431003193344"
+      ]
+    },
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081990105083080806",
+    "created_at": "2026-07-28T06:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081991437500244037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EO7BdQCOPV",
+          "end": 68,
+          "expanded_url": "https://x.com/Numiouoo/status/2081991437500244037/photo/1",
+          "media_key": "3_2081991431003193344",
+          "start": 45,
+          "url": "https://t.co/EO7BdQCOPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081991437500244037",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081990105083080806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后我又想到17家人看完我照片，把我从死毒虫自动洗白了坚信我是个无辜善良清纯的好人类（） https://t.co/EO7BdQCOPV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2081991431003193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS4LPZaQAAauHD.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081991431003193344"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081990105083080806",
+        "created_at": "2026-07-28T06:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081991437500244037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO7BdQCOPV",
+              "end": 68,
+              "expanded_url": "https://x.com/Numiouoo/status/2081991437500244037/photo/1",
+              "media_key": "3_2081991431003193344",
+              "start": 45,
+              "url": "https://t.co/EO7BdQCOPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081991437500244037",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081990105083080806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后我又想到17家人看完我照片，把我从死毒虫自动洗白了坚信我是个无辜善良清纯的好人类（） https://t.co/EO7BdQCOPV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081990105083080806",
+        "created_at": "2026-07-28T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:22:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988598052864348",
+          "2081990105083080806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081990105083080806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亲友说，把我的照片给他们的家人朋友看了，对方都说我看起来善良温柔，不像有那种不良嗜好或者神经病的人，也看不出我喜欢暴力血腥喜欢违法犯罪，长得一副从小幸福无忧的健全人模样\n\n我说，对的对的我就喜欢装成这样，我住精神病院除了医生以外大家都觉得我没病，休学复读除了校长把我交接给班主任知道以外其他人也都不知道我有病，装成这样太好玩了，我是原教旨地雷，亲友说别的地雷远观已经要爆炸了，我是近距离碰了才发现会炸但是跑已经来不及了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友说，把我的照片给他们的家人朋友看了，对方都说我看起来善良温柔，不像有那种不良嗜好或者神经病的人，也看不出我喜欢暴力血腥喜欢违法犯罪，长得一副从小幸福无忧的健全人模样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 984,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2859
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2081761647425978558",
+    "created_at": "2026-07-30T15:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082851229722657059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1936261480758104064",
+          "start": 0,
+          "username": "krytontontonton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082851229722657059",
+    "in_reply_to_user_id": "1936261480758104064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082800555089645613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krytontontonton 就是就是！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-30T15:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082851229722657059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1936261480758104064",
+              "start": 0,
+              "username": "krytontontonton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082851229722657059",
+        "in_reply_to_user_id": "1936261480758104064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082800555089645613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krytontontonton 就是就是！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936261480758104064",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-30T12:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082800555089645613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082800555089645613",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081761647425978558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 精神病就是最好的！阳光什么的才不要呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 981,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2898
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-21T03:14:58.000Z",
+        "description": "不要罵我，這裡是我最後可以休息的地方了",
+        "id": "1936261480758104064",
+        "name": "小K",
+        "pinned_tweet_id": "2053477028209598710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060927831102881792/8n5imJK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 53,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "krytontontonton",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2082857795238711387",
+    "created_at": "2026-07-30T16:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082858908511862899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082858908511862899",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082857795238711387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我极度信任且欣喜于友缘是因为我确信我的朋友爱我是完完全全爱我的本质而非表象 可能表象就是顺带的加分点 本质才是我们相互吸引的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2082857795238711387",
+        "created_at": "2026-07-30T16:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082858908511862899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082858908511862899",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082857795238711387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我极度信任且欣喜于友缘是因为我确信我的朋友爱我是完完全全爱我的本质而非表象 可能表象就是顺带的加分点 本质才是我们相互吸引的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2082857795238711387",
+        "created_at": "2026-07-30T15:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082857795238711387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082857795238711387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我极少感到孤独，从未因为身边人恋爱就也找个人爱一爱，每当盛大的节日灯火通明，车水马龙中人们在相拥而笑，我感到的不是孤独而是隔阂，与这个世界无法破壁的隔阂\n\n我的导演亲友拍过一个青春片，讲的是懵懂的少女看到周围人都在热恋，于是自己也无头苍蝇般急切着一次又一次恋爱\n\n我协助参与的时候只是特别不能理解，为什么别人陷入亲密关系我就应该羡慕呢？实际上我只是觉得人类叽叽喳喳很吵闹 他们在一起的原因是见色起意或者将就凑合 明明不是最满意的人选 只是因为太孤独了所以先依偎着取暖 分手原因则是经济不对等 或者一方突然出轨等等令我不解的缘由 极少数人的分开是因为志不同或道不合 都是些乏味的理由\n\n我无感性缘关系是因为性缘关系总是让我觉得很空荡 街上莫名其妙有人跟着我两分钟小心翼翼过来搭讪 萍水相逢的喜欢究竟喜欢的是什么 线上网友加了不到一周就问能不能追求我 其实不是因为我很符合对方的审美只是因为看起来很合适 很适合在无聊的人生里打发时间 性缘关系充斥着皮囊表象与轻浮物质 \n\n人们激烈相拥 我从未有一丝毫的孤独感 因为我根本也没羡慕过"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我极少感到孤独，从未因为身边人恋爱就也找个人爱一爱，每当盛大的节日灯火通明，车水马龙中人们在相拥而笑，我感到的不是孤独而是隔阂，与这个世界无法破壁的隔阂\n\n我的导演亲友拍过一个青春片，讲的是懵懂的少女看到周围人都在热恋，于是自己也无头苍蝇般急切着一次又一次恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 981,
+          "like_count": 3854,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2905
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2082273975942648081",
+    "created_at": "2026-07-31T00:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082993523872387243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771182467128635392",
+          "start": 0,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082993523872387243",
+    "in_reply_to_user_id": "1771182467128635392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082992952134230146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PP_Konig 好牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2082273975942648081",
+        "created_at": "2026-07-31T00:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082993523872387243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771182467128635392",
+              "start": 0,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082993523872387243",
+        "in_reply_to_user_id": "1771182467128635392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082992952134230146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PP_Konig 好牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771182467128635392",
+        "conversation_id": "2082273975942648081",
+        "created_at": "2026-07-31T00:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082992952134230146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082992952134230146",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082990430476816741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 宝宝可以帮我转发一下吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 980,
+          "like_count": 3853,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 147,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false
+      }
+    ]
+  }
+}

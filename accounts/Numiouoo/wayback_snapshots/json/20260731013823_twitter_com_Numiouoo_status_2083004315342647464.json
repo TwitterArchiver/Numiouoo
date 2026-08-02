@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083002311094485219",
+    "created_at": "2026-07-31T01:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083004315342647464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083004315342647464",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083002311094485219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身边很多毒虫包括17也都跟我一样 支持毒品也支持禁毒 ，如果你完全100%站在两极之一我反而觉得不对劲，100%绝对支持毒品证明你根本看不到毒品对于个体或群体的危害性你看不到自己或他人的失控混乱，100%反对毒品证明你根本身在茧房之中未曾了解过精神活性物质是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083002311094485219",
+        "created_at": "2026-07-31T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083004315342647464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083004315342647464",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083002311094485219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身边很多毒虫包括17也都跟我一样 支持毒品也支持禁毒 ，如果你完全100%站在两极之一我反而觉得不对劲，100%绝对支持毒品证明你根本看不到毒品对于个体或群体的危害性你看不到自己或他人的失控混乱，100%反对毒品证明你根本身在茧房之中未曾了解过精神活性物质是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083002311094485219",
+        "created_at": "2026-07-31T01:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083002311094485219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083002311094485219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多事物并非二元对立，我上推特虽早就是嘲笑od歧视滥用的，后来我自己接触滥用和毒品发现确实有可取之处，我常常自嘲屠龙者终成恶龙，但其实不完全如此\n\n有些反跨者跨了依旧反跨，这看似自相矛盾其实不是的，这个世界就是很复杂，没有绝对的对立，我支持毒品也支持禁毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 980,
+          "like_count": 3855,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}
