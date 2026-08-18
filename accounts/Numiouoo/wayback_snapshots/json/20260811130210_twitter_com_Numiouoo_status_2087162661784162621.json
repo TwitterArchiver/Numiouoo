@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2087154267702657318",
+    "created_at": "2026-08-11T13:02:10.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087162661784162621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043745937298792448",
+          "start": 0,
+          "username": "ivan20221126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087162661784162621",
+    "in_reply_to_user_id": "2043745937298792448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087154267702657318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan20221126 我懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2087154267702657318",
+        "created_at": "2026-08-11T13:02:10.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087162661784162621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087162661784162621",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087154267702657318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 我懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087154267702657318",
+        "created_at": "2026-08-11T12:28:49.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087154267702657318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087154267702657318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说蓝标炒作狗死老冯了有没有懂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087162661784162621",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 968,
+          "like_count": 3965,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3009
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087154267702657318",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 167,
+          "like_count": 5598,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

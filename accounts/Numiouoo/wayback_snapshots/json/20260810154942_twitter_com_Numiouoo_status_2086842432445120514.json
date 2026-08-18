@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2086842432445120514",
+    "created_at": "2026-08-10T15:49:42.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086842432445120514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086842432445120514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我的不知道msk是在干什么 我温良得堪比一头骡子了 现在的情况已经不是说不给传播负面那么简单了 是你什么也没干你也会boom炸开 不仅要炸你还是毫无理由无理取闹 炸就算了连申诉也不受理 甚至连个拒绝都不愿意回 完全没有任何回信 不止我一个人遇到这种情况了 \n比失去言论自由更可怕的是失去辩驳自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2086842432445120514",
+        "created_at": "2026-08-10T15:49:42.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086842432445120514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086842432445120514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我的不知道msk是在干什么 我温良得堪比一头骡子了 现在的情况已经不是说不给传播负面那么简单了 是你什么也没干你也会boom炸开 不仅要炸你还是毫无理由无理取闹 炸就算了连申诉也不受理 甚至连个拒绝都不愿意回 完全没有任何回信 不止我一个人遇到这种情况了 \n比失去言论自由更可怕的是失去辩驳自由"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n狂犬病🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵nd社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086842432445120514",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 964,
+          "like_count": 3925,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2988
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

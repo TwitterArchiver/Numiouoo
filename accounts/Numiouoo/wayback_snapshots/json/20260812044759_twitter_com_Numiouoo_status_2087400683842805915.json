@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2087094723081302155",
+    "created_at": "2026-08-12T04:47:59.000Z",
+    "display_text_range": [
+      9,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087400683842805915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087400683842805915",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087107770067878226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 你说得对，大多数人喜欢筛选不改变，我在普遍情况下也这样，但也有特别钻牛角尖的时候，一条路走到黑，要么别开始要么不结束，宁愿头破血流不死不休也不要轻拿轻放，正常人遇到我这样大概会很困扰，好在我总是提前跟大家说了，扼杀危险于摇篮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2087094723081302155",
+        "created_at": "2026-08-12T04:47:59.000Z",
+        "display_text_range": [
+          9,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087400683842805915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087400683842805915",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087107770067878226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 你说得对，大多数人喜欢筛选不改变，我在普遍情况下也这样，但也有特别钻牛角尖的时候，一条路走到黑，要么别开始要么不结束，宁愿头破血流不死不休也不要轻拿轻放，正常人遇到我这样大概会很困扰，好在我总是提前跟大家说了，扼杀危险于摇篮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2087094723081302155",
+        "created_at": "2026-08-11T09:24:03.000Z",
+        "display_text_range": [
+          10,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087107770067878226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087107770067878226",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087094723081302155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 🙀更喜欢了。爱总是容易的，但持续的长久的爱就成了罕见的奢侈品，恨也同样罕见，真的敢恨的人是极少的，恨也是奢侈品，更多的人是极其务实的，不行就下一个，没人会揪着某个人或某段关系不放。敢爱敢恨，剧烈爱恨交织地活着是很奢侈的，尤其是在你已经拥有很多筹码和与其他人的可能性的时候。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087400683842805915",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 971,
+          "like_count": 3970,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "这世界有那么多人",
+        "id": "2047155443613704192",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2087382127184875937",
+        "name": "绯世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047155443613704192/1785517702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083561093692370945/aHOxkAOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 13,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

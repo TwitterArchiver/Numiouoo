@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083832257673076906",
+    "created_at": "2026-08-02T12:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083900460701020259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Jack114514233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083900460701020259",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083885718343172128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack114514233 年年都有 今年怎能缺席😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T12:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083900460701020259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Jack114514233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083900460701020259",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083885718343172128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack114514233 年年都有 今年怎能缺席😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T12:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083885718343172128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083885718343172128",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832257673076906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 又要上演去年那样春雨女大vs地雷女吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 990,
+          "like_count": 3941,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2983
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Jack",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 786,
+          "like_count": 594,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Jack114514233",
+        "verified": false
+      }
+    ]
+  }
+}

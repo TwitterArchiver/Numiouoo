@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2088094909014438195",
+    "created_at": "2026-08-14T14:14:00.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088267902252433539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800529213675741184",
+          "start": 0,
+          "username": "waichen187098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088267902252433539",
+    "in_reply_to_user_id": "1800529213675741184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088243839362572635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waichen187098 哇！我100可能要升天了惹（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2088094909014438195",
+        "created_at": "2026-08-14T14:14:00.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088267902252433539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800529213675741184",
+              "start": 0,
+              "username": "waichen187098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088267902252433539",
+        "in_reply_to_user_id": "1800529213675741184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088243839362572635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waichen187098 哇！我100可能要升天了惹（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800529213675741184",
+        "conversation_id": "2088094909014438195",
+        "created_at": "2026-08-14T12:38:23.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088243839362572635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088243839362572635",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088094909014438195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 羡慕 我100mg1161没什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088267902252433539",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 971,
+          "like_count": 4044,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3047
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-11T14:03:28.000Z",
+        "description": "「诗人」前世@chenwai29719，07INFPaudhd/💊🩸/ftx非二元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "chenwai29719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chenwai555",
+                "end": 23,
+                "expanded_url": "http://t.me/chenwai555",
+                "start": 0,
+                "url": "https://t.co/PFdP4tz1Eu"
+              }
+            ]
+          }
+        },
+        "id": "1800529213675741184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088243839362572635",
+        "name": "尘外（秽土转生版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800529213675741184/1773689714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033628124311916546/g9IIycrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 87,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/PFdP4tz1Eu",
+        "username": "waichen187098",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

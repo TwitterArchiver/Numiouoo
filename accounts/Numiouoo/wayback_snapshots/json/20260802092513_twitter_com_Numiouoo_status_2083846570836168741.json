@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083832257673076906",
+    "created_at": "2026-08-02T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083846570836168741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873708075619946497",
+          "start": 0,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083846570836168741",
+    "in_reply_to_user_id": "1873708075619946497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083838618486157769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qik1182069 自己发涩图还歧视卖b 卖b跟发涩图都是个人意愿 非要分出高低我看她也是个腦殘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083846570836168741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873708075619946497",
+              "start": 0,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083846570836168741",
+        "in_reply_to_user_id": "1873708075619946497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083838618486157769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qik1182069 自己发涩图还歧视卖b 卖b跟发涩图都是个人意愿 非要分出高低我看她也是个腦殘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873708075619946497",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T08:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083838618486157769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083838618486157769",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832257673076906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 支持糯米，这个人应该是个卖的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 984,
+          "like_count": 3935,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "无性别 - 泛性恋\n自由 - 平等 - 博爱\n开放 - 包容 - 多元",
+        "id": "1873708075619946497",
+        "name": "✝️春沫✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 56,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

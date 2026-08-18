@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2083832257673076906",
+    "created_at": "2026-08-02T11:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083883843090862485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653810564857049107",
+          "start": 0,
+          "username": "anke98105278135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083883843090862485",
+    "in_reply_to_user_id": "1653810564857049107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083868551727952358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anke98105278135 ✋🏻😭🤚🏻眼药水来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083883843090862485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653810564857049107",
+              "start": 0,
+              "username": "anke98105278135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083883843090862485",
+        "in_reply_to_user_id": "1653810564857049107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083868551727952358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anke98105278135 ✋🏻😭🤚🏻眼药水来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653810564857049107",
+        "conversation_id": "2083832257673076906",
+        "created_at": "2026-08-02T10:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083868551727952358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083868551727952358",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832257673076906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 查成分最后悔的一集😭😭女神我眼睛痛..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 989,
+          "like_count": 3938,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T17:16:21.000Z",
+        "description": "ok//只是一个无性别的草履虫智障儿童",
+        "id": "1653810564857049107",
+        "name": "usaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081690854909988864/vDVmEhZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 639,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "anke98105278135",
+        "verified": false
+      }
+    ]
+  }
+}

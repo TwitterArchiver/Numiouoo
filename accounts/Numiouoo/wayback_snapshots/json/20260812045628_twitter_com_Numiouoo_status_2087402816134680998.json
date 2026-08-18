@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2086858823202222161",
+    "created_at": "2026-08-12T04:56:28.000Z",
+    "display_text_range": [
+      31,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087402816134680998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        },
+        {
+          "end": 30,
+          "id": "1979068278673981440",
+          "start": 14,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087402816134680998",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086858823202222161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm @orange219695619 我靠橘子😭😭😭可恶msk"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [orange219695619].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "orange219695619",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "orange219695619"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2086858808085868544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYDB4BacAAwIkE.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2086858823202222161",
+        "created_at": "2026-08-12T04:56:28.000Z",
+        "display_text_range": [
+          31,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087402816134680998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 30,
+              "id": "1979068278673981440",
+              "start": 14,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087402816134680998",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086858823202222161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @orange219695619 我靠橘子😭😭😭可恶msk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086858808085868544"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2086858823202222161",
+        "created_at": "2026-08-10T16:54:50.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086858823202222161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1979068278673981440",
+              "start": 6,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmKvA2GhTP",
+              "end": 76,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2086858823202222161/photo/1",
+              "media_key": "3_2086858808085868544",
+              "start": 53,
+              "url": "https://t.co/xmKvA2GhTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086858823202222161",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086858808085868544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最新悲报：\n@orange219695619\n我们的橘子老师战败，申诉未成功\n大家一起加油让他起死回生😭 https://t.co/xmKvA2GhTP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087402816134680998",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 972,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3033
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087337888979767660",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 576,
+          "like_count": 7365,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 4363
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

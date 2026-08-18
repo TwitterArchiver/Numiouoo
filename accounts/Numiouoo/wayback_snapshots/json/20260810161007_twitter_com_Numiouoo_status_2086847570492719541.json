@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2086840213549326461",
+    "created_at": "2026-08-10T16:10:07.000Z",
+    "display_text_range": [
+      17,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086847570492719541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086847570492719541",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086846970254217599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ 对的对的 我们这坨人锁推了也炸 防不胜防  真的气死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2086840213549326461",
+        "created_at": "2026-08-10T16:10:07.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086847570492719541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086847570492719541",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086846970254217599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 对的对的 我们这坨人锁推了也炸 防不胜防  真的气死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2086840213549326461",
+        "created_at": "2026-08-10T16:07:44.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086846970254217599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846970254217599",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086840213549326461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 锁了推的账号bio也会炸。msk已经疯了✌️🥵✌️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n狂犬病🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵nd社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086847570492719541",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 965,
+          "like_count": 3929,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2995
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀家族耻辱@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2086846970254217599",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 101,
+          "like_count": 6321,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
