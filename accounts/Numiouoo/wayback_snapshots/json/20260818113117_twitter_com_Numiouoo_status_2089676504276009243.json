@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2089655091368517688",
+    "created_at": "2026-08-18T11:31:17.000Z",
+    "display_text_range": [
+      16,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089676504276009243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649698808719200260",
+          "start": 0,
+          "username": "figgfigg256251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089676504276009243",
+    "in_reply_to_user_id": "1649698808719200260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089672192267268501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@figgfigg256251 很想gap 但这个工作来之不易 可能是我能接触到的天花板了 离职了就进不去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2089655091368517688",
+        "created_at": "2026-08-18T11:31:17.000Z",
+        "display_text_range": [
+          16,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089676504276009243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649698808719200260",
+              "start": 0,
+              "username": "figgfigg256251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089676504276009243",
+        "in_reply_to_user_id": "1649698808719200260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089672192267268501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@figgfigg256251 很想gap 但这个工作来之不易 可能是我能接触到的天花板了 离职了就进不去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649698808719200260",
+        "conversation_id": "2089655091368517688",
+        "created_at": "2026-08-18T11:14:09.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089672192267268501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089672192267268501",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089655091368517688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 理所当然地去gap一段时间，调整自己状态"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089676504276009243",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 966,
+          "like_count": 4094,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-22T08:57:14.000Z",
+        "description": "你曾听说蝙蝠侠里的这句话吗\n“因为有些人并不是想要符合常理的东西，比如钱。/\n他们不接受收买，不怕被威胁，不讲道理，也无法谈判。/\n有些人，他们只想看世界葬身火海。”//这里是z世代的疯子或天才fggfgg，正在重新寻找作为人的意义//迈过了需要药物的阶段，不再伪装自己是暴力机器所期待的模样//欢迎找我探讨一切，地狱。",
+        "id": "1649698808719200260",
+        "is_identity_verified": false,
+        "location": "屠宰场",
+        "most_recent_tweet_id": "2089672626411376934",
+        "name": "飞咕咕飞咕咕",
+        "pinned_tweet_id": "1991929337680114100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649698808719200260/1757176914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956758462777667584/Sq2NcuWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 334,
+          "like_count": 2708,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "figgfigg256251",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2091131884722119080",
+    "created_at": "2026-08-22T12:01:06.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091133559562285306"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091133559562285306",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091131884722119080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很讨厌动弹 很讨厌说话 大部分的时间我愿意保持一个姿势好几个小时像蘑菇一样种在墙角"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2091131884722119080",
+        "created_at": "2026-08-22T12:01:06.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091133559562285306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091133559562285306",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091131884722119080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很讨厌动弹 很讨厌说话 大部分的时间我愿意保持一个姿势好几个小时像蘑菇一样种在墙角"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2091131884722119080",
+        "created_at": "2026-08-22T11:54:27.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091131884722119080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091131884722119080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好累啊 难得平静的一个周末 结果我妈突然回家 太吵闹了 家里亮起来了吵起来了 还要出去办事情不能乱嗑药不然毒驾了 感觉世界逮着我薅 我只是想每天下了班回家没有任何光线声音没有活人在我耳边讲话而已 怎么那么难 一想到活着就是要跟人不停说话交流接触我就烦死了\n疫情期间别人都在因为不能出门抑郁 觉得不能跟人近距离接触玩耍很难受很压抑 而我一点事情都没有 只是觉得很舒服"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累啊 难得平静的一个周末 结果我妈突然回家 太吵闹了 家里亮起来了吵起来了 还要出去办事情不能乱嗑药不然毒驾了 感觉世界逮着我薅 我只是想每天下了班回家没有任何光线声音没有活人在我耳边讲话而已 怎么那么难 一想到活着就是要跟人不停说话交流接触我就烦死了\n疫情期间别人都在因为不能出门抑郁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091133559562285306",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 967,
+          "like_count": 4268,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3213
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

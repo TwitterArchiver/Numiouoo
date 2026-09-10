@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2096225369766703352",
+    "created_at": "2026-09-05T14:09:25.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096239281727848945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "831435613937102848",
+          "start": 0,
+          "username": "5koPainful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096239281727848945",
+    "in_reply_to_user_id": "831435613937102848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096225369766703352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5koPainful 美死了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 720,
+        "media_key": "13_2096225333175554048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096225333175554048/img/0Y8E5NI8-sETJl4_.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096225333175554048/vid/avc1/480x270/3V-H3FgLeKd4FUBC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096225333175554048/vid/avc1/640x360/lDcR1S7oWamzItZp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096225333175554048/vid/avc1/1280x720/Ajg_A_Kkv156spci.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096225333175554048/pl/2_5gLi_q0mNls3L8.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2096225369766703352",
+        "created_at": "2026-09-05T14:09:25.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096239281727848945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "831435613937102848",
+              "start": 0,
+              "username": "5koPainful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096239281727848945",
+        "in_reply_to_user_id": "831435613937102848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096225369766703352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5koPainful 美死了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096225333175554048"
+          ]
+        },
+        "author_id": "831435613937102848",
+        "conversation_id": "2096225369766703352",
+        "created_at": "2026-09-05T13:14:08.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096225369766703352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoQzTkSrVD",
+              "end": 30,
+              "expanded_url": "https://x.com/5koPainful/status/2096225369766703352/video/1",
+              "media_key": "13_2096225333175554048",
+              "start": 7,
+              "url": "https://t.co/QoQzTkSrVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096225369766703352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096225333175554048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 462,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜有感觉吗 https://t.co/QoQzTkSrVD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096239281727848945",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 968,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-14T09:31:12.000Z",
+        "description": "别烦 查成分互",
+        "id": "831435613937102848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096225369766703352",
+        "name": "穹",
+        "pinned_tweet_id": "2089663831278797095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831435613937102848/1787048170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 64,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "5koPainful",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

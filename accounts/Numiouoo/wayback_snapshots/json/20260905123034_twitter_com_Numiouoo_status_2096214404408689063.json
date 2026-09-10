@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2096214404408689063",
+    "created_at": "2026-09-05T12:30:34.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096214404408689063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096214404408689063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我从小就非常厌恶太轻浮的感情跟选择，还没脱传统性缘的时候，有人追求我，给我发自己的照片跟身材问我能不能接受\n我说 “不要给我发，我完全不在乎”\n\n我既不喜欢别人因为外在挑选我，也不会因为别人的外在挑选别人，我不能接受路上任何跟我搭讪的人，因为我不理解为什么人会莫名其妙走在路上对另一个人产生好感，我完全不在意别人的外貌。或者说，我厌恶以貌取人。我不是没有审美，我是厌恶以貌取人，如果我喜爱或欣赏你，你大可以是卡西莫多\n\n无关紧要的关系里，我完全不介意优先摆出自己高高在上的蔑视，重要的关系里，我不仅拒绝对方的展露，也不想马上展露自己，基于外貌和物质的一切都轻浮乏味而令人作呕，我有更加珍贵的灵魂，别去看我拥有的最廉价的东西"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从小就非常厌恶太轻浮的感情跟选择，还没脱传统性缘的时候，有人追求我，给我发自己的照片跟身材问我能不能接受\n我说 “不要给我发，我完全不在乎”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2096214404408689063",
+        "created_at": "2026-09-05T12:30:34.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096214404408689063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096214404408689063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我从小就非常厌恶太轻浮的感情跟选择，还没脱传统性缘的时候，有人追求我，给我发自己的照片跟身材问我能不能接受\n我说 “不要给我发，我完全不在乎”\n\n我既不喜欢别人因为外在挑选我，也不会因为别人的外在挑选别人，我不能接受路上任何跟我搭讪的人，因为我不理解为什么人会莫名其妙走在路上对另一个人产生好感，我完全不在意别人的外貌。或者说，我厌恶以貌取人。我不是没有审美，我是厌恶以貌取人，如果我喜爱或欣赏你，你大可以是卡西莫多\n\n无关紧要的关系里，我完全不介意优先摆出自己高高在上的蔑视，重要的关系里，我不仅拒绝对方的展露，也不想马上展露自己，基于外貌和物质的一切都轻浮乏味而令人作呕，我有更加珍贵的灵魂，别去看我拥有的最廉价的东西"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就非常厌恶太轻浮的感情跟选择，还没脱传统性缘的时候，有人追求我，给我发自己的照片跟身材问我能不能接受\n我说 “不要给我发，我完全不在乎”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096214404408689063",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 968,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

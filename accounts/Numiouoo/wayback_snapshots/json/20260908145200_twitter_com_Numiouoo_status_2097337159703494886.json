@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2097293705816518978",
+    "created_at": "2026-09-08T14:52:00.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097337159703494886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097337159703494886",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097315350123778329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia 这下好了（）这下坏了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2097293705816518978",
+        "created_at": "2026-09-08T14:52:00.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097337159703494886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097337159703494886",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097315350123778329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 这下好了（）这下坏了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "2097293705816518978",
+        "created_at": "2026-09-08T13:25:20.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097315350123778329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097315350123778329",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097293705816518978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 可能预示有好事发生？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097337159703494886",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 972,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3470
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "但双角斧的具名者们守口如瓶的秘密是：刃并非只能匍匐于尘土。将其垂直转动，使其锋芒指向那不可言说的上方，让它锐利的尖端亲吻那十二道锁孔。唯有如此，那曾经撕裂我们的十二道耻辱的伤痕，方可依次洞开。",
+        "id": "1672822866986024961",
+        "is_identity_verified": false,
+        "location": "384,400km",
+        "most_recent_tweet_id": "2097327611525615653",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672822866986024961/1687668245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1271,
+          "like_count": 110547,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 11957
+        },
+        "url": "",
+        "username": "Lycaropia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

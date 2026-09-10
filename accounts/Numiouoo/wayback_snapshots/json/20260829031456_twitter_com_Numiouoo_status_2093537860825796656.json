@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2093331534711521459",
+    "created_at": "2026-08-29T03:14:56.000Z",
+    "display_text_range": [
+      16,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093537860825796656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798243606542876672",
+          "start": 0,
+          "username": "1937653714Wang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093537860825796656",
+    "in_reply_to_user_id": "1798243606542876672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093383377005195387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1937653714Wang 许多人仍然坚信酒精危害性极低ଘ(੭ˊᵕˋ)੭*完全不理睬酒精引起的社会危害跟个人危害呀嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2093331534711521459",
+        "created_at": "2026-08-29T03:14:56.000Z",
+        "display_text_range": [
+          16,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093537860825796656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798243606542876672",
+              "start": 0,
+              "username": "1937653714Wang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093537860825796656",
+        "in_reply_to_user_id": "1798243606542876672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093383377005195387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1937653714Wang 许多人仍然坚信酒精危害性极低ଘ(੭ˊᵕˋ)੭*完全不理睬酒精引起的社会危害跟个人危害呀嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798243606542876672",
+        "conversation_id": "2093331534711521459",
+        "created_at": "2026-08-28T17:01:04.000Z",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093383377005195387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093383377005195387",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093331534711521459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 真的是太诡异了，酒精的危害不低于一些毒品，社会稳定度也会下降，还有香烟也是，要禁毒能不能把这些搞了，总不能影响国家税收就不管了吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093537860825796656",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 966,
+          "like_count": 4363,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3311
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T06:41:20.000Z",
+        "description": "补药主动攻击我，不然亖给你看，当然我攻击你你来查成分说明你是傻逼，欢迎继续攻击我，爱交朋友，欢迎找我聊天",
+        "id": "1798243606542876672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093528444416184383",
+        "name": "Medic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798243606542876672/1787931940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093377790376816641/MatR8NMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "1937653714Wang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

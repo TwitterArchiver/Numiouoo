@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057737015958057252",
+    "created_at": "2026-09-08T12:55:36.000Z",
+    "display_text_range": [
+      20,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097307867422544016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864392315282051075",
+          "start": 0,
+          "username": "mudesinian"
+        },
+        {
+          "end": 19,
+          "id": "1961843634934071296",
+          "start": 12,
+          "username": "icovcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097307867422544016",
+    "in_reply_to_user_id": "1864392315282051075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095800185444258284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mudesinian @icovcr 啊啊啊啊啊啊啊啊宝宝我来了！！该死的twt吞消息要不是我翻置顶我都不知道QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-09-08T12:55:36.000Z",
+        "display_text_range": [
+          20,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097307867422544016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864392315282051075",
+              "start": 0,
+              "username": "mudesinian"
+            },
+            {
+              "end": 19,
+              "id": "1961843634934071296",
+              "start": 12,
+              "username": "icovcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097307867422544016",
+        "in_reply_to_user_id": "1864392315282051075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095800185444258284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mudesinian @icovcr 啊啊啊啊啊啊啊啊宝宝我来了！！该死的twt吞消息要不是我翻置顶我都不知道QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864392315282051075",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-09-04T09:04:36.000Z",
+        "display_text_range": [
+          10,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095800185444258284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 62,
+              "id": "1961843634934071296",
+              "start": 55,
+              "username": "icovcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095800185444258284",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057737015958057252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 糯米我来了😭😭😭我这个号之前被封了，以为这辈子都登不回来了😭😭😭我后面换了个外国号关注的你@icovcr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097307867422544016",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 972,
+          "like_count": 4671,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3463
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-04T19:32:30.000Z",
+        "description": "我愿意为你，放弃我的主体性",
+        "id": "1864392315282051075",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096992845966320124",
+        "name": "море",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864392315282051075/1733340893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095800669240541184/AUUKZom-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 127,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "mudesinian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-30T17:29:25.000Z",
+        "description": "我愿意为你，放弃我的主体性",
+        "id": "1961843634934071296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095792713094643942",
+        "name": "穆盼",
+        "pinned_tweet_id": "2089599836664565763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961843634934071296/1772647823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029258155876818944/CIjhQQtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 81,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "icovcr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

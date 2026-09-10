@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2090425717662298401",
+    "created_at": "2026-08-21T11:03:32.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090756686005047484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637557557739806720",
+          "start": 0,
+          "username": "Quetiapinesleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090756686005047484",
+    "in_reply_to_user_id": "1637557557739806720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090609247855775831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quetiapinesleep (&gt; &lt;)本黄虫每天都在开发新玩法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2090425717662298401",
+        "created_at": "2026-08-21T11:03:32.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090756686005047484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637557557739806720",
+              "start": 0,
+              "username": "Quetiapinesleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090756686005047484",
+        "in_reply_to_user_id": "1637557557739806720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090609247855775831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quetiapinesleep (&gt; &lt;)本黄虫每天都在开发新玩法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637557557739806720",
+        "conversation_id": "2090425717662298401",
+        "created_at": "2026-08-21T01:17:40.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090609247855775831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090609247855775831",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090425717662298401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 🥥+k？？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090756686005047484",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 965,
+          "like_count": 4207,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-19T20:52:18.000Z",
+        "description": "我是Rusty 锈锈之前大号被封@Wholock1011 对象@Naom1Cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Wholock1011"
+              },
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Naom1Cat"
+              }
+            ]
+          }
+        },
+        "id": "1637557557739806720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090684405979267176",
+        "name": "Quetiapine 锈锈",
+        "pinned_tweet_id": "2038846281875935409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637557557739806720/1761329568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981788110695403520/dE1T2det_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 135,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "Quetiapinesleep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

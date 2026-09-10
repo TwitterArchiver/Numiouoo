@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2097173231803486580",
+    "created_at": "2026-09-08T11:05:33.000Z",
+    "display_text_range": [
+      28,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097280173377007732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809841369541931010",
+          "start": 0,
+          "username": "kazuko_423"
+        },
+        {
+          "end": 27,
+          "id": "1597105235516076033",
+          "start": 12,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097280173377007732",
+    "in_reply_to_user_id": "1809841369541931010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097181464752259228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazuko_423 @TamikoTomorika 我不会哒！你也是哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2097173231803486580",
+        "created_at": "2026-09-08T11:05:33.000Z",
+        "display_text_range": [
+          28,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097280173377007732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809841369541931010",
+              "start": 0,
+              "username": "kazuko_423"
+            },
+            {
+              "end": 27,
+              "id": "1597105235516076033",
+              "start": 12,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097280173377007732",
+        "in_reply_to_user_id": "1809841369541931010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097181464752259228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazuko_423 @TamikoTomorika 我不会哒！你也是哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809841369541931010",
+        "conversation_id": "2097173231803486580",
+        "created_at": "2026-09-08T04:33:19.000Z",
+        "display_text_range": [
+          26,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097181464752259228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1597105235516076033",
+              "start": 10,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097181464752259228",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097178157619265608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @TamikoTomorika 糯米老师不可以死哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097280173377007732",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 970,
+          "like_count": 4670,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3452
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T06:46:29.000Z",
+        "description": "",
+        "id": "1809841369541931010",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097181464752259228",
+        "name": "津岛和子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058600070056984576/PFrEUpH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "kazuko_423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名章魚. 16齡 ♡🍊@toukorina \n欠打親妹🐙@glutinouscloud \nAutigender / DiagnosedAutisticDHDyslexia / intersex. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "toukorina"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "glutinouscloud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "is_identity_verified": false,
+        "location": "静岡県浜松市立広沢小学校",
+        "most_recent_tweet_id": "2097269856186057146",
+        "name": "たみこ🍊🐙🍄🍼躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597105235516076033/1777581111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095029236662980609/t6MwGo1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 4320,
+          "like_count": 30540,
+          "listed_count": 0,
+          "media_count": 1673,
+          "tweet_count": 11671
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

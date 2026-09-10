@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2086840213549326461",
+    "created_at": "2026-08-10T16:22:13.000Z",
+    "display_text_range": [
+      17,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086850617927180502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1158756732664872962",
+          "start": 0,
+          "username": "linying36052780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086850617927180502",
+    "in_reply_to_user_id": "1158756732664872962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086850313504583837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linying36052780 你申诉成功了吗 我感觉老马不读bio申诉 气死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2086840213549326461",
+        "created_at": "2026-08-10T16:22:13.000Z",
+        "display_text_range": [
+          17,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086850617927180502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1158756732664872962",
+              "start": 0,
+              "username": "linying36052780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086850617927180502",
+        "in_reply_to_user_id": "1158756732664872962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086850313504583837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linying36052780 你申诉成功了吗 我感觉老马不读bio申诉 气死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158756732664872962",
+        "conversation_id": "2086840213549326461",
+        "created_at": "2026-08-10T16:21:01.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086850313504583837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086850313504583837",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086840213549326461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我之前bio也炸過"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086850617927180502",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 966,
+          "like_count": 3932,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2999
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-06T15:08:28.000Z",
+        "description": "msk你無敵了，不發血圖也封我號",
+        "id": "1158756732664872962",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086850505289109972",
+        "name": "遺灰6.0",
+        "pinned_tweet_id": "2084555947012469196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158756732664872962/1785135023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081632135363125248/KPI4bG_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 152,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "linying36052780",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

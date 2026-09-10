@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2088962821417828460",
+    "created_at": "2026-08-19T06:15:58.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089959537952604378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971649593147379712",
+          "start": 0,
+          "username": "Echo_Sking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089959537952604378",
+    "in_reply_to_user_id": "1971649593147379712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089484154669085077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echo_Sking 啊啊啊啊啊好的坐等末日（不兑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2088962821417828460",
+        "created_at": "2026-08-19T06:15:58.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089959537952604378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971649593147379712",
+              "start": 0,
+              "username": "Echo_Sking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089959537952604378",
+        "in_reply_to_user_id": "1971649593147379712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089484154669085077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echo_Sking 啊啊啊啊啊好的坐等末日（不兑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971649593147379712",
+        "conversation_id": "2088962821417828460",
+        "created_at": "2026-08-17T22:46:57.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089484154669085077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089484154669085077",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088962821417828460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 末日了你肯定能存活下来爽吃存货（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089959537952604378",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 970,
+          "like_count": 4109,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3098
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:54:59.000Z",
+        "description": "🩷💜💙\n互fo寻回中… msk还我大号命来\n一个呆傻的高中生 希望我的碎碎念可以给你提供情绪价值💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 0,
+                "url": "https://t.co/6asJgqFqBL"
+              }
+            ]
+          }
+        },
+        "id": "1971649593147379712",
+        "is_identity_verified": false,
+        "location": "29🥕千G主播自用vpn➡️",
+        "most_recent_tweet_id": "2089827947977023802",
+        "name": "银（2.0",
+        "pinned_tweet_id": "2088409290533192127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971649593147379712/1786697282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088185820692013056/sr9NoVoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 59,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/6asJgqFqBL",
+        "username": "Echo_Sking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2093331534711521459",
+    "created_at": "2026-08-29T01:23:41.000Z",
+    "display_text_range": [
+      16,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T02:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093509862043103452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612008568571498496",
+          "start": 0,
+          "username": "chnmngshnjing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093509862043103452",
+    "in_reply_to_user_id": "1612008568571498496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093440349440233505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnmngshnjing1 能说点大家不知道的吗🫪另外大麻对社会恶性影响哪里不如酒精了，大量暴力犯罪与饮酒有关，无论是个人资源还是公共资源都被酒精大量占有。你们也是经典打法，彼此彼此，每次提到大麻又开始用🧊来曲线插入了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2093331534711521459",
+        "created_at": "2026-08-29T01:23:41.000Z",
+        "display_text_range": [
+          16,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093509862043103452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612008568571498496",
+              "start": 0,
+              "username": "chnmngshnjing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093509862043103452",
+        "in_reply_to_user_id": "1612008568571498496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093440349440233505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnmngshnjing1 能说点大家不知道的吗🫪另外大麻对社会恶性影响哪里不如酒精了，大量暴力犯罪与饮酒有关，无论是个人资源还是公共资源都被酒精大量占有。你们也是经典打法，彼此彼此，每次提到大麻又开始用🧊来曲线插入了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612008568571498496",
+        "conversation_id": "2093331534711521459",
+        "created_at": "2026-08-28T20:47:28.000Z",
+        "display_text_range": [
+          10,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093440349440233505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093440349440233505",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093331534711521459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 你们这帮瘾君子把烟酒当经念了这么多年，也不能理解老钟对精活物质的管控完全是基于社会影响而不是什么狗屁定义吗？\n说白了把这种东西控制在烟酒就是为了方便管理收税以及控制社会影响,美国佬为了让冰合法天天给苯丙胺上接各种基都他妈能调鸡尾酒了，你们还在用念叨烟酒试图转进大麻这种远古打法😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093509862043103452",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 967,
+          "like_count": 4361,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 3296
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-08T08:49:32.000Z",
+        "description": "何年何夕 共沐春秋，\n银汉邈邈 炊烟悠悠，\n敢请东风 小住暂留，\n托书天地 安否安否，\n尘心如练 长悬银钩，\n鱼雁不闻 斯人难候，\n九霄一曲 人间白首，\n隔世相问 忆否忆否。",
+        "id": "1612008568571498496",
+        "is_identity_verified": false,
+        "location": "卡累利阿",
+        "most_recent_tweet_id": "2093446160644223417",
+        "name": "尘茳✞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612008568571498496/1705957529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046496616425857024/4qZpPs6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 192,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "chnmngshnjing1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

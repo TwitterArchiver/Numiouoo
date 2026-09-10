@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2090980402852946168",
+    "created_at": "2026-08-22T01:53:09.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090980561590620421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanwei_17/stat…",
+          "end": 35,
+          "expanded_url": "https://x.com/fanwei_17/status/2090915190040920240?s=46",
+          "start": 12,
+          "url": "https://t.co/pvK5ySEykB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090980561590620421",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090915190040920240",
+        "type": "quoted"
+      },
+      {
+        "id": "2090980402852946168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "节目灵感（素材）来自于：https://t.co/pvK5ySEykB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2090915183749431296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRsSA7bAAASMMH.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2090980402852946168",
+        "created_at": "2026-08-22T01:53:09.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090980561590620421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanwei_17/stat…",
+              "end": 35,
+              "expanded_url": "https://x.com/fanwei_17/status/2090915190040920240?s=46",
+              "start": 12,
+              "url": "https://t.co/pvK5ySEykB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090980561590620421",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090915190040920240",
+            "type": "quoted"
+          },
+          {
+            "id": "2090980402852946168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "节目灵感（素材）来自于：https://t.co/pvK5ySEykB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2090980402852946168",
+        "created_at": "2026-08-22T01:52:31.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090980402852946168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090980402852946168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毒虫对比节目第二集：\n\n糯米：药快没了，留最后一点收藏吧ᜊ⸝⸝᳐·⸝⸝᳐ᜊ​\n十七：好像快没了？最后一次全吸了\n\n糯米：药新到了好开心，计划经济走起ᜊ⸝⸝᳐·⸝⸝᳐ᜊ​\n十七：那么多药？先大吸一把"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090915183749431296"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2090915190040920240",
+        "created_at": "2026-08-21T21:33:23.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090915190040920240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YLLhmhZgt",
+              "end": 51,
+              "expanded_url": "https://x.com/fanwei_17/status/2090915190040920240/photo/1",
+              "media_key": "3_2090915183749431296",
+              "start": 28,
+              "url": "https://t.co/6YLLhmhZgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090915190040920240",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090915183749431296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 654,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劝自己吸毒时逻辑能力堪比福尔摩斯，这是我毒商最低的一集 https://t.co/6YLLhmhZgt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090980561590620421",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 969,
+          "like_count": 4228,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3191
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "is_identity_verified": false,
+        "location": "Thrillingly pointless",
+        "most_recent_tweet_id": "2090947109243768900",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638959586140098560/1777837107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 1509,
+          "like_count": 6079,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

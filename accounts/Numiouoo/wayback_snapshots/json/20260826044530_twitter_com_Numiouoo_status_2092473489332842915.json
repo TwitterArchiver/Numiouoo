@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2091863626324000877",
+    "created_at": "2026-08-26T04:45:30.000Z",
+    "display_text_range": [
+      39,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092473489332842915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090863660575199232",
+          "start": 0,
+          "username": "Airkawaii233"
+        },
+        {
+          "end": 27,
+          "id": "1899289095794479104",
+          "start": 14,
+          "username": "zs1341110279"
+        },
+        {
+          "end": 38,
+          "id": "1782443083080048640",
+          "start": 28,
+          "username": "feng_2955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092473489332842915",
+    "in_reply_to_user_id": "2090863660575199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091863626324000877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Airkawaii233 @zs1341110279 @feng_2955 小翼你怎么又炸了QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091863603620229120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfK3URaMAAj_bn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2091863603658031105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfK3UabAAEvz8J.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2091863603620274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfK3URa4AAuzQu.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2091863626324000877",
+        "created_at": "2026-08-26T04:45:30.000Z",
+        "display_text_range": [
+          39,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092473489332842915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090863660575199232",
+              "start": 0,
+              "username": "Airkawaii233"
+            },
+            {
+              "end": 27,
+              "id": "1899289095794479104",
+              "start": 14,
+              "username": "zs1341110279"
+            },
+            {
+              "end": 38,
+              "id": "1782443083080048640",
+              "start": 28,
+              "username": "feng_2955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092473489332842915",
+        "in_reply_to_user_id": "2090863660575199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091863626324000877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Airkawaii233 @zs1341110279 @feng_2955 小翼你怎么又炸了QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091863603620229120",
+            "3_2091863603658031105",
+            "3_2091863603620274176"
+          ]
+        },
+        "author_id": "2090863660575199232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091863626324000877",
+        "created_at": "2026-08-24T12:22:08.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091863626324000877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1899289095794479104",
+              "start": 5,
+              "username": "zs1341110279"
+            },
+            {
+              "end": 29,
+              "id": "1782443083080048640",
+              "start": 19,
+              "username": "feng_2955"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBxTno1Fio",
+              "end": 84,
+              "expanded_url": "https://x.com/Airkawaii233/status/2091863626324000877/photo/1",
+              "media_key": "3_2091863603620229120",
+              "start": 61,
+              "url": "https://t.co/FBxTno1Fio"
+            },
+            {
+              "display_url": "pic.x.com/FBxTno1Fio",
+              "end": 84,
+              "expanded_url": "https://x.com/Airkawaii233/status/2091863626324000877/photo/1",
+              "media_key": "3_2091863603658031105",
+              "start": 61,
+              "url": "https://t.co/FBxTno1Fio"
+            },
+            {
+              "display_url": "pic.x.com/FBxTno1Fio",
+              "end": 84,
+              "expanded_url": "https://x.com/Airkawaii233/status/2091863626324000877/photo/1",
+              "media_key": "3_2091863603620274176",
+              "start": 61,
+              "url": "https://t.co/FBxTno1Fio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091863626324000877",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091863603620229120"
+          },
+          {
+            "media_key": "3_2091863603658031105"
+          },
+          {
+            "media_key": "3_2091863603620274176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面基了喵\n@zs1341110279 @feng_2955 \n还有我是小翼我的号又炸了！\n小枫芝士真的超级超级超级可爱🥹 https://t.co/FBxTno1Fio"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092473489332842915",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 970,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3247
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T18:10:14.000Z",
+        "description": "小翼3.0重生版…\n前世@Air_yukiha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Air_yukiha"
+              }
+            ]
+          }
+        },
+        "id": "2090863660575199232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091863626324000877",
+        "name": "翼（3.0重生版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090863660575199232/1787335926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090864440103358464/ucLzMn0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 22,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Airkawaii233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn 2010/5/21 性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥 最爱的老婆：@feng_2955",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "feng_2955"
+              }
+            ]
+          }
+        },
+        "id": "1899289095794479104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092350123359748547",
+        "name": "ZS🧀cheese🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085743889269625111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899289095794479104/1741660974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 180,
+          "like_count": 176,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1296
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T16:15:37.000Z",
+        "description": "175的大猫咪/是mtf喵 生产日期 10.12.28/双向and重度抑郁/hrt日期 25.11.29/半残小证  杂鱼老婆～:  @zs1341110279  无🚪欢迎友跨and同类贴贴～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zs1341110279"
+              }
+            ]
+          }
+        },
+        "id": "1782443083080048640",
+        "is_identity_verified": false,
+        "location": "上海市",
+        "most_recent_tweet_id": "2092229666241388780",
+        "name": "枫 🍥🏳️‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782443083080048640/1766234956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823240984073007104/NRBBDLwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 83,
+          "like_count": 411,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "feng_2955",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
