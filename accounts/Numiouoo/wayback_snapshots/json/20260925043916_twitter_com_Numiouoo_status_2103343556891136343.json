@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2101004974713082270",
+    "created_at": "2026-09-25T04:39:16.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103343556891136343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776553425934909440",
+          "start": 0,
+          "username": "hshshshshs88082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103343556891136343",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101373094673998325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hshshshshs88082 呜呜呜૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2101004974713082270",
+        "created_at": "2026-09-25T04:39:16.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103343556891136343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103343556891136343",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101373094673998325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 呜呜呜૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2101004974713082270",
+        "created_at": "2026-09-19T18:09:22.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101373094673998325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101373094673998325",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101004974713082270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 好幸福啊呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103343556891136343",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 972,
+          "like_count": 4954,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103115018778939677",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 120,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

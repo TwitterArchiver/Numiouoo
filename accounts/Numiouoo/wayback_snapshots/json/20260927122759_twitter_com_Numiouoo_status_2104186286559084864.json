@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2103868054035972592",
+    "created_at": "2026-09-27T12:27:59.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104186286559084864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "578028638",
+          "start": 0,
+          "username": "Xkoushuukin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104186286559084864",
+    "in_reply_to_user_id": "578028638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103868054035972592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xkoushuukin 完全不矛盾吧 我和我身边的好友很多都是剧烈性瘾+极品纯爱 任何性别都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2103868054035972592",
+        "created_at": "2026-09-27T12:27:59.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104186286559084864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "578028638",
+              "start": 0,
+              "username": "Xkoushuukin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104186286559084864",
+        "in_reply_to_user_id": "578028638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103868054035972592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xkoushuukin 完全不矛盾吧 我和我身边的好友很多都是剧烈性瘾+极品纯爱 任何性别都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "578028638",
+        "conversation_id": "2103868054035972592",
+        "created_at": "2026-09-26T15:23:26.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103868054035972592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103868054035972592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 57549,
+          "like_count": 1193,
+          "quote_count": 10,
+          "reply_count": 146,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪啊 \n我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系\n性瘾和纯爱能同时存在吗？好矛盾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104186286559084864",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 963,
+          "like_count": 4990,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3648
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-12T12:52:57.000Z",
+        "description": "",
+        "id": "578028638",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2103868054035972592",
+        "name": "人类观察者X",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2214309412/psb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 46,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Xkoushuukin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

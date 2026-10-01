@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2102407554517356593",
+    "created_at": "2026-09-23T15:23:23.000Z",
+    "display_text_range": [
+      22,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102780878833492276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257977880841080832",
+          "start": 0,
+          "username": "NEKONO14"
+        },
+        {
+          "end": 21,
+          "id": "1750684739441446912",
+          "start": 10,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102780878833492276",
+    "in_reply_to_user_id": "1257977880841080832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102763243739738260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKONO14 @wngy189327 我来惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2102407554517356593",
+        "created_at": "2026-09-23T15:23:23.000Z",
+        "display_text_range": [
+          22,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102780878833492276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257977880841080832",
+              "start": 0,
+              "username": "NEKONO14"
+            },
+            {
+              "end": 21,
+              "id": "1750684739441446912",
+              "start": 10,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102780878833492276",
+        "in_reply_to_user_id": "1257977880841080832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102763243739738260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKONO14 @wngy189327 我来惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257977880841080832",
+        "conversation_id": "2102407554517356593",
+        "created_at": "2026-09-23T14:13:19.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102763243739738260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 21,
+              "id": "1750684739441446912",
+              "start": 10,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102763243739738260",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102561664885465555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @wngy189327 糯米宝宝，回关~我素千早"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102780878833492276",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 973,
+          "like_count": 4919,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3601
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "你好，又见面了我是妃宫千早/O割餐券/重焦重抑/ADHD/C-PTSD/自杀干预/同类无限友好/性别是姐姐大人/姐姐会永远爱你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2102778474595516448",
+        "name": "御门千早",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790084774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102390600683425792/OaVHbXBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 40,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102407554517356593",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2088942000418767012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750684739441446912/1758586593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 868,
+          "like_count": 11024,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 1982
+        },
+        "url": "",
+        "username": "wngy189327",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

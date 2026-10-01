@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2099784517741658188",
+    "created_at": "2026-09-15T17:09:34.000Z",
+    "display_text_range": [
+      27,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T18:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099908495835595263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        },
+        {
+          "end": 26,
+          "id": "94999172",
+          "start": 16,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099908495835595263",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099898895681925388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika @toukorina 好耶！收到！啃啃啃🐙🫓 我也是受不了高领TuT甚至普通领口也不接受 一年四季超大u领那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2099784517741658188",
+        "created_at": "2026-09-15T17:09:34.000Z",
+        "display_text_range": [
+          27,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099908495835595263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            },
+            {
+              "end": 26,
+              "id": "94999172",
+              "start": 16,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099908495835595263",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099898895681925388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika @toukorina 好耶！收到！啃啃啃🐙🫓 我也是受不了高领TuT甚至普通领口也不接受 一年四季超大u领那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597105235516076033",
+        "conversation_id": "2099784517741658188",
+        "created_at": "2026-09-15T16:31:25.000Z",
+        "display_text_range": [
+          21,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099898895681925388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "94999172",
+              "start": 10,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099898895681925388",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099892151735984266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @toukorina 螺内酯就嗯 排水 但是一定控制不要电解质失衡了 一天螺内酯按民生牌的应该是一片1mg那种一天早晚一颗就可以了 先这么吃着试试\n//另高领毛衣穿上去我就会嗯抓狂 包括任何领子高的 衣服 所以我喜欢秋冬制服毛衣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099908495835595263",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 973,
+          "like_count": 4874,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3546
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名章魚. 16齡 ♡🍊@toukorina \n欠打親妹🐙@glutinouscloud \nAutigender / DiagnosedAutisticDHDyslexia / intersex. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "toukorina"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "glutinouscloud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "is_identity_verified": false,
+        "location": "静岡県浜松市立広沢小学校",
+        "most_recent_tweet_id": "2099899719170568336",
+        "name": "たみこ🍊🐙🍄🍼躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597105235516076033/1777581111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095029236662980609/t6MwGo1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 4374,
+          "like_count": 31016,
+          "listed_count": 0,
+          "media_count": 1685,
+          "tweet_count": 11788
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2099897176839340183",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 951,
+          "like_count": 178062,
+          "listed_count": 18,
+          "media_count": 1539,
+          "tweet_count": 45199
+        },
+        "url": "",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

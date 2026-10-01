@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2104088906388107717",
+    "created_at": "2026-09-27T12:24:33.000Z",
+    "display_text_range": [
+      14,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104185422717014099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465583991306604546",
+          "start": 0,
+          "username": "shanshiyicun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104185422717014099",
+    "in_reply_to_user_id": "1465583991306604546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104088906388107717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshiyicun 对对对 骂人可以这么骂 片里看见这几个字我立马阳痿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2104088906388107717",
+        "created_at": "2026-09-27T12:24:33.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104185422717014099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465583991306604546",
+              "start": 0,
+              "username": "shanshiyicun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104185422717014099",
+        "in_reply_to_user_id": "1465583991306604546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104088906388107717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshiyicun 对对对 骂人可以这么骂 片里看见这几个字我立马阳痿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465583991306604546",
+        "conversation_id": "2104088906388107717",
+        "created_at": "2026-09-27T06:01:02.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104088906388107717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104088906388107717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 33146,
+          "like_count": 427,
+          "quote_count": 4,
+          "reply_count": 68,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "会让我下头的话很多，但有一条定律就是对方说的话无论是什么，都不能带骚，母，狗，逼，贱，这五个字，谈恋爱的时候也不能听到，做爱的时候更不能听到，只要话里带了这些词我就会觉得对方是个大傻逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104185422717014099",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 963,
+          "like_count": 4989,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3647
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T07:30:46.000Z",
+        "description": "只玩永劫，瓦，ow，一个只会打游戏的唐氏小女孩，找我聊骚的去死",
+        "id": "1465583991306604546",
+        "is_identity_verified": false,
+        "location": "在你爹祖坟上😄",
+        "most_recent_tweet_id": "2104173878897774967",
+        "name": "山十一村",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583991306604546/1638258001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903641159890567169/6brmmDZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 122,
+          "like_count": 300,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "shanshiyicun",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

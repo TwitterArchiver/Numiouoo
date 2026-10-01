@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2103683712982663561",
+    "created_at": "2026-09-26T11:25:17.000Z",
+    "display_text_range": [
+      11,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103808121441497490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103808121441497490",
+    "in_reply_to_user_id": "94999172",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103683712982663561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina yeah it's pretty interesting, though i'm not even sure why. but it's just for fun and comfortable enough.maybe you're right, it's about association"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2103683712982663561",
+        "created_at": "2026-09-26T11:25:17.000Z",
+        "display_text_range": [
+          11,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103808121441497490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103808121441497490",
+        "in_reply_to_user_id": "94999172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103683712982663561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina yeah it's pretty interesting, though i'm not even sure why. but it's just for fun and comfortable enough.maybe you're right, it's about association"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2103683712982663561",
+        "created_at": "2026-09-26T03:10:56.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103683712982663561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/numiouoo/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/numiouoo/status/2103672476479959328",
+              "start": 112,
+              "url": "https://t.co/30DKWMVLEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103683712982663561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 582,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103672476479959328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很奇怪的大部分人比较爆炸的时候会比较失能只能讲母语 但特定情况下会只能讲外语比如说我很爆炸的时候有时候也反而说英文 一种说法是外语相对来说和内心非常核心的情绪有一些距离不容易在情绪不好的时候二次受伤 某种意味上也算一种解离 https://t.co/30DKWMVLEx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103808121441497490",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 968,
+          "like_count": 4976,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender/最好取消性别. 退学phd gamedev. 🐙@TamikoTomorika. 你太NT了我给你送精神病院关∞个月. 随机社交. #ハッピーシュガーライフ ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2103801857625948503",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7442,
+          "following_count": 963,
+          "like_count": 179256,
+          "listed_count": 18,
+          "media_count": 1566,
+          "tweet_count": 45603
+        },
+        "url": "",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

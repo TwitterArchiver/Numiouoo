@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2099889820407623690",
+    "created_at": "2026-09-15T15:58:26.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099890595414327748"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099890595414327748",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "图发不出去 文字也发不出去 本来我就不喜欢跟别人小窗倒这些 我不喜欢给人传播负能 因为我自己就很容易overload 别人的痛苦倒给我我也会反应很大我的精神就是很脆弱 所以我一般只喜欢在公众平台发布 意思是爱看不看 不用特意回复我 不需要被迫承接我的痛苦和烦恼 然后现在全球的社交平台意思是不给我们这种不喜欢私信对人倒垃圾的人活路了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099889820407623690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "图发不出去 文字也发不出去 本来我就不喜欢跟别人小窗倒这些 我不喜欢给人传播负能 因为我自己就很容易overload 别人的痛苦倒给我我也会反应很大我的精神就是很脆弱 所以我一般只喜欢在公众平台发布 意思是爱看不看 不用特意回复我 不需要被迫承接我的痛苦和烦恼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2099889820407623690",
+        "created_at": "2026-09-15T15:58:26.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099890595414327748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099890595414327748",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "图发不出去 文字也发不出去 本来我就不喜欢跟别人小窗倒这些 我不喜欢给人传播负能 因为我自己就很容易overload 别人的痛苦倒给我我也会反应很大我的精神就是很脆弱 所以我一般只喜欢在公众平台发布 意思是爱看不看 不用特意回复我 不需要被迫承接我的痛苦和烦恼 然后现在全球的社交平台意思是不给我们这种不喜欢私信对人倒垃圾的人活路了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099889820407623690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "图发不出去 文字也发不出去 本来我就不喜欢跟别人小窗倒这些 我不喜欢给人传播负能 因为我自己就很容易overload 别人的痛苦倒给我我也会反应很大我的精神就是很脆弱 所以我一般只喜欢在公众平台发布 意思是爱看不看 不用特意回复我 不需要被迫承接我的痛苦和烦恼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2099889820407623690",
+        "created_at": "2026-09-15T15:55:21.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099889820407623690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099889820407623690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有动态 哪里都发不出去 QQ空间发不出去 twt发了被封号 朋友圈全是健全人不能发 哪里都发不出去 只是感觉活着很艰难而已 但是连这种东西都发不出去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099890595414327748",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 973,
+          "like_count": 4872,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3542
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

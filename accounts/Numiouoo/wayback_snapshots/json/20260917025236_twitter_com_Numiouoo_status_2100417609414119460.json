@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2100188871988486147",
+    "created_at": "2026-09-17T02:52:36.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100417609414119460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088823399493906433",
+          "start": 0,
+          "username": "QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100417609414119460",
+    "in_reply_to_user_id": "2088823399493906433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100188871988486147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_8964_ 萌死啦⌯oᴗo⌯！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6536,
+        "height": 1280,
+        "media_key": "13_2100188789444665344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100188789444665344/img/mekl3D8DeU8pvJlk.jpg",
+        "public_metrics": {
+          "view_count": 1325
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789444665344/vid/avc1/320x568/Px6ODIbjAdwDpWdn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789444665344/vid/avc1/480x852/oGTgIRkumFBHuN8L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789444665344/vid/avc1/720x1280/jHV3i5D6OUkkw2yQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100188789444665344/pl/5y08P6_lPqWoaZup.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6536,
+        "height": 1280,
+        "media_key": "13_2100188789411110912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100188789411110912/img/oauz8lh5m2DiR4MJ.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789411110912/vid/avc1/320x568/cip1-eI_5HAd7p0s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789411110912/vid/avc1/480x852/H8iD2Jh91ZAHLi1K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100188789411110912/vid/avc1/720x1280/cAZb2ziMyo88gOGe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100188789411110912/pl/q40HjY_vZGcdJKQ4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2100188871988486147",
+        "created_at": "2026-09-17T02:52:36.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100417609414119460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088823399493906433",
+              "start": 0,
+              "username": "QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100417609414119460",
+        "in_reply_to_user_id": "2088823399493906433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100188871988486147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964_ 萌死啦⌯oᴗo⌯！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100188789444665344",
+            "13_2100188789411110912"
+          ]
+        },
+        "author_id": "2088823399493906433",
+        "conversation_id": "2100188871988486147",
+        "created_at": "2026-09-16T11:43:41.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100188871988486147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjnfzAgyOs",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2100188871988486147/video/1",
+              "media_key": "13_2100188789444665344",
+              "start": 28,
+              "url": "https://t.co/zjnfzAgyOs"
+            },
+            {
+              "display_url": "pic.x.com/zjnfzAgyOs",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2100188871988486147/video/1",
+              "media_key": "13_2100188789411110912",
+              "start": 28,
+              "url": "https://t.co/zjnfzAgyOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100188871988486147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100188789444665344"
+          },
+          {
+            "media_key": "13_2100188789411110912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3400,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "這可是番茄自己剪的頭髮哦！想聽見你們的誇誇！！！🥺💖💖 https://t.co/zjnfzAgyOs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100417609414119460",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 974,
+          "like_count": 4864,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3578
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MlUz"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "most_recent_tweet_id": "2100334776360345917",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2091134671627391117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088823399493906433/1789439828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 7,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/mDDFP5MlUz",
+        "username": "QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

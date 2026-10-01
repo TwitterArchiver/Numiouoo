@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2104129780463636739",
+    "created_at": "2026-09-28T07:53:47.000Z",
+    "display_text_range": [
+      9,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104479670263783727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1425332323944439810",
+          "start": 0,
+          "username": "iiz6889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104479670263783727",
+    "in_reply_to_user_id": "1425332323944439810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104129780463636739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiz6889 真正能擅长一个人自己解决的不会有性压抑 性压抑的本质就是处理不好爱压抑 以及这些人自己只能解决生理需求而没办法在精神上自洽 性压抑的本质是无法处理好与自己的关系 just what i think来自一个从小学开始手冲但从未性压抑也不屑于骚扰别人的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2104129780463636739",
+        "created_at": "2026-09-28T07:53:47.000Z",
+        "display_text_range": [
+          9,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104479670263783727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1425332323944439810",
+              "start": 0,
+              "username": "iiz6889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104479670263783727",
+        "in_reply_to_user_id": "1425332323944439810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104129780463636739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiz6889 真正能擅长一个人自己解决的不会有性压抑 性压抑的本质就是处理不好爱压抑 以及这些人自己只能解决生理需求而没办法在精神上自洽 性压抑的本质是无法处理好与自己的关系 just what i think来自一个从小学开始手冲但从未性压抑也不屑于骚扰别人的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425332323944439810",
+        "conversation_id": "2104129780463636739",
+        "created_at": "2026-09-27T08:43:27.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104129780463636739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104129780463636739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 143227,
+          "like_count": 1896,
+          "quote_count": 5,
+          "reply_count": 389,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "性压抑不就该自己一个人悄悄看片自己解决啥的吗为啥这么多人到处骚扰别人发情的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104479670263783727",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 966,
+          "like_count": 4999,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-11T05:44:55.000Z",
+        "description": "我是宠粉小博主",
+        "id": "1425332323944439810",
+        "is_identity_verified": false,
+        "location": "3.9km",
+        "most_recent_tweet_id": "2104129780463636739",
+        "name": "张张",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103726627373174785/lY3C8tqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "iiz6889",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

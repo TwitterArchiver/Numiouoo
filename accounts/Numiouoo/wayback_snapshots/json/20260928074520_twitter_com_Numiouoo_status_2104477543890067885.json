@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2103868054035972592",
+    "created_at": "2026-09-28T07:45:20.000Z",
+    "display_text_range": [
+      24,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104477543890067885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        },
+        {
+          "end": 23,
+          "id": "578028638",
+          "start": 11,
+          "username": "Xkoushuukin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104477543890067885",
+    "in_reply_to_user_id": "94999172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104467111309607036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina @Xkoushuukin 对的 只是见人分不开性和爱罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2103868054035972592",
+        "created_at": "2026-09-28T07:45:20.000Z",
+        "display_text_range": [
+          24,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104477543890067885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            },
+            {
+              "end": 23,
+              "id": "578028638",
+              "start": 11,
+              "username": "Xkoushuukin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104477543890067885",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104467111309607036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina @Xkoushuukin 对的 只是见人分不开性和爱罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2103868054035972592",
+        "created_at": "2026-09-28T07:03:53.000Z",
+        "display_text_range": [
+          23,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104467111309607036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 22,
+              "id": "578028638",
+              "start": 10,
+              "username": "Xkoushuukin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104467111309607036",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104186286559084864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @Xkoushuukin 是可以 性瘾可以只针对自己 纯爱可以只针对别人 当然它还能反过来或者各种交织 只是健人就是分不开性和爱罢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104477543890067885",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 966,
+          "like_count": 4996,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender/最好取消性别. 退学phd gamedev. 🐙@TamikoTomorika. 你太NT了我给你送精神病院关∞个月. 随机社交. #ハッピーシュガーライフ ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2104467111309607036",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 961,
+          "like_count": 179334,
+          "listed_count": 18,
+          "media_count": 1567,
+          "tweet_count": 45619
+        },
+        "url": "",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-12T12:52:57.000Z",
+        "description": "",
+        "id": "578028638",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2104238944154173833",
+        "name": "人类观察者X",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2214309412/psb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 46,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Xkoushuukin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

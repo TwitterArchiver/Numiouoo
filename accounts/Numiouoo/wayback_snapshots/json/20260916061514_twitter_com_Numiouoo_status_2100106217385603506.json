@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2099784517741658188",
+    "created_at": "2026-09-16T06:15:14.000Z",
+    "display_text_range": [
+      10,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100106217385603506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082437931290267648",
+          "start": 0,
+          "username": "Kinzyful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100106217385603506",
+    "in_reply_to_user_id": "2082437931290267648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100072847616135210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinzyful 是的宝宝 我是ND 感官过载很严重一直困扰我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2099784517741658188",
+        "created_at": "2026-09-16T06:15:14.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100106217385603506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082437931290267648",
+              "start": 0,
+              "username": "Kinzyful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100106217385603506",
+        "in_reply_to_user_id": "2082437931290267648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100072847616135210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinzyful 是的宝宝 我是ND 感官过载很严重一直困扰我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082437931290267648",
+        "conversation_id": "2099784517741658188",
+        "created_at": "2026-09-16T04:02:38.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100072847616135210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100072847616135210",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099784517741658188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 宝宝你是不是有点神经多样性在？我 asd 感官过载体验也是从小就很严重"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵互动眼熟了会回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100106217385603506",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 974,
+          "like_count": 4874,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3556
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:09:04.000Z",
+        "description": "迷失了就再迷失一些",
+        "id": "2082437931290267648",
+        "is_identity_verified": false,
+        "location": "罩子外",
+        "most_recent_tweet_id": "2100082320548188564",
+        "name": "mistletoe",
+        "pinned_tweet_id": "2098683682475413619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082437931290267648/1788964787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097645023793926144/vA6HGbc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 90,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "Kinzyful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
