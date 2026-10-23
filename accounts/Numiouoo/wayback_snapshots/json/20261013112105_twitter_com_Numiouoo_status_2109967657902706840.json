@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2109420985577611281",
+    "created_at": "2026-10-13T11:21:05.000Z",
+    "display_text_range": [
+      33,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T12:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109967657902706840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        },
+        {
+          "end": 32,
+          "id": "1597105235516076033",
+          "start": 17,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109967657902706840",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109744762018275531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric @TamikoTomorika 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2109420985577611281",
+        "created_at": "2026-10-13T11:21:05.000Z",
+        "display_text_range": [
+          33,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T12:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109967657902706840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            },
+            {
+              "end": 32,
+              "id": "1597105235516076033",
+              "start": 17,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109967657902706840",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109744762018275531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric @TamikoTomorika 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2109420985577611281",
+        "created_at": "2026-10-12T20:35:23.000Z",
+        "display_text_range": [
+          26,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T21:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109744762018275531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1597105235516076033",
+              "start": 10,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109744762018275531",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109468332210675780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @TamikoTomorika 是的，大麻的气味很怡人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109967657902706840",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 961,
+          "like_count": 5193,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。我既不是天使也不是恶魔。我真的生活在另一个世界里 😊🌌🪼\n🪼⋆｡𖦹°🫧⋆.ೃ࿔🌿🌬💫\n令人费解的行为(⸝⸝๑﹏๑⸝⸝)\n喜欢像袋鼠一样在街上蹦蹦跳跳🦘\n我温柔又善良˚˖𓍢ִ໋❀\nAuDHD, autistic, ptsd, aroace, 持续的感官过载",
+        "id": "1980396569363935232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109745776465449013",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2108395226951729425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980396569363935232/1789874512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101508502459949056/188-rdGr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 124,
+          "like_count": 19793,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 5104
+        },
+        "url": "",
+        "username": "Disturbeuphoric",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名暴躁電鋸16齡章魚. ♡🍊@toukorina \nQtie一生推♡ゆんゆんゆんゆんゆんゆんゆんゆん\nNonBinaryAutigender+AutisticDHDyslexiaIntersex.\n沒腦子ㄉ滾開 隨機取關 po畫裏垢@ura_samuko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "toukorina"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "ura_samuko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL8X8i"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "is_identity_verified": false,
+        "location": "静岡県浜松市立広沢小学校",
+        "most_recent_tweet_id": "2109965272132280616",
+        "name": "たみこ🍊🐙🍼躁鬱幼幼章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597105235516076033/1790122859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102568889733545984/odhY-PtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 4554,
+          "like_count": 33157,
+          "listed_count": 0,
+          "media_count": 1718,
+          "tweet_count": 12329
+        },
+        "url": "https://t.co/uZF1kL8X8i",
+        "username": "TamikoTomorika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

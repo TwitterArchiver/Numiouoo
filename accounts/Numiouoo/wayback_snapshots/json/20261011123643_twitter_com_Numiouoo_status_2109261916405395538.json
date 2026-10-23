@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2099786908486471991",
+    "created_at": "2026-10-11T12:36:43.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T13:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109261916405395538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1171658344861511682",
+          "start": 0,
+          "username": "Qslhxw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109261916405395538",
+    "in_reply_to_user_id": "1171658344861511682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099801208278200720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qslhxw77 如果我也能有条件躺平我321就躺（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2099786908486471991",
+        "created_at": "2026-10-11T12:36:43.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109261916405395538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109261916405395538",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099801208278200720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 如果我也能有条件躺平我321就躺（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171658344861511682",
+        "conversation_id": "2099786908486471991",
+        "created_at": "2026-09-15T10:03:15.000Z",
+        "display_text_range": [
+          10,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099801208278200720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099801208278200720",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099786908486471991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我有个朋友和你很像她通过病态的工作强度达到自虐的目的（虽然她家里的条件完全可以让她无所事事的躺平一辈子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109261916405395538",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 960,
+          "like_count": 5136,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3769
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-782-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "is_identity_verified": false,
+        "location": "没有痛苦与遗憾之地",
+        "most_recent_tweet_id": "2108868974058610930",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171658344861511682/1765282476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088703494782148608/FRIlCCFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 349,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "Qslhxw77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

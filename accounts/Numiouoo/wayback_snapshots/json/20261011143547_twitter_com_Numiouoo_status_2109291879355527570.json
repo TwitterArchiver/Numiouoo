@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2109279789949522171",
+    "created_at": "2026-10-11T14:35:47.000Z",
+    "display_text_range": [
+      17,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109291879355527570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2103402426812489728",
+          "start": 0,
+          "username": "MutsumiDisappea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109291879355527570",
+    "in_reply_to_user_id": "2103402426812489728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109279789949522171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiDisappea 可能那些人是剧烈焦虑体质 无耐受情况下 吃一点点阿普我直接爽飞了 就是超级幸福温暖（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2109279789949522171",
+        "created_at": "2026-10-11T14:35:47.000Z",
+        "display_text_range": [
+          17,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109291879355527570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2103402426812489728",
+              "start": 0,
+              "username": "MutsumiDisappea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109291879355527570",
+        "in_reply_to_user_id": "2103402426812489728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109279789949522171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiDisappea 可能那些人是剧烈焦虑体质 无耐受情况下 吃一点点阿普我直接爽飞了 就是超级幸福温暖（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103402426812489728",
+        "conversation_id": "2109279789949522171",
+        "created_at": "2026-10-11T13:47:45.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109279789949522171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109279789949522171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会有人滥用阿普唑仑\n试了1.6mg的阿普唑仑，结果出了短暂又轻微的躯体欣快之外，其余没有任何的欣快感，而且会有动机抑制的副作用，导致行动困难，平静到只想去睡觉，4个小时过去了，现在好像也没什么感觉了喵www\n\n我再也不od苯二氮卓类药物了，准备以后纯当安眠药使了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109291879355527570",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 960,
+          "like_count": 5157,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3775
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T08:52:34.000Z",
+        "description": "小睦的5代目转生号~\n好久不见呀，米娜桑 ヾ(^▽^*)))\n这次又会活多久呢？以及我这个人还会活多久呢？？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/fpos7uKWBl"
+              }
+            ]
+          }
+        },
+        "id": "2103402426812489728",
+        "is_identity_verified": false,
+        "location": "Mercy所在之处",
+        "most_recent_tweet_id": "2109279789949522171",
+        "name": "MutsumiDisappeared",
+        "pinned_tweet_id": "2106446031999435087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103402426812489728/1790326892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108996349526257664/FVFHEZIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 157,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/fpos7uKWBl",
+        "username": "MutsumiDisappea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

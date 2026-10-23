@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2108589094825783317",
+    "created_at": "2026-10-11T12:32:20.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T13:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109260812753961189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994004560298561541",
+          "start": 0,
+          "username": "wnn1318500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109260812753961189",
+    "in_reply_to_user_id": "1994004560298561541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109170809042543006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnn1318500 对对对对经常把自己也雷霆到越电越上头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2108589094825783317",
+        "created_at": "2026-10-11T12:32:20.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109260812753961189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994004560298561541",
+              "start": 0,
+              "username": "wnn1318500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109260812753961189",
+        "in_reply_to_user_id": "1994004560298561541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109170809042543006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnn1318500 对对对对经常把自己也雷霆到越电越上头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994004560298561541",
+        "conversation_id": "2108589094825783317",
+        "created_at": "2026-10-11T06:34:42.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T07:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109170809042543006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109170809042543006",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108589094825783317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 好雷霆的语言能力🤓👆好想自己也拥有一套（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109260812753961189",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 960,
+          "like_count": 5135,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3757
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-27T11:25:26.000Z",
+        "description": "米娜，这里风灵系统｜多意识体｜自伤｜od｜吞药72泰诺加烷胺加pr加碳酸锂氟伏沙明自杀幸存玩家｜传奇耐杀王｜不教唆任何人od｜ed｜09｜女｜那刻夏gb梦女（过激）｜同价好似喵｜梦想是没有抗药性一直活在药效里直到死去…活着什么的真的很痛苦啊",
+        "id": "1994004560298561541",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2109229179443216533",
+        "name": "皖安",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994004560298561541/1766915412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005214640830373889/wIYlRd4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 55,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "wnn1318500",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

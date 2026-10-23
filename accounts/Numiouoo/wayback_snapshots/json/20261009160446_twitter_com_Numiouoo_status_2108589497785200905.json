@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2108589094825783317",
+    "created_at": "2026-10-09T16:04:46.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T17:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108589497785200905"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108589497785200905",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108589094825783317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且我喜欢用文字文骚扰人类 这就是为什么我一堆公众型社交账号且不喜欢私信只喜欢发文 糯米要是懒得打字纯躺平还好 但凡起身了就是要拉大的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2108589094825783317",
+        "created_at": "2026-10-09T16:04:46.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T17:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108589497785200905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108589497785200905",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108589094825783317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我喜欢用文字文骚扰人类 这就是为什么我一堆公众型社交账号且不喜欢私信只喜欢发文 糯米要是懒得打字纯躺平还好 但凡起身了就是要拉大的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2108589094825783317",
+        "created_at": "2026-10-09T16:03:10.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T17:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108589094825783317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108589094825783317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我知道我的语言系统很雷霆 从小就雷霆 \n我爷爷语言水平就很高 他养大的我 而我又不巧是个神经病所以变异了一下 导致优美的文笔变成了装屎的喷枪 腹泻般吐了出来\n\n我的语言表达时而如暴雨般倾泻而出流光溢彩 当我想愚弄自己的时候又会转成天雷滚滚之开创者 随随便便就说出一些让别人无法揣摩而又难以不阅读的东西\n\n说人话就是：不读浑身难受感觉错过了什么 仔细一读更难受了好像吃的是巧克力但是为何屎的味道我知道 ？\n\n我的语言逻辑超越人类 兼顾了屎与巧克力的不良性质 狗吃了会死人吃了也会吐\n\n还难以被模仿 甚至难以被阅读朗读\n写作文让阅卷老师或者同类写作爱好者感觉剧烈nb 但是真读起来发现很拗口 字面意义上的 读起来像在读古希腊文罗马拉丁搅出来的鬼画符 越读越想死 嘴上读起来打结 心里默读起来更是难以言说\n\n当然我上述文字也是在发挥这个风格 拉屎 顺手的事 开启人生美丽新一天 喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我的语言系统很雷霆 从小就雷霆 \n我爷爷语言水平就很高 他养大的我 而我又不巧是个神经病所以变异了一下 导致优美的文笔变成了装屎的喷枪 腹泻般吐了出来\n\n我的语言表达时而如暴雨般倾泻而出流光溢彩 当我想愚弄自己的时候又会转成天雷滚滚之开创者"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108589497785200905",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 962,
+          "like_count": 5100,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3718
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

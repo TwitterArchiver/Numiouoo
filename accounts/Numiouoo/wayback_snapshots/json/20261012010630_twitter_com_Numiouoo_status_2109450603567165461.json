@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2109420635848151316",
+    "created_at": "2026-10-12T01:06:30.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T02:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109450603567165461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109450603567165461",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109420635848151316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika 我也是如此 感官超敏这一块完全懂😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2109420635848151316",
+        "created_at": "2026-10-12T01:06:30.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T02:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109450603567165461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109450603567165461",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109420635848151316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika 我也是如此 感官超敏这一块完全懂😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597105235516076033",
+        "conversation_id": "2109420635848151316",
+        "created_at": "2026-10-11T23:07:25.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T00:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109420635848151316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109420635848151316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 228,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受 讨厌纸烟 味道 二手烟 焦油\n小时候感官超敏闻到一个微微的二手烟味就要去找抽烟的人骂走如果是在公共场合\n以为一手烟就没那么难闻\n直到刚刚用煤气灶点了半根The Peace（剪开了）\n焦油 烧纸 烟臭 尼古丁辣 扑面而来\n瞬间爆炸 白洗头了 去洗了个刘海抹了点精油漱了个口（连痰都是焦油）才好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109450603567165461",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 958,
+          "like_count": 5175,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3786
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名暴躁電鋸16齡章魚. ♡🍊@toukorina \nQtie一生推♡ゆんゆんゆんゆんゆんゆんゆんゆん\nNonBinaryAutigender+AutisticDHDyslexiaIntersex.\n沒腦子ㄉ滾開 隨機取關 po畫裏垢@ura_samuko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "toukorina"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "ura_samuko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL8X8i"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "is_identity_verified": false,
+        "location": "静岡県浜松市立広沢小学校",
+        "most_recent_tweet_id": "2109438122190868857",
+        "name": "たみこ🍊🐙🍼躁鬱幼幼章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597105235516076033/1790122859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102568889733545984/odhY-PtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 4547,
+          "like_count": 33067,
+          "listed_count": 0,
+          "media_count": 1718,
+          "tweet_count": 12307
+        },
+        "url": "https://t.co/uZF1kL8X8i",
+        "username": "TamikoTomorika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

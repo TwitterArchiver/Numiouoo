@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2110385649392206316",
+    "created_at": "2026-10-15T06:27:50.000Z",
+    "display_text_range": [
+      22,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T07:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110618634037186668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        },
+        {
+          "end": 21,
+          "id": "2081009888818278400",
+          "start": 9,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110618634037186668",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110385649392206316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 @JiGuang_Lab 这简直是完美人生的写照吧 精神上爽没边了 还能赶在年老体弱前去死 我做梦都不敢梦 活到六十我都觉得太久了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2110385646607204352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUmYkHUbAAAzpPs.jpg",
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2110385649392206316",
+        "created_at": "2026-10-15T06:27:50.000Z",
+        "display_text_range": [
+          22,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T07:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110618634037186668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            },
+            {
+              "end": 21,
+              "id": "2081009888818278400",
+              "start": 9,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110618634037186668",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110385649392206316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 @JiGuang_Lab 这简直是完美人生的写照吧 精神上爽没边了 还能赶在年老体弱前去死 我做梦都不敢梦 活到六十我都觉得太久了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110385646607204352"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2110385649392206316",
+        "created_at": "2026-10-14T15:02:02.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T16:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110385649392206316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcqBDo3huA",
+              "end": 43,
+              "expanded_url": "https://x.com/wsl8297/status/2110385649392206316/photo/1",
+              "media_key": "3_2110385646607204352",
+              "start": 20,
+              "url": "https://t.co/DcqBDo3huA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110385649392206316",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110385646607204352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 720353,
+          "like_count": 726,
+          "quote_count": 7,
+          "reply_count": 107,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "明星吸毒了几十年为什么从脸上看不出来？ https://t.co/DcqBDo3huA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110618634037186668",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 959,
+          "like_count": 5235,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3816
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110616414776369429",
+        "name": "Joruno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890029305205608448/1768743778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23719,
+          "following_count": 763,
+          "like_count": 27195,
+          "listed_count": 118,
+          "media_count": 6176,
+          "tweet_count": 25237
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n\n神农尝百草是为了追求极乐！ \n\n“这个世界存在着许多超出我们想象的存在”\n\n“去经历去学习成长自己也必须大胆前进”\n\nとあるメンヘラの戯言。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110610693456085017",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2102719457932247348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1790812111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105607558669250560/873kngKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3834,
+          "following_count": 3403,
+          "like_count": 1901,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

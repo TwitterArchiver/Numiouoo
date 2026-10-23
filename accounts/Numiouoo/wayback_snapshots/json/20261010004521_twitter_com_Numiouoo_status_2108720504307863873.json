@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2057737015958057252",
+    "created_at": "2026-10-10T00:45:21.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T01:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108720504307863873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533650309456596993",
+          "start": 0,
+          "username": "weed420nb420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108720504307863873",
+    "in_reply_to_user_id": "1533650309456596993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105906064529195025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weed420nb420 好哦 爱你嘿嘿ദ്ദി◝ ⩊ ◜.ᐟ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-10-10T00:45:21.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T01:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108720504307863873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533650309456596993",
+              "start": 0,
+              "username": "weed420nb420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108720504307863873",
+        "in_reply_to_user_id": "1533650309456596993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105906064529195025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weed420nb420 好哦 爱你嘿嘿ദ്ദി◝ ⩊ ◜.ᐟ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533650309456596993",
+        "conversation_id": "2057737015958057252",
+        "created_at": "2026-10-02T06:21:46.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105906064529195025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105906064529195025",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057737015958057252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 到lsd啦，快点叫上17一起哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108720504307863873",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 960,
+          "like_count": 5105,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-06T03:21:53.000Z",
+        "description": "🌿 🍃 大賞\n\nhttps://t.co/kIwgBfjw34",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/greensky",
+                "end": 31,
+                "expanded_url": "https://t.me/greensky",
+                "start": 8,
+                "url": "https://t.co/kIwgBfjw34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Greensky420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Greensky420",
+                "start": 0,
+                "url": "https://t.co/wFewFNiXb7"
+              }
+            ]
+          }
+        },
+        "id": "1533650309456596993",
+        "is_identity_verified": false,
+        "location": "nb420",
+        "most_recent_tweet_id": "2108635432561037532",
+        "name": "Greensky（✈️nb420）大麻",
+        "pinned_tweet_id": "2107532727260160119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533650309456596993/1779876966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048103414727667712/I3v2tKNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 411,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/wFewFNiXb7",
+        "username": "weed420nb420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

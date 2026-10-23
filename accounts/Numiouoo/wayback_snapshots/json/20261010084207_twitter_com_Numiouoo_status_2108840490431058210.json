@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2108512802260320431",
+    "created_at": "2026-10-10T08:42:07.000Z",
+    "display_text_range": [
+      22,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T09:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108840490431058210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        },
+        {
+          "end": 21,
+          "id": "1767795873654747136",
+          "start": 11,
+          "username": "izjing888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108840490431058210",
+    "in_reply_to_user_id": "94999172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108833897362661695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina @izjing888 我也觉得 很多addict耐受后毒品只能维持不死 但是手冲就算冲傻了高潮依旧有快感 人类好像把drugs看的太可怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2108512802260320431",
+        "created_at": "2026-10-10T08:42:07.000Z",
+        "display_text_range": [
+          22,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108840490431058210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            },
+            {
+              "end": 21,
+              "id": "1767795873654747136",
+              "start": 11,
+              "username": "izjing888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108840490431058210",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108833897362661695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina @izjing888 我也觉得 很多addict耐受后毒品只能维持不死 但是手冲就算冲傻了高潮依旧有快感 人类好像把drugs看的太可怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2108512802260320431",
+        "created_at": "2026-10-10T08:15:56.000Z",
+        "display_text_range": [
+          21,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108833897362661695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "1767795873654747136",
+              "start": 10,
+              "username": "izjing888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108833897362661695",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108833208804815286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @izjing888 男的还不太一样 不定期排解能把人憋死 而且有些毒吸多了到后期吸两口纯属保持活命状态 毫无快感可言 我觉得这啥所谓讲座纯瞎讲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108840490431058210",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 959,
+          "like_count": 5114,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3730
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender/最好取消性别. 退学phd gamedev. 🐙@TamikoTomorika. 你太NT了我给你送精神病院关∞个月. 随机社交. #ハッピーシュガーライフ ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2108840097034784803",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7452,
+          "following_count": 934,
+          "like_count": 180665,
+          "listed_count": 19,
+          "media_count": 1587,
+          "tweet_count": 45993
+        },
+        "url": "",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T06:13:11.000Z",
+        "description": "我叫王发财，我希望大家都发财\n幽默段子手|暴论制造机|冷知识专家|情感专家",
+        "id": "1767795873654747136",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2108837440505200741",
+        "name": "王发财",
+        "pinned_tweet_id": "2107244449650602397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767795873654747136/1783605531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075235160585547776/bpn5wfeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12618,
+          "following_count": 7454,
+          "like_count": 5771,
+          "listed_count": 19,
+          "media_count": 2240,
+          "tweet_count": 12027
+        },
+        "url": "",
+        "username": "izjing888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

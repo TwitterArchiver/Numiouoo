@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057729979677548544",
+    "conversation_id": "2108999283970338836",
+    "created_at": "2026-10-11T12:45:40.000Z",
+    "display_text_range": [
+      16,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T13:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109264166678904926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088823399493906433",
+          "start": 0,
+          "username": "QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109264166678904926",
+    "in_reply_to_user_id": "2088823399493906433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108999283970338836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_8964_ 芊芊宝宝🥺🥺😭😭抱抱你 你也一定会跟爱人紧密相连的 我们曾经也等待了很久 但幸福一定会到来的🥺爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2108999283970338836",
+        "created_at": "2026-10-11T12:45:40.000Z",
+        "display_text_range": [
+          16,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109264166678904926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088823399493906433",
+              "start": 0,
+              "username": "QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109264166678904926",
+        "in_reply_to_user_id": "2088823399493906433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108999283970338836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964_ 芊芊宝宝🥺🥺😭😭抱抱你 你也一定会跟爱人紧密相连的 我们曾经也等待了很久 但幸福一定会到来的🥺爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088823399493906433",
+        "conversation_id": "2108999283970338836",
+        "created_at": "2026-10-10T19:13:07.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T20:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108999283970338836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108999283970338836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好難受呀。大半夜的看到那個糯米17他俩在那膩膩歪歪的我真的好想哭呀。好羨慕呀。。我好嫉妒呀。我也好想跟愛人待在一起嗑药系度瘋狂做愛然後直到永遠都不分開吧。不管是做什麼都好只要在一起就可以了。只要有你在我身邊就好了。。。。求你了實現吧實現吧實現吧什麼代價我都願意啊。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\nPsycho🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️精活物质&行为测评/减害研究/推举自律自由🩵互动眼熟回fo(互关重生请直接d我!)🩵I'm non-binary友跨友全部🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109264166678904926",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 960,
+          "like_count": 5140,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 3771
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MTK7"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "我在你身後👁️",
+        "most_recent_tweet_id": "2109263753208570317",
+        "name": ":3",
+        "pinned_tweet_id": "2091134671627391117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088823399493906433/1789439828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 17,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/mDDFP5MTK7",
+        "username": "QianQian_8964_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
